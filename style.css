@@ -16,3 +16,10 @@
   display: table;
   clear: both;
 }
+
+.container {
+  
+  /*font: 1.2em sans-serif;*/
+  display: grid;
+  place-items: center;
+}
