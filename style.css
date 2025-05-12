@@ -1,17 +1,18 @@
-.item {
-  border: 2px solid rgb(95 97 110);
-  border-radius: 0.5em;
-  padding: 20px;
-  width: 10em;
+.column {
+  float: left;
 }
 
-.container {
-  border: 2px solid rgb(75 70 74);
-  border-radius: 0.5em;
-  font: 1.2em sans-serif;
+.left, .right {
+  width: 12.5%;
+}
 
-  height: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.middle {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
