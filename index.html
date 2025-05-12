@@ -6,28 +6,12 @@
       h1   {color: blue;
             font-family: garamond;
            }
-      .column {
-        float: left;
-      }
       
-      .left, .right {
-        width: 12.5%;
-      }
-      
-      .middle {
-        width: 75%;
-      }
-      
-      .row:after {
-        content: "";
-        display: table;
-        clear: both;
-      }
-      
-      .container {
+      .maincolumn {
         display: flex;
         align-items: center;
         justify-content: center;
+        width: 75%
       }
 
     </style>
@@ -37,13 +21,10 @@
   <body> 
     <h1>hello</h1>
     
-    <div class="row">
-      <div class="column"> left </div>
-      <div class="container">
+   
+      <div class="maincolumn">
           <div class="flourish-embed flourish-chart" data-src="visualisation/23137619"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23137619/thumbnail" width="50%" alt="chart visualization" /></noscript></div>
       </div>
-      <div class="column"> right </div>
-    </div>
     
   </body> 
 </html>
