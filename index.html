@@ -1,18 +1,43 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+
+    <style>
+      h1   {color: blue;
+            font-family: garamond;
+           }
+      .column {
+        float: left;
+      }
+      
+      .left, .right {
+        width: 12.5%;
+      }
+      
+      .middle {
+        width: 75%;
+      }
+      
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+    </style>
+    
   </head>
   
   <body> 
     <h1>hello</h1>
     
-   
-    <div class="column"></div>
-    <div class="column">
-        <div class="flourish-embed flourish-chart" data-src="visualisation/23137619"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23137619/thumbnail" width="50%" alt="chart visualization" /></noscript></div>
+    <div class="row">
+      <div class="column"> left </div>
+      <div class="column">
+          <div class="flourish-embed flourish-chart" data-src="visualisation/23137619"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/23137619/thumbnail" width="50%" alt="chart visualization" /></noscript></div>
+      </div>
+      <div class="column"> right </div>
     </div>
-    <div class="column"></div>
-
     
   </body> 
 </html>
