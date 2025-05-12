@@ -1,6 +1,13 @@
 .column {
   float: left;
-  width: 50%;
+}
+
+.left, .right {
+  width: 12.5%;
+}
+
+.middle {
+  width: 75%;
 }
 
 /* Clear floats after the columns */
