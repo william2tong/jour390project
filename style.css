@@ -1,6 +1,17 @@
+.item {
+  border: 2px solid rgb(95 97 110);
+  border-radius: 0.5em;
+  padding: 20px;
+  width: 10em;
+}
+
 .container {
-  
-  /*font: 1.2em sans-serif;*/
-  display: grid;
-  place-items: center;
+  border: 2px solid rgb(75 70 74);
+  border-radius: 0.5em;
+  font: 1.2em sans-serif;
+
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
