@@ -27,10 +27,8 @@ with ui.sidebar(title="Filter controls"):
     )
     
 
-
-
 with ui.layout_column_wrap(fill=False):
-    with ui.value_box(showcase=icon_svg("earlybirds")):
+    with ui.value_box(showcase=icon_svg("building-columns")):
         "Number of requests"
 
 
@@ -41,7 +39,7 @@ with ui.layout_column_wrap(fill=False):
 
             return filtered_df().shape[0]
 
-    with ui.value_box(showcase=icon_svg("ruler-horizontal")):
+    with ui.value_box(showcase=icon_svg("clock")):
         "Average completion time"
 
 
@@ -61,7 +59,7 @@ with ui.layout_column_wrap(fill=False):
             return f"{(sum(converted)/len(converted)):.1f} days"
 
     
-    with ui.value_box(showcase=icon_svg("ruler-vertical")):
+    with ui.value_box(showcase=icon_svg("envelope")):
         "Most Common Response"
 
         @render.text
@@ -92,7 +90,7 @@ with ui.layout_columns():
         def length_depth():
 
             if type(filtered_df()) == str:
-                return 'N/A'
+                return
 
             plot = sns.barplot(
                 data=agency_status[agency_status['Agency'] == input.agency()],
@@ -103,7 +101,7 @@ with ui.layout_columns():
 
             #read off google's ai generated code because other top search results weren't getting at this question 
             labels = [textwrap.fill(label.get_text(), 10) for label in plot.get_xticklabels()]
-            plot.set_xticklabels(labels)
+            plot.set_xticklabels(labels, fontsize=5)
 
             return plot
 
@@ -114,7 +112,7 @@ with ui.layout_columns():
         def summary_statistics():
 
             if type(filtered_df()) == str:
-                return 'N/A'
+                return
             cols = [
                 "Customer Full Name",
                 "Company Name",
