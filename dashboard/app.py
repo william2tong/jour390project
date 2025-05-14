@@ -96,12 +96,15 @@ with ui.layout_columns():
                 data=agency_status[agency_status['Agency'] == input.agency()],
                 x="Status",
                 y="Number",
-                hue="Status",
+                #hue="Status",
             )
 
             #read off google's ai generated code because other top search results weren't getting at this question 
+            plot.bar_label(plot.containers[0])
             labels = [textwrap.fill(label.get_text(), 10) for label in plot.get_xticklabels()]
             plot.set_xticklabels(labels, fontsize=5)
+
+            
 
             return plot
 
