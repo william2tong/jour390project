@@ -4,7 +4,7 @@ import json
 import pandas as pd
 
 app_dir = Path(__file__).parent
-tips = pd.read_csv(app_dir / "tips.csv")
+
 
 foia_df = pd.read_csv(app_dir / "0feds.csv")
 

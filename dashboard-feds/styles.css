@@ -10,3 +10,19 @@
 .popover .btn-close {
   filter: var(--bs-btn-close-white-filter);
 }
+
+.value-box-title.html-fill-item.html-fill-container {
+  font-size: medium;
+}
+
+#general_request_times {
+  font-size: large;
+}
+
+#granted_request_times {
+  font-size: large;
+}
+
+#processing_costs {
+  font-size: large;
+}
