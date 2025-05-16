@@ -27,7 +27,7 @@ with ui.sidebar(title="Filter controls"):
         ],
     )
 
-    "Note: Finance Department status data came as exemption labels"
+    "Note: Finance Department status data came as exemption labels. Exemptions may have accompanied partial disclosure, and no exemptions doesn't automatically imply full request grant."
     
 
 with ui.layout_column_wrap(fill=False):
