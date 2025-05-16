@@ -93,7 +93,7 @@ with ui.layout_columns(fill=False):
                     f'No data for {input.year()}'
             
 
-    with ui.value_box(showcase=fa.icon_svg("envelope")):
+    with ui.value_box(showcase=fa.icon_svg("envelope-open-text")):
         @render.text
         def header3():
             if input.year():
