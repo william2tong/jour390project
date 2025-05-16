@@ -22,9 +22,12 @@ with ui.sidebar(title="Filter controls"):
         [
             "None",
             "Public Health Department",
-            "Business Affairs and Consumer Protection Department"
+            "Business Affairs and Consumer Protection Department",
+            "Finance Department"
         ],
     )
+
+    "Note: Finance Department status data came as exemption labels"
     
 
 with ui.layout_column_wrap(fill=False):
@@ -120,7 +123,6 @@ with ui.layout_columns():
                 "Customer Full Name",
                 "Company Name",
                 "Create Date",
-                "Required Completion Date",
                 "Summary",
                 "Close Date",
                 "Completion Time",

@@ -10,6 +10,8 @@ foia_df = pd.read_csv(app_dir / "feds.csv")
 
 foia_collapsed_df = pd.read_csv(app_dir / "feds_collapsed.csv")
 
+overall_quarterly_df = pd.read_csv(app_dir / "Overall_Quarterly.csv")
+
 agency_abbreviations_raw = open(app_dir / '0agencies.json', 'r')
 agency_abbreviations = json.load(agency_abbreviations_raw)
 
