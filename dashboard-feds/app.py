@@ -78,7 +78,7 @@ ICONS = {
 
     
 with ui.layout_columns(fill=False):
-    with ui.value_box(showcase=ICONS["user"]):
+    with ui.value_box(showcase=fa.icon_svg("clock")):
         @render.text
         def header2():
             if input.year():
@@ -93,7 +93,7 @@ with ui.layout_columns(fill=False):
                     f'No data for {input.year()}'
             
 
-    with ui.value_box(showcase=ICONS["wallet"]):
+    with ui.value_box(showcase=fa.icon_svg("envelope")):
         @render.text
         def header3():
             if input.year():
