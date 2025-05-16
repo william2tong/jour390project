@@ -122,7 +122,6 @@ with ui.layout_columns(fill=False):
             if input.agency() and input.year():
                 try:
                     f"${narrow_data()['processing_cost'][int(input.year())]:.2f}"
-                    f"{input.compare()}"
                 except: 
                     f'No data for {input.year()}'
 
