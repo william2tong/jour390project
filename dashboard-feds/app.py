@@ -82,13 +82,13 @@ with ui.layout_columns(fill=False):
         @render.text
         def header2():
             if input.year():
-                return f"Overall response time for {input.year()}"
+                return f"Overall response times for {input.year()}"
 
         @render.express
         def general_request_times():
             if input.agency() and input.year():
                 try:
-                    f"Simple: {narrow_data()['general_simple_average'][int(input.year())]} | Complex: {narrow_data()['general_complex_average'][int(input.year())]}" 
+                    f"Simple: {float(narrow_data()['general_simple_average'].loc[narrow_data()['year'] == int(input.year())].iloc[0])} | Complex: {float(narrow_data()['general_complex_average'].loc[narrow_data()['year'] == int(input.year())].iloc[0])}" 
                 except:
                     f'No data for {input.year()}'
             
@@ -103,7 +103,7 @@ with ui.layout_columns(fill=False):
         def granted_request_times():
             if input.agency() and input.year():
                 try: 
-                    f"Simple: {narrow_data()['granted_simple_average'][int(input.year())]} | Complex: {narrow_data()['granted_complex_average'][int(input.year())]}"
+                    f"Simple: {float(narrow_data()['granted_simple_average'].loc[narrow_data()['year'] == int(input.year())].iloc[0])} | Complex: {float(narrow_data()['granted_complex_average'].loc[narrow_data()['year'] == int(input.year())].iloc[0])}"
                 except:
                     f'No data for {input.year()}'
             
@@ -154,6 +154,7 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
                 return
             ind = 0
             data = narrow_data_plot()
+            data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
             if 'General requests' in list(input.view())[ind]:
                 filtered_data = data.loc[data['field'].isin(['pending_start_year', 'pending_end_year', 'received_year', 'processed_year'])]
             elif 'Dispositions' in list(input.view())[ind]:
@@ -177,9 +178,10 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
 
                        
             return px.line(
-                x=ecks,
-                y=why,
-                color=cats
+                filtered_data,
+                x="year",
+                y="value",
+                color="field"
             )
 
     with ui.card(full_screen=True):
@@ -215,6 +217,7 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
                 return
             ind = 1
             data = narrow_data_plot()
+            data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
             if 'General requests' in list(input.view())[ind]:
                 filtered_data = data.loc[data['field'].isin(['pending_start_year', 'pending_end_year', 'received_year', 'processed_year'])]
             elif 'Dispositions' in list(input.view())[ind]:
@@ -238,9 +241,10 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
 
                        
             return px.line(
-                x=ecks,
-                y=why,
-                color=cats
+                filtered_data,
+                x="year",
+                y="value",
+                color="field"
             )
 #kind of takes up too much space anyway? also I need to work on dfir soooo 
 
@@ -250,7 +254,7 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
 #         def header1():
 #             if input.year() and input.agency() and input.compare():
 #                 sorted = narrow_data_comp()
-#                 sorted['value'].apply(pandas.to_numeric, errors='coerce')
+#                 sorted['value'] = sorted['value'].apply(pandas.to_numeric, errors='coerce')
 #                 sorted = sorted.sort_values(by=['value'], ascending=False).copy() 
 
 #                 return f"Ranking for {input.year()}: {sorted.values.to_list().index(agency_abbreviations_reverse(input.agency()))}"
@@ -260,7 +264,7 @@ with ui.layout_columns(col_widths=[6, 6, 12]):
 #         if not input.compare() or not input.year() or not input.agency():
 #             return
 #         sorted = narrow_data_comp()
-#         sorted.apply(pandas.to_numeric, errors='coerce')
+#         sorted['value'] = sorted.apply(pandas.to_numeric, errors='coerce')
 #         sorted = sorted.sort_values(by=['value'], ascending=False)
 
 #         return render.DataGrid(sorted, filters=True)
@@ -277,7 +281,7 @@ def narrow_data():
     agency = input.agency()
     view = input.view()
 
-    inter = foia_df[foia_df["year"] == agency_abbreviations_reverse[agency]]
+    inter = foia_df[foia_df["agency"] == agency_abbreviations_reverse[agency]]
 
     return inter
 
@@ -286,7 +290,6 @@ def narrow_data():
 def narrow_data_plot():
     agency = input.agency()
     ret = foia_collapsed_df.loc[foia_collapsed_df['agency'] == agency_abbreviations_reverse[agency]]
-    
     return ret
 
 @reactive.calc
