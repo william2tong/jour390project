@@ -266,15 +266,18 @@ with ui.nav_panel("Individual Agencies"):
                     why = [] 
                     for val in list(filtered_data['value']):
                         why.append(float(val))
-                    cats = list(filtered_data['field'])
-
-                            
-                    return px.line(
+                    graph = px.line(
                         filtered_data,
                         x="year",
                         y="value",
                         color="field"
                     )
+
+                    graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+
+
+                            
+                    return graph
     #kind of takes up too much space anyway? also I need to work on dfir soooo 
 
     # with ui.card(full_screen=True):
