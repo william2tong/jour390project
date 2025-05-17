@@ -22,9 +22,9 @@ ui.page_opts(title="Federal FOIA Dashboard", fillable=False, page_fn=partial(pag
 with ui.nav_panel("All Agencies"):
     with ui.layout_sidebar():
         with ui.sidebar(open="desktop"):
-            'Click the Individual Agencies tab to learn more about FOIA administration for each agency'
+            'Click the "Individual Agencies" tab to learn more about FOIA administration for each agency'
             # ui.input_select("view", 
-            #                 "Choose view (hold ctrl or cmd to select multiple)",
+            #                 "Choose view (hold ctrl or cmd to select up to two)",
             #                 ["General requests", 
             #                 "Dispositions",
             #                 "Processing Times", 
@@ -54,13 +54,21 @@ with ui.nav_panel("All Agencies"):
 with ui.nav_panel("Individual Agencies"): 
     with ui.layout_sidebar():
         with ui.sidebar(open="desktop"):
+            available_agencies = list(agency_abbreviations_reverse.keys())
+            available_agencies.remove("Department of Defense")
             ui.input_selectize("agency", 
-                            "Choose an agency",
-                            list(agency_abbreviations_reverse.keys()),
+                            "Choose an agency (backspace first before searching )",
+                            available_agencies,
                             selected=None,
                             )
+            ui.input_select("year", 
+                            "Choose year for top-level display",
+                            years,
+                            multiple=False,
+                            size=4
+                            )
             ui.input_select("view", 
-                            "Choose view (hold ctrl or cmd to select multiple)",
+                            "Choose view (hold ctrl or cmd to select up to two)",
                             ["General requests", 
                             "Dispositions",
                             "Processing Times", 
@@ -94,12 +102,7 @@ with ui.nav_panel("Individual Agencies"):
             #                 multiple=False,
             #                 size=4
             #                 )
-            ui.input_select("year", 
-                            "Choose year for comparison",
-                            years,
-                            multiple=False,
-                            size=4
-                            )
+            
         with ui.layout_columns(fill=False):
             with ui.value_box(showcase=fa.icon_svg("clock")):
                 @render.text
@@ -339,14 +342,14 @@ def get_mid_header(ind):
         return None
 
     if 'General requests' in input.view()[ind]:
-        return "General data about requests"
+        return "General data about requests" + ' (double click on a legend field to exclusively select it)'
     elif 'Dispositions' in input.view()[ind]:
-        return "Disposition data"
+        return "Disposition data" + ' (double click on a legend field to exclusively select it)'
     elif 'Processing Times' in input.view()[ind]:
-        return "Processing time data"
+        return "Processing time data" + ' (double click on a legend field to exclusively select it)'
     elif 'Exemptions' in input.view()[ind]:
-        return "Exemption data"
+        return "Exemption data" + ' (double click on a legend field to exclusively select it)'
     elif 'Staff' in input.view()[ind]:
-        return "Staff data"
+        return "Staff data" + ' (double click on a legend field to exclusively select it)'
     elif 'Costs' in input.view()[ind]:
-        return "Cost data"
+        return "Cost data" + ' (double click on a legend field to exclusively select it)'
