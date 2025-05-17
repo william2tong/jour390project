@@ -216,71 +216,71 @@ with ui.nav_panel("Individual Agencies"):
                             
                     return graph
 
-            with ui.card(full_screen=True):
-                with ui.card_header(class_="d-flex justify-content-between align-items-center"):
-                    @render.text
-                    def show_header2():
-                        if not input.view() or not input.agency():
-                            return
-                        elif len(list(input.view())) == 1:
-                            return
-                        else:
-                            if 'General requests' in list(input.view())[1]: 
-                                return f'General request data'
-                            elif 'Dispositions' in list(input.view())[1]:
-                                return f'Disposition data'
-                            elif 'Processing Times' in list(input.view())[1]:
-                                return f'Processing time data'
-                            elif 'Exemptions' in list(input.view())[1]:
-                                return f'Exemption data'
-                            elif 'Costs' in list(input.view())[1]:
-                                return f'Cost data'
-                            elif 'Staff' in list(input.view())[1]:
-                                return f'Staff data'
+            # with ui.card(full_screen=True):
+            #     with ui.card_header(class_="d-flex justify-content-between align-items-center"):
+            #         @render.text
+            #         def show_header2():
+            #             if not input.view() or not input.agency():
+            #                 return
+            #             elif len(list(input.view())) == 1:
+            #                 return
+            #             else:
+            #                 if 'General requests' in list(input.view())[1]: 
+            #                     return f'General request data'
+            #                 elif 'Dispositions' in list(input.view())[1]:
+            #                     return f'Disposition data'
+            #                 elif 'Processing Times' in list(input.view())[1]:
+            #                     return f'Processing time data'
+            #                 elif 'Exemptions' in list(input.view())[1]:
+            #                     return f'Exemption data'
+            #                 elif 'Costs' in list(input.view())[1]:
+            #                     return f'Cost data'
+            #                 elif 'Staff' in list(input.view())[1]:
+            #                     return f'Staff data'
                         
                     
                     
                 
-                @render_plotly
-                def lineplot2():
-                    if not input.view() or not input.agency():
-                        return
-                    elif len(list(input.view())) == 1:
-                        return
-                    ind = 1
-                    data = narrow_data_plot()
-                    data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
-                    if 'General requests' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['pending_start_year', 'pending_end_year', 'received_year', 'processed_year'])]
-                    elif 'Dispositions' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['duplicate_request','fee_related,full_denial','full_grants','improper_request_other_reason','not_agency_record','other','partially_granted','records_not_described','referred_to_other_agency', 'withdrawn'])]
-                    elif 'Processing Times' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['general_complex_average', 'general_simple_average', 'general_expedited_average', 'granted_complex_average', 'granted_simple_average', 'granted_expedited_average'])]
-                    elif 'Exemptions' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['exemption_1', 'exemption_2','exemption_3','exemption_4','exemption_5','exemption_6', 'exemption_7a', 'exemption_7b', 'exemption_7c','exemption_7d','exemption_7e', 'exemption_7f', 'exemption_8', 'exemption_9',])]
-                    elif 'Costs' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['litigation_cost', 'processing_cost', 'total_cost'])]
-                    elif 'Staff' in list(input.view())[ind]:
-                        filtered_data = data.loc[data['field'].isin(['total_staff'])]
+            #     @render_plotly
+            #     def lineplot2():
+            #         if not input.view() or not input.agency():
+            #             return
+            #         elif len(list(input.view())) == 1:
+            #             return
+            #         ind = 1
+            #         data = narrow_data_plot()
+            #         data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
+            #         if 'General requests' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['pending_start_year', 'pending_end_year', 'received_year', 'processed_year'])]
+            #         elif 'Dispositions' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['duplicate_request','fee_related,full_denial','full_grants','improper_request_other_reason','not_agency_record','other','partially_granted','records_not_described','referred_to_other_agency', 'withdrawn'])]
+            #         elif 'Processing Times' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['general_complex_average', 'general_simple_average', 'general_expedited_average', 'granted_complex_average', 'granted_simple_average', 'granted_expedited_average'])]
+            #         elif 'Exemptions' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['exemption_1', 'exemption_2','exemption_3','exemption_4','exemption_5','exemption_6', 'exemption_7a', 'exemption_7b', 'exemption_7c','exemption_7d','exemption_7e', 'exemption_7f', 'exemption_8', 'exemption_9',])]
+            #         elif 'Costs' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['litigation_cost', 'processing_cost', 'total_cost'])]
+            #         elif 'Staff' in list(input.view())[ind]:
+            #             filtered_data = data.loc[data['field'].isin(['total_staff'])]
 
-                    ecks = [] 
-                    for val in list(filtered_data['year']): 
-                        ecks.append(float(val))
-                    why = [] 
-                    for val in list(filtered_data['value']):
-                        why.append(float(val))
-                    graph = px.line(
-                        filtered_data,
-                        x="year",
-                        y="value",
-                        color="field"
-                    )
+            #         ecks = [] 
+            #         for val in list(filtered_data['year']): 
+            #             ecks.append(float(val))
+            #         why = [] 
+            #         for val in list(filtered_data['value']):
+            #             why.append(float(val))
+            #         graph = px.line(
+            #             filtered_data,
+            #             x="year",
+            #             y="value",
+            #             color="field"
+            #         )
 
-                    graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+            #         graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
 
 
                             
-                    return graph
+            #         return graph
     #kind of takes up too much space anyway? also I need to work on dfir soooo 
 
     # with ui.card(full_screen=True):
