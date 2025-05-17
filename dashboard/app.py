@@ -23,7 +23,8 @@ with ui.sidebar(title="Filter controls"):
             "None",
             "Public Health Department",
             "Business Affairs and Consumer Protection Department",
-            "Finance Department"
+            "Finance Department",
+            "Procurement Services Department"
         ],
     )
 
@@ -53,7 +54,7 @@ with ui.layout_column_wrap(fill=False):
                 return 'N/A'
 
             converted = []
-            for s in filtered_df()['Completion Time (rounded)']:
+            for s in filtered_df()['Completion Time']:
                 if re.fullmatch('^\d*\.?\d*$', str(s)):
                     converted.append(float(s))
             if converted == []:
@@ -126,7 +127,6 @@ with ui.layout_columns():
                 "Summary",
                 "Close Date",
                 "Completion Time",
-                "Completion Time (rounded)",
                 "Request Status"
             ]
             return render.DataGrid(filtered_df()[cols], filters=True)
