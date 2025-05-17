@@ -11,7 +11,7 @@ from shiny.express import input, render, ui
 
 
 
-ui.page_opts(title="Chicago FOIA dashboard (2024-2025 requests)", fillable=True)
+ui.page_opts(title="Chicago FOIA dashboard (Requests filed 2024-2025)", fillable=True)
 
 
 with ui.sidebar(title="Filter controls"):
