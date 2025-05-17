@@ -68,14 +68,14 @@ with ui.nav_panel("Individual Agencies"):
                             size=4
                             )
             ui.input_select("view", 
-                            "Choose view (hold ctrl or cmd to select up to two)",
+                            "Choose view",
                             ["General requests", 
                             "Dispositions",
                             "Processing Times", 
                             "Exemptions",
                             "Costs",
                             "Staff"],
-                            multiple=True,
+                            multiple=False,
                             size=4
                             )
             # ui.input_select("compare", 
