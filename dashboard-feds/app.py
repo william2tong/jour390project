@@ -23,17 +23,21 @@ with ui.nav_panel("All Agencies"):
     with ui.layout_sidebar():
         with ui.sidebar(open="desktop"):
             'Click the "Individual Agencies" tab to learn more about FOIA administration for each agency'
-            # ui.input_select("view", 
-            #                 "Choose view (hold ctrl or cmd to select up to two)",
-            #                 ["General requests", 
-            #                 "Dispositions",
-            #                 "Processing Times", 
-            #                 "Exemptions",
-            #                 "Costs",
-            #                 "Staff"],
-            #                 multiple=True,
-            #                 size=4
-            # )
+            ui.input_select("view0", 
+                            "Choose view",
+                            ["General requests", 
+                             "Staff vs. processing time"
+                            ],
+                            multiple=False,
+                            size=4
+            )
+            
+            ui.input_select("staffing_view", 
+                    "Choose view for staff vs. processing time",
+                    {'general_complex_average': 'General complex request average', 'general_simple_average': 'General simple request average', 'general_expedited_average': 'General expedited request average', 'granted_complex_average': 'Granted complex request average', 'granted_simple_average': 'Granted simple request average', 'granted_expedited_average': 'Granted expedited request average'},
+                    multiple=False,
+                    size=4
+                )
 
         with ui.card(full_screen=True):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
@@ -41,16 +45,31 @@ with ui.nav_panel("All Agencies"):
                     
             @render_plotly
             def lineplot3():
-                
-                filtered_data = overall_quarterly_df
+                if not input.view0():
+                    return
+                elif 'General requests' in input.view0():
+                    filtered_data = overall_quarterly_df
 
-                return px.line(
-                    filtered_data,
-                    x="FY with decimal",
-                    y="Value",
-                    color="Field",
-                    labels={"FY with decimal": "Fiscal year and quarter", "Value": "Number of requests", "Field": "Key"}
-                )
+                    return px.line(
+                        filtered_data,
+                        x="FY with decimal",
+                        y="Value",
+                        color="Field",
+                        labels={"FY with decimal": "Fiscal year and quarter", "Value": "Number of requests", "Field": "Key"}
+                    )
+                elif 'Staff vs. processing time' in input.view0():
+                    if not input.staffing_view():
+                        return
+                    else: 
+                        filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
+                        filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
+                        return px.scatter(
+                            filtered_data,
+                            x="total_staff",
+                            y=str(input.staffing_view()),
+                            labels={"total_staff": "Total Staff"}
+                        )
+                    
             
 with ui.nav_panel("Individual Agencies"): 
     with ui.layout_sidebar():
@@ -181,7 +200,6 @@ with ui.nav_panel("Individual Agencies"):
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
-                ind = 0
                 data = narrow_data_plot()
                 data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
                 lbls = {}
