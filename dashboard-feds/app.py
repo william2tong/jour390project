@@ -34,7 +34,7 @@ with ui.nav_panel("All Agencies"):
             
             ui.input_select("staffing_view", 
                     "Choose view for staff vs. processing time",
-                    {'general_complex_average': 'General complex request average', 'general_simple_average': 'General simple request average', 'general_expedited_average': 'General expedited request average', 'granted_complex_average': 'Granted complex request average', 'granted_simple_average': 'Granted simple request average', 'granted_expedited_average': 'Granted expedited request average'},
+                    {'general_complex_average': 'General complex request average', 'general_simple_average': 'General simple request average', 'granted_complex_average': 'Granted complex request average', 'granted_simple_average': 'Granted simple request average'},
                     multiple=False,
                     size=4
                 )
