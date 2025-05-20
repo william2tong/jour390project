@@ -249,8 +249,6 @@ with ui.nav_panel("Individual Agencies"):
                 )
 
                 graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
-
-
                         
                 return graph
 
@@ -343,7 +341,7 @@ with ui.nav_panel("Individual Agencies"):
     #         return render.DataGrid(sorted, filters=True)
 
 
-# ui.include_css(app_dir / "styles.css")
+    ui.include_css(app_dir / "styles.css")
 
 # # --------------------------------------------------------
 # # Reactive calculations and effects
