@@ -50,7 +50,7 @@ with ui.nav_panel("All Agencies"):
                 elif 'General requests' in input.view0():
                     filtered_data = overall_quarterly_df
 
-                    return px.line(
+                    px.line(
                         filtered_data,
                         x="FY with decimal",
                         y="Value",
@@ -63,7 +63,7 @@ with ui.nav_panel("All Agencies"):
                     else: 
                         filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
                         filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
-                        return px.scatter(
+                        px.scatter(
                             filtered_data,
                             x="total_staff",
                             y=str(input.staffing_view()),
