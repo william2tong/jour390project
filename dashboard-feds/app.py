@@ -196,7 +196,7 @@ with ui.nav_panel("Individual Agencies"):
                         elif 'Staff' in input.view():
                             return f'Staff data'
                     
-            @render_widget
+            @render.express
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
@@ -240,7 +240,7 @@ with ui.nav_panel("Individual Agencies"):
                             "field": "Key"
                             }
                 
-                return px.line(
+                px.line(
                     filtered_data,
                     x="year",
                     y="value",
@@ -250,7 +250,7 @@ with ui.nav_panel("Individual Agencies"):
 
                 #graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
                         
-                return graph
+                #return graph
 
             # with ui.card(full_screen=True):
             #     with ui.card_header(class_="d-flex justify-content-between align-items-center"):
