@@ -42,33 +42,10 @@ with ui.nav_panel("All Agencies"):
         with ui.card(full_screen=True):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
-                    
+
             @render_plotly
             def lineplot3():
-                if not input.view0():
-                    return
-                elif 'General requests' in input.view0():
-                    filtered_data = overall_quarterly_df
-
-                    return px.line(
-                        filtered_data,
-                        x="FY with decimal",
-                        y="Value",
-                        color="Field",
-                        labels={"FY with decimal": "Fiscal year and quarter", "Value": "Number of requests", "Field": "Key"}
-                    )
-                elif 'Staff vs. processing time' in input.view0():
-                    if not input.staffing_view():
-                        return
-                    else: 
-                        filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
-                        filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
-                        return px.scatter(
-                            filtered_data,
-                            x="total_staff",
-                            y=str(input.staffing_view()),
-                            labels={"total_staff": "Total Staff"}
-                        )
+                return page1_graph()
                     
             
 with ui.nav_panel("Individual Agencies"): 
@@ -195,7 +172,7 @@ with ui.nav_panel("Individual Agencies"):
                             return f'Cost data'
                         elif 'Staff' in input.view():
                             return f'Staff data'
-                    
+            
             @render_plotly
             def lineplot1():
                 if not input.view() or not input.agency():
@@ -348,6 +325,36 @@ with ui.nav_panel("Individual Agencies"):
 # # --------------------------------------------------------
 # # Reactive calculations and effects
 # # --------------------------------------------------------
+
+
+
+@reactive.calc
+def page1_graph():
+    if not input.view0():
+        return
+    elif 'General requests' in input.view0():
+        filtered_data = overall_quarterly_df
+
+        return px.line(
+            filtered_data,
+            x="FY with decimal",
+            y="Value",
+            color="Field",
+            labels={"FY with decimal": "Fiscal year and quarter", "Value": "Number of requests", "Field": "Key"}
+        )
+    elif 'Staff vs. processing time' in input.view0():
+        if not input.staffing_view():
+            return
+        else: 
+            filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
+            filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
+            return px.scatter(
+                filtered_data,
+                x="total_staff",
+                y=str(input.staffing_view()),
+                labels={"total_staff": "Total Staff"}
+            )
+
 
 @reactive.calc
 def narrow_data():
