@@ -5,7 +5,7 @@ import pandas
 
 # Load data and compute static values
 from shared import app_dir, tips, foia_df, agency_abbreviations, agency_abbreviations_reverse, foia_collapsed_df, overall_quarterly_df
-from shinywidgets import render_plotly, render_widget
+from shinywidgets import render_plotly
 from functools import partial
 
 from shiny import reactive, render
@@ -43,7 +43,7 @@ with ui.nav_panel("All Agencies"):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
                     
-            @render_widget
+            @render_plotly
             def lineplot3():
                 if not input.view0():
                     return
@@ -63,7 +63,6 @@ with ui.nav_panel("All Agencies"):
                     else: 
                         filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
                         filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
-                        
                         return px.scatter(
                             filtered_data,
                             x="total_staff",
@@ -182,7 +181,7 @@ with ui.nav_panel("Individual Agencies"):
                 @render.text
                 def show_header1():
                     if not input.view() or not input.agency():
-                        pass
+                        return
                     else:
                         if 'General requests' in input.view(): 
                             return f'General request data'
@@ -250,6 +249,8 @@ with ui.nav_panel("Individual Agencies"):
                 )
 
                 graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+
+
                         
                 return graph
 
@@ -342,7 +343,7 @@ with ui.nav_panel("Individual Agencies"):
     #         return render.DataGrid(sorted, filters=True)
 
 
-    #ui.include_css(app_dir / "styles.css")
+# ui.include_css(app_dir / "styles.css")
 
 # # --------------------------------------------------------
 # # Reactive calculations and effects
@@ -390,4 +391,3 @@ def get_mid_header(ind):
         return "Staff data" + ' (double click on a legend field to exclusively select it)'
     elif 'Costs' in input.view()[ind]:
         return "Cost data" + ' (double click on a legend field to exclusively select it)'
-
