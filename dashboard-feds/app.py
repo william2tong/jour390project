@@ -46,11 +46,11 @@ with ui.nav_panel("All Agencies"):
             @render.express
             def lineplot3():
                 if not input.view0():
-                    pass
+                    return
                 elif 'General requests' in input.view0():
                     filtered_data = overall_quarterly_df
 
-                    px.line(
+                    return px.line(
                         filtered_data,
                         x="FY with decimal",
                         y="Value",
@@ -59,11 +59,12 @@ with ui.nav_panel("All Agencies"):
                     )
                 elif 'Staff vs. processing time' in input.view0():
                     if not input.staffing_view():
-                        pass
+                        return
                     else: 
                         filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
                         filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
-                        px.scatter(
+                        
+                        return px.scatter(
                             filtered_data,
                             x="total_staff",
                             y=str(input.staffing_view()),
@@ -196,10 +197,10 @@ with ui.nav_panel("Individual Agencies"):
                         elif 'Staff' in input.view():
                             return f'Staff data'
                     
-            @render.express
+            @render_widget
             def lineplot1():
                 if not input.view() or not input.agency():
-                    pass
+                    return
                 data = narrow_data_plot()
                 data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
                 lbls = {}
@@ -240,7 +241,7 @@ with ui.nav_panel("Individual Agencies"):
                             "field": "Key"
                             }
                 
-                px.line(
+                graph = px.line(
                     filtered_data,
                     x="year",
                     y="value",
@@ -248,9 +249,9 @@ with ui.nav_panel("Individual Agencies"):
                     labels=lbls
                 )
 
-                #graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+                graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
                         
-                #return graph
+                return graph
 
             # with ui.card(full_screen=True):
             #     with ui.card_header(class_="d-flex justify-content-between align-items-center"):
