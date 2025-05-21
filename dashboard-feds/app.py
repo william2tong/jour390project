@@ -189,6 +189,7 @@ with ui.nav_panel("Individual Agencies"):
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
+                ui.remove_ui(selector="[class='lm-Widget p-Widget js-plotly-plot']", multiple=True, immediate=True)
                 data = narrow_data_plot()
                 data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
                 lbls = {}
