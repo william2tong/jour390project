@@ -43,7 +43,7 @@ with ui.nav_panel("All Agencies"):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
                     
-            @render_widget
+            @render.ui
             def lineplot3():
                 if not input.view0():
                     return
@@ -197,7 +197,7 @@ with ui.nav_panel("Individual Agencies"):
                         elif 'Staff' in input.view():
                             return f'Staff data'
                     
-            @render_widget
+            @render.ui
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
