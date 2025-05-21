@@ -15,6 +15,16 @@ from shiny.ui import page_navbar
 latest_year = 2024
 years = [str(x) for x in list(range(2008, latest_year + 1))]
 
+blank1 = True
+def get_blank1():
+    return blank1
+def set_blank1(val):
+    if val:
+        blank1 = True
+        return
+    else:
+        blank1 = False
+        return
 
 # Add page title and sidebar
 ui.page_opts(title="Federal FOIA Dashboard", fillable=False, page_fn=partial(page_navbar, id="page"))
@@ -43,8 +53,13 @@ with ui.nav_panel("All Agencies"):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
 
+                
             @render_plotly
             def lineplot3():
+                if get_blank1() == False:
+                    set_blank1(True)
+                    return
+                set_blank1(False)
                 return page1_graph()
                     
             
@@ -325,7 +340,6 @@ with ui.nav_panel("Individual Agencies"):
 # # --------------------------------------------------------
 # # Reactive calculations and effects
 # # --------------------------------------------------------
-
 
 
 @reactive.calc
