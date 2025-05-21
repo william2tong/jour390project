@@ -58,7 +58,7 @@ with ui.nav_panel("All Agencies"):
             def lineplot3():
                 if get_blank1() == False:
                     set_blank1(True)
-                    ui.remove_ui(selector="[id='lineplot3']")
+                    ui.remove_ui(selector="[class='lm-Widget.p-Widget.js-plotly-plot']")
                     return
                 set_blank1(False)
                 return page1_graph()
