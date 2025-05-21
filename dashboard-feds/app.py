@@ -199,8 +199,59 @@ with ui.nav_panel("Individual Agencies"):
                     
             @render_plotly
             def lineplot1():
+                if not input.view() or not input.agency():
+                    return
+                data = narrow_data_plot()
+                data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
+                lbls = {}
+                if 'General requests' in input.view():
+                    filtered_data = data.loc[data['field'].isin(["Pending at year end", "Pending at year start", 'Received', 'Processed'])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
+                elif 'Dispositions' in input.view():
+                    filtered_data = data.loc[data['field'].isin(['duplicate_request','fee_related,', 'full_denial','full_grants','improper_request_other_reason','not_agency_record','other','partially_granted','records_not_described','referred_to_other_agency', 'withdrawn'])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
+                elif 'Processing Times' in input.view():
+                    filtered_data = data.loc[data['field'].isin(['general_complex_average', 'general_simple_average', 'general_expedited_average', 'granted_complex_average', 'granted_simple_average', 'granted_expedited_average'])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
+                elif 'Exemptions' in input.view():
+                    filtered_data = data.loc[data['field'].isin(['exemption_1', 'exemption_2','exemption_3','exemption_4','exemption_5','exemption_6', 'exemption_7a', 'exemption_7b', 'exemption_7c','exemption_7d','exemption_7e', 'exemption_7f', 'exemption_8', 'exemption_9',])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
+                elif 'Costs' in input.view():
+                    filtered_data = data.loc[data['field'].isin(['litigation_cost', 'processing_cost', 'total_cost'])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
+                elif 'Staff' in input.view():
+                    filtered_data = data.loc[data['field'].isin(['total_staff'])]
+                    lbls = {"year": "Fiscal year", 
+                            "Value": "Number of requests", 
+                            "field": "Key"
+                            }
                 
-                return bottom_indiv_graph()
+                graph = px.line(
+                    filtered_data,
+                    x="year",
+                    y="value",
+                    color="field",
+                    labels=lbls
+                )
+
+                graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+                        
+                return graph
 
             # with ui.card(full_screen=True):
             #     with ui.card_header(class_="d-flex justify-content-between align-items-center"):
@@ -309,67 +360,8 @@ def narrow_data():
 @reactive.calc
 def narrow_data_plot():
     agency = input.agency()
-    data = foia_collapsed_df.loc[foia_collapsed_df['agency'] == agency_abbreviations_reverse[agency]]
-    
-    if not input.view() or not input.agency():
-        return
-    data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
-    lbls = {}
-    if 'General requests' in input.view():
-        filtered_data = data.loc[data['field'].isin(["Pending at year end", "Pending at year start", 'Received', 'Processed'])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-    elif 'Dispositions' in input.view():
-        filtered_data = data.loc[data['field'].isin(['duplicate_request','fee_related,', 'full_denial','full_grants','improper_request_other_reason','not_agency_record','other','partially_granted','records_not_described','referred_to_other_agency', 'withdrawn'])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-    elif 'Processing Times' in input.view():
-        filtered_data = data.loc[data['field'].isin(['general_complex_average', 'general_simple_average', 'general_expedited_average', 'granted_complex_average', 'granted_simple_average', 'granted_expedited_average'])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-    elif 'Exemptions' in input.view():
-        filtered_data = data.loc[data['field'].isin(['exemption_1', 'exemption_2','exemption_3','exemption_4','exemption_5','exemption_6', 'exemption_7a', 'exemption_7b', 'exemption_7c','exemption_7d','exemption_7e', 'exemption_7f', 'exemption_8', 'exemption_9',])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-    elif 'Costs' in input.view():
-        filtered_data = data.loc[data['field'].isin(['litigation_cost', 'processing_cost', 'total_cost'])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-    elif 'Staff' in input.view():
-        filtered_data = data.loc[data['field'].isin(['total_staff'])]
-        lbls = {"year": "Fiscal year", 
-                "Value": "Number of requests", 
-                "field": "Key"
-                }
-        
-    return lbls, filtered_data
-
-
-@reactive.calc
-def bottom_indiv_graph():
-    lbls, filtered_data = narrow_data_plot()
-                
-    graph = px.line(
-        filtered_data,
-        x="year",
-        y="value",
-        color="field",
-        labels=lbls
-    )
-
-    graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
-
-    return graph
+    ret = foia_collapsed_df.loc[foia_collapsed_df['agency'] == agency_abbreviations_reverse[agency]]
+    return ret
 
 @reactive.calc
 def narrow_data_comp():
@@ -399,3 +391,14 @@ def get_mid_header(ind):
     elif 'Costs' in input.view()[ind]:
         return "Cost data" + ' (double click on a legend field to exclusively select it)'
 
+@reactive.Effect
+def _():
+    if input.view0():
+        ind = len(lineplot3.widget.data)
+        for i in range(0, ind):
+            lineplot3.widget.data[i].visible = False
+        
+    if input.view():
+        ind = len(lineplot1.widget.data)
+        for i in range(0, ind):
+            lineplot1.widget.data[i].visible = False
