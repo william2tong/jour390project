@@ -46,7 +46,7 @@ with ui.nav_panel("All Agencies"):
             @render.express
             def lineplot3():
                 if not input.view0():
-                    return
+                    pass
                 elif 'General requests' in input.view0():
                     filtered_data = overall_quarterly_df
 
@@ -59,7 +59,7 @@ with ui.nav_panel("All Agencies"):
                     )
                 elif 'Staff vs. processing time' in input.view0():
                     if not input.staffing_view():
-                        return
+                        pass
                     else: 
                         filtered_data = foia_df[['total_staff', str(input.staffing_view())]]
                         filtered_data[str(input.staffing_view())] = filtered_data[input.staffing_view()].apply(pandas.to_numeric, errors='coerce')
@@ -181,7 +181,7 @@ with ui.nav_panel("Individual Agencies"):
                 @render.text
                 def show_header1():
                     if not input.view() or not input.agency():
-                        return
+                        pass
                     else:
                         if 'General requests' in input.view(): 
                             return f'General request data'
@@ -199,7 +199,7 @@ with ui.nav_panel("Individual Agencies"):
             @render.express
             def lineplot1():
                 if not input.view() or not input.agency():
-                    return
+                    pass
                 data = narrow_data_plot()
                 data['value'] = data['value'].apply(pandas.to_numeric, errors='coerce')
                 lbls = {}
