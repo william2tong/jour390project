@@ -240,7 +240,7 @@ with ui.nav_panel("Individual Agencies"):
                             "field": "Key"
                             }
                 
-                graph = px.line(
+                return px.line(
                     filtered_data,
                     x="year",
                     y="value",
@@ -248,7 +248,7 @@ with ui.nav_panel("Individual Agencies"):
                     labels=lbls
                 )
 
-                graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
+                #graph.update_layout(legend=dict(entrywidth=0.05, entrywidthmode="fraction", font=dict(size=8), itemwidth=30))
                         
                 return graph
 
@@ -341,7 +341,7 @@ with ui.nav_panel("Individual Agencies"):
     #         return render.DataGrid(sorted, filters=True)
 
 
-    ui.include_css(app_dir / "styles.css")
+    #ui.include_css(app_dir / "styles.css")
 
 # # --------------------------------------------------------
 # # Reactive calculations and effects
