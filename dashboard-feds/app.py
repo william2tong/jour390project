@@ -5,7 +5,7 @@ import pandas
 
 # Load data and compute static values
 from shared import app_dir, tips, foia_df, agency_abbreviations, agency_abbreviations_reverse, foia_collapsed_df, overall_quarterly_df
-from shinywidgets import render_plotly
+from shinywidgets import render_plotly, render_widget
 from functools import partial
 
 from shiny import reactive, render
@@ -43,7 +43,7 @@ with ui.nav_panel("All Agencies"):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
                     
-            @render_plotly
+            @render_widget
             def lineplot3():
                 if not input.view0():
                     return
@@ -196,7 +196,7 @@ with ui.nav_panel("Individual Agencies"):
                         elif 'Staff' in input.view():
                             return f'Staff data'
                     
-            @render_plotly
+            @render_widget
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
