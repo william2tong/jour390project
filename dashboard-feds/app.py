@@ -43,7 +43,7 @@ with ui.nav_panel("All Agencies"):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
                 "Quarterly request data since 2021"
                     
-            @render.ui
+            @render_widget
             def lineplot3():
                 if not input.view0():
                     return
@@ -197,7 +197,7 @@ with ui.nav_panel("Individual Agencies"):
                         elif 'Staff' in input.view():
                             return f'Staff data'
                     
-            @render.ui
+            @render.express
             def lineplot1():
                 if not input.view() or not input.agency():
                     return
@@ -390,3 +390,13 @@ def get_mid_header(ind):
         return "Staff data" + ' (double click on a legend field to exclusively select it)'
     elif 'Costs' in input.view()[ind]:
         return "Cost data" + ' (double click on a legend field to exclusively select it)'
+
+@reactive.Effect
+def _():
+    if input.view0():
+        ind = len(lineplot3.widget.data)
+        for i in range(0, ind):
+            lineplot3.widget.data[i].visible = False
+        lineplot3.widget.data[ind - 1].visible = True
+        lineplot3.widget.data[ind - 2].visible = True
+        lineplot3.widget.data[ind - 3].visible = True
