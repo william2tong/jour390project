@@ -58,6 +58,7 @@ with ui.nav_panel("All Agencies"):
             def lineplot3():
                 if get_blank1() == False:
                     set_blank1(True)
+                    ui.remove_ui(selector="[id='lineplot3']")
                     return
                 set_blank1(False)
                 return page1_graph()
@@ -340,6 +341,7 @@ with ui.nav_panel("Individual Agencies"):
 # # --------------------------------------------------------
 # # Reactive calculations and effects
 # # --------------------------------------------------------
+
 
 
 @reactive.calc
