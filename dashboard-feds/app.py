@@ -51,7 +51,14 @@ with ui.nav_panel("All Agencies"):
 
         with ui.card(full_screen=True):
             with ui.card_header(class_="d-flex justify-content-between align-items-center"):
-                "Quarterly request data since 2021"
+                @render.text
+                def header5():
+                    if not input.view0(): 
+                        return    
+                    if 'General requests' in input.view0():
+                        return "Quarterly request data since 2021"
+                    elif 'Staff vs. processing time' in input.view0():
+                        return "Processing time generally has inverse relationship with number of staff"
 
                 
             @render_plotly
