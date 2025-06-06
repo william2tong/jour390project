@@ -24,7 +24,8 @@ with ui.sidebar(title="Filter controls"):
             "Public Health Department",
             "Business Affairs and Consumer Protection Department",
             "Finance Department",
-            "Procurement Services Department"
+            "Procurement Services Department",
+            "Cultural Affairs and Special Events Department"
         ],
     )
 
