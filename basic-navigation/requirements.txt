@@ -1,3 +1,6 @@
+faicons
 shiny
-seaborn
+shinywidgets
+plotly
 pandas
+ridgeplot
