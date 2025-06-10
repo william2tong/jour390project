@@ -1,0 +1,5176 @@
+year,facility_type,result,count
+2010,After School Program,Pass,1
+2010,After School Program,Pass,2
+2010,Assisted Living,Pass,1
+2010,Assisted Living,Pass,1
+2010,Assisted Living,Pass,1
+2010,Assisted Living,Pass w/ Conditions,1
+2010,Assisted Living Senior Care,Pass,1
+2010,Bakery,Fail,62
+2010,Bakery,Out of Business,2
+2010,Bakery,Pass,154
+2010,Bakery,Pass w/ Conditions,7
+2010,Bakery,Pass,1
+2010,Banquet,Fail,3
+2010,Banquet,Fail,7
+2010,Banquet,Pass,3
+2010,Banquet,Pass,1
+2010,Banquet,Pass,5
+2010,Banquet,Pass,1
+2010,Banquet,Pass,2
+2010,Banquet,Pass,1
+2010,Banquet,Pass,1
+2010,Bar,Fail,1
+2010,Bar,Pass,1
+2010,Bar/Grill,Fail,1
+2010,Bar/Grill,Pass,1
+2010,Butcher,Pass,1
+2010,Cafeteria,Fail,2
+2010,Cafeteria,Pass,2
+2010,Cafeteria,Pass,1
+2010,Cafeteria,Pass,1
+2010,Candy,Fail,2
+2010,Candy,Fail,1
+2010,Candy,Fail,1
+2010,Candy,Fail,2
+2010,Candy,Pass,1
+2010,Candy,Pass,1
+2010,Candy,Pass,1
+2010,Candy,Pass,1
+2010,Candy/Gelato,Pass,1
+2010,Candy/Gelato,Pass,1
+2010,Candy/Gelato,Pass w/ Conditions,1
+2010,Catering,Fail,28
+2010,Catering,Fail,1
+2010,Catering,Pass,61
+2010,Catering,Pass,1
+2010,Catering,Pass,1
+2010,Catering,Pass w/ Conditions,8
+2010,Charity Aid Kitchen,Pass,1
+2010,Children's Services Facility,Fail,1
+2010,Children's Services Facility,Fail,35
+2010,Children's Services Facility,Pass,3
+2010,Children's Services Facility,Pass,1
+2010,Children's Services Facility,Pass,2
+2010,Children's Services Facility,Pass,1
+2010,Children's Services Facility,Pass,166
+2010,Children's Services Facility,Pass w/ Conditions,2
+2010,Children's Services Facility,Pass w/ Conditions,1
+2010,Church,Fail,1
+2010,Church,Pass,4
+2010,Church,Pass,1
+2010,Church,Pass,1
+2010,Church,Pass,1
+2010,Church,Pass w/ Conditions,1
+2010,Church,Pass w/ Conditions,1
+2010,City of Chicago College,Pass,1
+2010,Coffee,Fail,1
+2010,Coffee,Fail,1
+2010,Coffee,Fail,4
+2010,Coffee,Pass,1
+2010,Coffee,Pass,3
+2010,Coffee,Pass,1
+2010,Coffee,Pass,1
+2010,Cold Storage Facility,Pass,1
+2010,College,Pass,1
+2010,Commissary,Fail,4
+2010,Commissary,Pass,1
+2010,Commissary,Pass,1
+2010,Commissary,Pass,3
+2010,Commissary,Pass,2
+2010,Convenience,Fail,3
+2010,Convenience,Pass,1
+2010,Convenience,Pass,4
+2010,Convenience,Pass,1
+2010,Convenience,Pass,4
+2010,Convenience,Pass,1
+2010,Convenience,Pass,1
+2010,Convenience,Pass,1
+2010,Cooking Instruction,Fail,1
+2010,Cooking Instruction,Pass,1
+2010,Cooking Instruction,Pass,1
+2010,Cooking Instruction,Pass,2
+2010,Day Care,Fail,2
+2010,Day Care,Fail,129
+2010,Day Care,Fail,15
+2010,Day Care,Fail,56
+2010,Day Care,Fail,27
+2010,Day Care,Fail,1
+2010,Day Care,Out of Business,2
+2010,Day Care,Out of Business,2
+2010,Day Care,Out of Business,1
+2010,Day Care,Out of Business,6
+2010,Day Care,Pass,6
+2010,Day Care,Pass,287
+2010,Day Care,Pass,3
+2010,Day Care,Pass,33
+2010,Day Care,Pass,1
+2010,Day Care,Pass,2
+2010,Day Care,Pass,195
+2010,Day Care,Pass,59
+2010,Day Care,Pass,1
+2010,Day Care,Pass w/ Conditions,10
+2010,Day Care,Pass w/ Conditions,3
+2010,Day Care,Pass w/ Conditions,4
+2010,Day Care,Pass w/ Conditions,1
+2010,Day Care,Pass,1
+2010,Deli,Fail,1
+2010,Deli,Pass,1
+2010,Dollar Store,Pass,1
+2010,Donut Shop,Fail,1
+2010,Donut Shop,Pass,1
+2010,Drug Store,Pass,1
+2010,Employee Kitchen,Pass,2
+2010,Farmers Market,Fail,1
+2010,Fish Market,Pass,2
+2010,Fitness Center,Pass,1
+2010,Frozen Dessert,Pass,1
+2010,Gas Station,Fail,1
+2010,Gas Station,Fail,5
+2010,Gas Station,Fail,1
+2010,Gas Station,Fail,3
+2010,Gas Station,Fail,1
+2010,Gas Station,Fail,2
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,4
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,3
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass,1
+2010,Gas Station,Pass w/ Conditions,2
+2010,Gas Station,Pass w/ Conditions,1
+2010,Gas Station,Pass w/ Conditions,2
+2010,General Store,Fail,1
+2010,General Store,Pass,1
+2010,Golden Diner,Fail,10
+2010,Golden Diner,Pass,29
+2010,Golden Diner,Pass w/ Conditions,7
+2010,Grocery,Business Not Located,2
+2010,Grocery,Fail,1
+2010,Grocery,Fail,3
+2010,Grocery,Fail,800
+2010,Grocery,Fail,1
+2010,Grocery,Fail,1
+2010,Grocery,Fail,1
+2010,Grocery,Fail,1
+2010,Grocery,Fail,2
+2010,Grocery,Out of Business,1
+2010,Grocery,Out of Business,51
+2010,Grocery,Out of Business,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1581
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass,2
+2010,Grocery,Pass,4
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass,1
+2010,Grocery,Pass w/ Conditions,1
+2010,Grocery,Pass w/ Conditions,163
+2010,Grocery,Pass w/ Conditions,1
+2010,Grocery,Pass w/ Conditions,1
+2010,Grocery,Pass w/ Conditions,1
+2010,Grocery,Pass w/ Conditions,1
+2010,Health Center,Pass,1
+2010,Hooka,Fail,3
+2010,Hooka,Pass,1
+2010,Hospital,Fail,5
+2010,Hospital,Pass,37
+2010,Hospital,Pass,1
+2010,Hospital,Pass w/ Conditions,3
+2010,Hot Dog,Pass,1
+2010,Hotel,Fail,2
+2010,Hotel,Pass,1
+2010,Frozen Dessert,Fail,1
+2010,Frozen Dessert,Fail,2
+2010,Frozen Dessert,Fail,2
+2010,Frozen Dessert,Pass,1
+2010,Frozen Dessert,Pass,3
+2010,Frozen Dessert,Pass w/ Conditions,1
+2010,Incubator,Pass w/ Conditions,1
+2010,Juice Bar,Fail,1
+2010,Juice Bar,Fail,1
+2010,Juice Bar,Pass,1
+2010,Juice Bar,Pass,1
+2010,Kids Cafe,Fail,1
+2010,Kids Cafe,Pass,1
+2010,Kiosk,Fail,4
+2010,Kiosk,Pass,28
+2010,Kiosk,Pass,10
+2010,Kiosk,Pass w/ Conditions,4
+2010,Limited Business,Fail,1
+2010,Limited Business,Pass,1
+2010,Liquor,Fail,64
+2010,Liquor,Pass,69
+2010,Liquor,Pass w/ Conditions,5
+2010,Butcher,Fail,2
+2010,Butcher,Fail,1
+2010,Butcher,Pass,2
+2010,Butcher,Pass,3
+2010,Butcher,Pass,1
+2010,Long Term Care,Fail,33
+2010,Long Term Care,Fail,2
+2010,Long Term Care,Pass,102
+2010,Long Term Care,Pass,3
+2010,Long Term Care,Pass,1
+2010,Long Term Care,Pass w/ Conditions,20
+2010,Main Kitchen,Fail,1
+2010,Meat Packing,Pass,1
+2010,Mobile Food,Fail,1
+2010,Mobile Food,Fail,49
+2010,Mobile Food,Fail,2
+2010,Mobile Food,Out of Business,1
+2010,Mobile Food,Pass,2
+2010,Mobile Food,Pass,108
+2010,Mobile Food,Pass,1
+2010,Movie Theater,Fail,1
+2010,Movie Theater,Pass,1
+2010,Newsstand,Fail,2
+2010,Night Club,Pass,1
+2010,Nonprofit,Pass,1
+2010,Cooking Instruction,Pass,1
+2010,Nursing Home,Pass,2
+2010,Nursing Home,Pass w/ Conditions,3
+2010,Nutrition Store,Pass,1
+2010,Other,Business Not Located,4
+2010,Other,Fail,249
+2010,Other,Out of Business,421
+2010,Other,Pass,160
+2010,Other,Pass w/ Conditions,2
+2010,Pantry,Fail,1
+2010,Pantry,Pass,3
+2010,Peddler,Pass,1
+2010,Pharmacy,Pass,1
+2010,Pool,Fail,1
+2010,Pool,Out of Business,1
+2010,Pool,Pass,1
+2010,Pool,Pass w/ Conditions,1
+2010,Prepackaged,Pass,1
+2010,Private School,Pass,1
+2010,Private School,Pass,2
+2010,Produce Stand,Fail,1
+2010,Produce Stand,Fail,1
+2010,Produce Stand,Pass,1
+2010,Protein Shake Bar,Fail,1
+2010,Protein Shake Bar,Pass,1
+2010,Public School,Pass,1
+2010,Religious,Fail,1
+2010,Restaurant,Business Not Located,4
+2010,Restaurant,Fail,2527
+2010,Restaurant,Fail,2
+2010,Restaurant,Out of Business,182
+2010,Restaurant,Pass,6915
+2010,Restaurant,Pass,2
+2010,Restaurant,Pass w/ Conditions,1098
+2010,Restaurant/Grocery,Pass,1
+2010,Restaurant/Grocery,Pass,2
+2010,Restaurant/Liquor,Fail,1
+2010,Restaurant/Liquor,Pass,1
+2010,Retail,Fail,1
+2010,Riverwalk,Fail,3
+2010,RIVERWALK,Fail,2
+2010,RIVERWALK,Pass,1
+2010,RIVERWALK,Pass,1
+2010,RIVERWALK,Pass w/ Conditions,1
+2010,Rooftop,Fail,1
+2010,Rooftop,Fail,1
+2010,Rooftop,Pass,1
+2010,Rooftop,Pass,1
+2010,Rooftop,Pass,1
+2010,Room Service,Pass,3
+2010,School,Fail,191
+2010,School,Out of Business,3
+2010,School,Pass,1101
+2010,School,Pass w/ Conditions,59
+2010,Shared Kitchen,Fail,1
+2010,Shared Kitchen,Pass,3
+2010,Shelter,Fail,2
+2010,Shelter,Pass,14
+2010,Shelter,Pass w/ Conditions,1
+2010,Slaughterhouse,Pass,1
+2010,Snack Shop,Pass,1
+2010,Social Club,Fail,1
+2010,Soup Kitchen,Fail,1
+2010,Soup Kitchen,Pass,1
+2010,Special Event,Fail,9
+2010,Special Event,Pass,18
+2010,Store,Fail,1
+2010,Summer Feeding,Pass,1
+2010,Tavern,Fail,24
+2010,Tavern,Fail,1
+2010,Tavern,Fail,2
+2010,Tavern,Fail,1
+2010,Tavern,Out of Business,1
+2010,Tavern,Pass,18
+2010,Tavern,Pass,1
+2010,Tavern,Pass,1
+2010,Tavern,Pass,1
+2010,Tavern,Pass,1
+2010,Tavern,Pass w/ Conditions,3
+2010,Teaching School,Pass,1
+2010,Theater,Pass,1
+2010,Unlicensed,Fail,1
+2010,Unlicensed,Fail,1
+2010,Unlicensed,Pass,1
+2010,Waterlemon House,Fail,1
+2010,Waterlemon House,Pass w/ Conditions,1
+2010,Weight Loss Program,Pass,1
+2010,Wholesale,Fail,63
+2010,Wholesale,Out of Business,1
+2010,Wholesale,Pass,93
+2010,Wholesale,Pass,1
+2010,Wholesale,Pass w/ Conditions,2
+2011,After School Program,Fail,1
+2011,After School Program,Fail,2
+2011,After School Program,Pass,3
+2011,Assisted Living,Pass,1
+2011,Assisted Living,Pass,1
+2011,Bakery,Fail,67
+2011,Bakery,Out of Business,8
+2011,Bakery,Pass,200
+2011,Bakery,Pass w/ Conditions,19
+2011,Bakery/Deli,Fail,1
+2011,Bakery/Deli,Pass,2
+2011,Bakery/Restaurant,Pass,1
+2011,Bakery/Restaurant,Pass,1
+2011,Banquet,Fail,3
+2011,Banquet,Fail,7
+2011,Banquet,Fail,1
+2011,Banquet,Out of Business,2
+2011,Banquet,Pass,2
+2011,Banquet,Pass,1
+2011,Banquet,Pass,1
+2011,Banquet,Pass,4
+2011,Banquet,Pass,1
+2011,Banquet,Pass,1
+2011,Banquet,Pass,1
+2011,Banquet,Pass w/ Conditions,1
+2011,Banquet,Pass w/ Conditions,1
+2011,Bar,Fail,2
+2011,Bar,Pass,1
+2011,Bar/Grill,Pass,1
+2011,Before And After School Program,Fail,1
+2011,Before And After School Program,Pass,1
+2011,Boys And Girls Club,Pass,1
+2011,Cafeteria,Pass,1
+2011,Cafeteria,Pass,3
+2011,Cafeteria,Pass,1
+2011,Cafeteria,Pass w/ Conditions,1
+2011,Cafeteria,Pass w/ Conditions,2
+2011,Candy,Out of Business,1
+2011,Candy/Gelato,Pass,1
+2011,Catering,Fail,2
+2011,Catering,Fail,25
+2011,Catering,Out of Business,1
+2011,Catering,Pass,74
+2011,Catering,Pass w/ Conditions,6
+2011,Charity Aid Kitchen,Pass,1
+2011,Children's Services Facility,Fail,1
+2011,Children's Services Facility,Fail,2
+2011,Children's Services Facility,Fail,2
+2011,Children's Services Facility,Fail,47
+2011,Children's Services Facility,Out of Business,3
+2011,Children's Services Facility,Pass,1
+2011,Children's Services Facility,Pass,3
+2011,Children's Services Facility,Pass,2
+2011,Children's Services Facility,Pass,1
+2011,Children's Services Facility,Pass,187
+2011,Children's Services Facility,Pass w/ Conditions,12
+2011,Church,Fail,1
+2011,Church,Fail,1
+2011,Church,Fail,1
+2011,Church,Fail,1
+2011,Church,Pass,4
+2011,Church,Pass,1
+2011,Church,Pass,3
+2011,Church,Pass,1
+2011,Church,Pass,1
+2011,Church,Pass w/ Conditions,1
+2011,City of Chicago College,Fail,1
+2011,City of Chicago College,Pass,1
+2011,Coffee,Fail,1
+2011,Coffee,Fail,3
+2011,Coffee,Out of Business,1
+2011,Coffee,Pass,2
+2011,Coffee,Pass,1
+2011,Coffee,Pass,3
+2011,Coffee,Pass,1
+2011,Coffee,Pass w/ Conditions,1
+2011,Commissary,Fail,1
+2011,Commissary,Pass,5
+2011,Commissary,Pass,1
+2011,Commissary,Pass,1
+2011,Commissary,Pass w/ Conditions,1
+2011,Convenience,Fail,1
+2011,Convenience,Fail,2
+2011,Convenience,Fail,2
+2011,Convenience,Fail,5
+2011,Convenience,Out of Business,1
+2011,Convenience,Pass,2
+2011,Convenience,Pass,4
+2011,Convenience,Pass,2
+2011,Convenience,Pass,4
+2011,Convenience,Pass,1
+2011,Cooking Instruction,Fail,1
+2011,Cooking Instruction,Pass,1
+2011,Cooking Instruction,Pass,1
+2011,Cooking Instruction,Pass,1
+2011,Day Care,Fail,81
+2011,Day Care,Fail,1
+2011,Day Care,Fail,8
+2011,Day Care,Fail,38
+2011,Day Care,Fail,1
+2011,Day Care,Fail,40
+2011,Day Care,Out of Business,1
+2011,Day Care,Out of Business,2
+2011,Day Care,Out of Business,12
+2011,Day Care,Out of Business,3
+2011,Day Care,Out of Business,1
+2011,Day Care,Out of Business,4
+2011,Day Care,Out of Business,9
+2011,Day Care,Pass,13
+2011,Day Care,Pass,258
+2011,Day Care,Pass,3
+2011,Day Care,Pass,27
+2011,Day Care,Pass,190
+2011,Day Care,Pass,1
+2011,Day Care,Pass,74
+2011,Day Care,Pass w/ Conditions,1
+2011,Day Care,Pass w/ Conditions,13
+2011,Day Care,Pass w/ Conditions,11
+2011,Day Care,Pass w/ Conditions,7
+2011,Deli,Pass,1
+2011,Donut Shop,Pass,1
+2011,Drug Store,Fail,1
+2011,Drug Store,Pass,1
+2011,Drug Store,Pass,2
+2011,Drug Treatment Facility,Pass,1
+2011,Employee Kitchen,Pass,2
+2011,Fish Market,Pass,1
+2011,Fitness Center,Pass,1
+2011,Food Pantry,Pass,1
+2011,Food Pantry,Pass,2
+2011,Frozen Dessert,Fail,2
+2011,Frozen Dessert,Out of Business,2
+2011,Frozen Dessert,Pass,2
+2011,Gas Station,Fail,6
+2011,Gas Station,Fail,1
+2011,Gas Station,Fail,1
+2011,Gas Station,Fail,1
+2011,Gas Station,Fail,1
+2011,Gas Station,Pass,8
+2011,Gas Station,Pass,3
+2011,Gas Station,Pass,2
+2011,Gas Station,Pass,3
+2011,Golden Diner,Fail,9
+2011,Golden Diner,Out of Business,1
+2011,Golden Diner,Pass,24
+2011,Golden Diner,Pass w/ Conditions,5
+2011,Golf Course,Fail,2
+2011,Golf Course,Pass,2
+2011,Grocery,Business Not Located,1
+2011,Grocery,Fail,1
+2011,Grocery,Fail,1
+2011,Grocery,Fail,916
+2011,Grocery,Fail,2
+2011,Grocery,Fail,1
+2011,Grocery,Fail,1
+2011,Grocery,Fail,1
+2011,Grocery,Fail,1
+2011,Grocery,Fail,1
+2011,Grocery,Out of Business,98
+2011,Grocery,Out of Business,1
+2011,Grocery,Out of Business,1
+2011,Grocery,Out of Business,1
+2011,Grocery,Out of Business,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,2
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1705
+2011,Grocery,Pass,1
+2011,Grocery,Pass,2
+2011,Grocery,Pass,1
+2011,Grocery,Pass,3
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,1
+2011,Grocery,Pass,3
+2011,Grocery,Pass,1
+2011,Grocery,Pass w/ Conditions,186
+2011,Grocery,Pass w/ Conditions,1
+2011,Grocery,Pass w/ Conditions,2
+2011,Hospital,Fail,5
+2011,Hospital,Fail,1
+2011,Hospital,Out of Business,2
+2011,Hospital,Pass,25
+2011,Hospital,Pass,1
+2011,Hospital,Pass w/ Conditions,5
+2011,Hot Dog,Pass,1
+2011,Hotel,Fail,1
+2011,Hotel,Pass,1
+2011,Frozen Dessert,Pass,1
+2011,Frozen Dessert,Pass,2
+2011,Juice Bar,Pass,1
+2011,Kiosk,Fail,22
+2011,Kiosk,Out of Business,1
+2011,Kiosk,Pass,45
+2011,Kiosk,Pass,13
+2011,Kiosk,Pass,1
+2011,Kiosk,Pass w/ Conditions,1
+2011,Liquor,Fail,44
+2011,Liquor,Fail,1
+2011,Liquor,Fail,2
+2011,Liquor,Out of Business,1
+2011,Liquor,Pass,63
+2011,Liquor,Pass,1
+2011,Liquor,Pass,2
+2011,Liquor,Pass w/ Conditions,1
+2011,Butcher,Fail,3
+2011,Butcher,Out of Business,1
+2011,Butcher,Pass,1
+2011,Butcher,Pass,6
+2011,Long Term Care,Fail,18
+2011,Long Term Care,Fail,1
+2011,Long Term Care,Out of Business,1
+2011,Long Term Care,Out of Business,1
+2011,Long Term Care,Pass,60
+2011,Long Term Care,Pass,2
+2011,Long Term Care,Pass,1
+2011,Long Term Care,Pass,1
+2011,Long Term Care,Pass w/ Conditions,6
+2011,Meat Market,Out of Business,1
+2011,Mobile Food,Fail,77
+2011,Mobile Food,Fail,1
+2011,Mobile Food,Out of Business,2
+2011,Mobile Food,Pass,1
+2011,Mobile Food,Pass,1
+2011,Mobile Food,Pass,95
+2011,Mobile Food,Pass,1
+2011,Movie Theater,Pass,1
+2011,Nonprofit,Fail,2
+2011,Nonprofit,Pass,1
+2011,Nursing Home,Fail,1
+2011,Nursing Home,Out of Business,2
+2011,Nursing Home,Pass,1
+2011,Nursing Home,Pass,1
+2011,Nutrition Store,Out of Business,1
+2011,Other,Business Not Located,9
+2011,Other,Fail,53
+2011,Other,Out of Business,1
+2011,Other,Out of Business,526
+2011,Other,Pass,11
+2011,Other,Pass w/ Conditions,1
+2011,Pool,Out of Business,1
+2011,Popcorn,Pass,1
+2011,Private School,Pass,2
+2011,Private School,Pass,1
+2011,Protein Shake Bar,Pass,1
+2011,Public School,Pass,1
+2011,Rehab Center,Pass,1
+2011,Restaurant,Business Not Located,5
+2011,Restaurant,Fail,2488
+2011,Restaurant,Out of Business,418
+2011,Restaurant,Pass,7177
+2011,Restaurant,Pass,1
+2011,Restaurant,Pass w/ Conditions,1150
+2011,Restaurant,Pass w/ Conditions,1
+2011,Restaurant/Grocery,Out of Business,1
+2011,Restaurant/Liquor,Fail,1
+2011,Restaurant/Liquor,Pass,1
+2011,Restaurant/Liquor,Pass,1
+2011,Retail,Fail,2
+2011,Retail,Fail,1
+2011,Retail,Pass,1
+2011,Retail,Pass,1
+2011,RIVERWALK,Fail,1
+2011,RIVERWALK,Pass,1
+2011,Rooftop,Fail,2
+2011,Rooftop,Fail,2
+2011,Rooftop,Fail,2
+2011,Rooftop,Out of Business,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass,1
+2011,Rooftop,Pass w/ Conditions,1
+2011,Rooftop,Pass w/ Conditions,1
+2011,Rooftop,Pass w/ Conditions,2
+2011,Rooftop,Pass w/ Conditions,1
+2011,Rooftop,Pass w/ Conditions,2
+2011,Rooftop,Pass w/ Conditions,1
+2011,Room Service,Pass,1
+2011,School,Business Not Located,1
+2011,School,Fail,238
+2011,School,Out of Business,24
+2011,School,Pass,1079
+2011,School,Pass w/ Conditions,63
+2011,Senior Day Care,Pass,1
+2011,Shared Kitchen,Pass,4
+2011,Shared Kitchen,Pass,42
+2011,Shared Kitchen,Pass,1
+2011,Shared Kitchen,Pass,1
+2011,Shared Kitchen,Pass w/ Conditions,1
+2011,Shelter,Fail,2
+2011,Shelter,Out of Business,1
+2011,Shelter,Pass,13
+2011,Shelter,Pass w/ Conditions,3
+2011,Slaughterhouse,Fail,1
+2011,Slaughterhouse,Pass,1
+2011,Smokehouse,Pass,1
+2011,Snack Shop,Pass,1
+2011,Social Club,Fail,1
+2011,Special Event,Fail,4
+2011,Special Event,Out of Business,1
+2011,Special Event,Pass,17
+2011,Stadium,Fail,2
+2011,Stadium,Pass,3
+2011,Stadium,Pass w/ Conditions,1
+2011,Supportive Living,Pass,1
+2011,Supportive Living,Pass w/ Conditions,1
+2011,Tavern,Fail,7
+2011,Tavern,Fail,1
+2011,Tavern,Out of Business,1
+2011,Tavern,Pass,15
+2011,Tavern,Pass,1
+2011,Tavern,Pass w/ Conditions,1
+2011,Tent Restaurant,Fail,2
+2011,Theater,Fail,1
+2011,Theater,Pass,2
+2011,Video Store,Pass,2
+2011,Warehouse,Pass,1
+2011,Waterlemon House,Pass,1
+2011,Wholesale,Fail,56
+2011,Wholesale,Out of Business,5
+2011,Wholesale,Pass,95
+2011,Wholesale,Pass w/ Conditions,2
+2011,Wine,Fail,4
+2011,Wine,Fail,2
+2011,Wine,Pass,2
+2011,Wine,Pass,2
+2012,After School Program,Pass,2
+2012,Alternative School,Out of Business,1
+2012,Assisted Living,Pass,1
+2012,Assisted Living,Pass,2
+2012,Assisted Living,Pass w/ Conditions,1
+2012,Assisted Living Senior Care,Pass,1
+2012,Bakery,Fail,61
+2012,Bakery,Out of Business,35
+2012,Bakery,Pass,154
+2012,Bakery,Pass w/ Conditions,12
+2012,Bakery/Deli,Pass,1
+2012,Bakery/Restaurant,Out of Business,1
+2012,Banquet,Fail,3
+2012,Banquet,No Entry,1
+2012,Banquet,No Entry,1
+2012,Banquet,Pass,1
+2012,Banquet,Pass,6
+2012,Banquet,Pass,1
+2012,Banquet,Pass,1
+2012,Bar,Fail,1
+2012,Bar,Pass,2
+2012,Before And After School Program,Pass,1
+2012,Beverage/Silverware Warehouse,Pass,1
+2012,blockbuster video,Fail,1
+2012,Blockbuster Video,Pass,1
+2012,Boys And Girls Club,Pass,1
+2012,Butcher,Pass,1
+2012,Cafe,Fail,1
+2012,Cafe,Pass,1
+2012,Cafeteria,Pass,1
+2012,Cafeteria,Pass,3
+2012,Cafeteria,Pass,1
+2012,Candy,Fail,1
+2012,Candy,Pass,1
+2012,Candy/Gelato,Pass,1
+2012,Catering,Fail,18
+2012,Catering,No Entry,6
+2012,Catering,Out of Business,13
+2012,Catering,Pass,55
+2012,Catering,Pass,1
+2012,Catering,Pass w/ Conditions,3
+2012,Charter School,Pass,1
+2012,Chicago Park District,Pass,1
+2012,Children's Services Facility,Fail,2
+2012,Children's Services Facility,Fail,32
+2012,Children's Services Facility,No Entry,1
+2012,Children's Services Facility,Out of Business,3
+2012,Children's Services Facility,Pass,5
+2012,Children's Services Facility,Pass,1
+2012,Children's Services Facility,Pass,3
+2012,Children's Services Facility,Pass,2
+2012,Children's Services Facility,Pass,176
+2012,Children's Services Facility,Pass w/ Conditions,13
+2012,Chinese Herbs,Pass,1
+2012,Church,Fail,2
+2012,Church,Fail,1
+2012,Church,Pass,1
+2012,Church,Pass,1
+2012,Church,Pass,1
+2012,Church,Pass,1
+2012,Church,Pass,1
+2012,Church,Pass,1
+2012,City of Chicago College,Pass,1
+2012,Coffee,Out of Business,1
+2012,Coffee,Pass,1
+2012,Coffee,Pass,1
+2012,Coffee,Pass,1
+2012,Coffee,Pass,1
+2012,Cold Storage Facility,Fail,1
+2012,Cold Storage Facility,Pass,1
+2012,College,Fail,1
+2012,College,Pass,1
+2012,Commissary,Fail,1
+2012,Commissary,No Entry,1
+2012,Commissary,Out of Business,1
+2012,Commissary,Pass,1
+2012,Convenience,Fail,1
+2012,Convenience,Out of Business,1
+2012,Convenience,Pass,3
+2012,Convenience,Pass,1
+2012,Convenience,Pass,3
+2012,Convenience,Pass,1
+2012,Convenience,Pass w/ Conditions,1
+2012,Day Care,Business Not Located,1
+2012,Day Care,Fail,82
+2012,Day Care,Fail,6
+2012,Day Care,Fail,2
+2012,Day Care,Fail,45
+2012,Day Care,Fail,30
+2012,Day Care,Fail,1
+2012,Day Care,No Entry,6
+2012,Day Care,No Entry,1
+2012,Day Care,Out of Business,43
+2012,Day Care,Out of Business,3
+2012,Day Care,Out of Business,5
+2012,Day Care,Out of Business,15
+2012,Day Care,Pass,4
+2012,Day Care,Pass,211
+2012,Day Care,Pass,4
+2012,Day Care,Pass,23
+2012,Day Care,Pass,201
+2012,Day Care,Pass,58
+2012,Day Care,Pass,1
+2012,Day Care,Pass w/ Conditions,9
+2012,Day Care,Pass w/ Conditions,16
+2012,Day Care,Pass w/ Conditions,6
+2012,Drug Store,Pass,1
+2012,Drug Store,Pass,1
+2012,Drug Store,Pass w/ Conditions,1
+2012,Fish Market,Pass,1
+2012,Fitness Center,Pass,1
+2012,Fitness Center,Pass,1
+2012,Food Pantry,Pass,1
+2012,Frozen Dessert,Pass,1
+2012,Frozen Dessert,Pass,1
+2012,Gas Station,Fail,5
+2012,Gas Station,Fail,1
+2012,Gas Station,Fail,1
+2012,Gas Station,Out of Business,1
+2012,Gas Station,Out of Business,2
+2012,Gas Station,Out of Business,1
+2012,Gas Station,Pass,9
+2012,Gas Station,Pass,1
+2012,Gas Station,Pass,1
+2012,Gas Station,Pass,1
+2012,Gas Station,Pass,1
+2012,Gas Station,Pass w/ Conditions,1
+2012,Golden Diner,Fail,3
+2012,Golden Diner,Out of Business,6
+2012,Golden Diner,Pass,31
+2012,Golden Diner,Pass w/ Conditions,4
+2012,Grocery,Fail,1
+2012,Grocery,Fail,1
+2012,Grocery,Fail,720
+2012,Grocery,Fail,2
+2012,Grocery,Fail,3
+2012,Grocery,Fail,2
+2012,Grocery,Fail,2
+2012,Grocery,No Entry,25
+2012,Grocery,Out of Business,1
+2012,Grocery,Out of Business,206
+2012,Grocery,Out of Business,1
+2012,Grocery,Out of Business,1
+2012,Grocery,Out of Business,1
+2012,Grocery,Out of Business,1
+2012,Grocery,Out of Business,1
+2012,Grocery,Pass,2
+2012,Grocery,Pass,1
+2012,Grocery,Pass,1554
+2012,Grocery,Pass,1
+2012,Grocery,Pass,2
+2012,Grocery,Pass,1
+2012,Grocery,Pass,1
+2012,Grocery,Pass,2
+2012,Grocery,Pass,1
+2012,Grocery,Pass,1
+2012,Grocery,Pass,1
+2012,Grocery,Pass,2
+2012,Grocery,Pass,1
+2012,Grocery,Pass w/ Conditions,1
+2012,Grocery,Pass w/ Conditions,216
+2012,Grocery,Pass w/ Conditions,1
+2012,Grocery,Pass w/ Conditions,1
+2012,Grocery,Pass w/ Conditions,2
+2012,Herbal,Fail,1
+2012,Herbal,Pass,2
+2012,Herbal,Pass,1
+2012,Herbal,Pass,1
+2012,Hospital,Fail,7
+2012,Hospital,Out of Business,2
+2012,Hospital,Pass,34
+2012,Hospital,Pass w/ Conditions,4
+2012,Hospital,Pass w/ Conditions,1
+2012,Hostel,Pass w/ Conditions,1
+2012,Hot Dog,Pass,1
+2012,Hot Dog,Pass w/ Conditions,1
+2012,Frozen Dessert,Out of Business,1
+2012,Frozen Dessert,Pass,2
+2012,Illegal Vendor,Fail,2
+2012,Juice Bar,Fail,1
+2012,Juice Bar,Pass,1
+2012,Kiosk,Pass,7
+2012,Laundromat,Pass,1
+2012,Liquor,Fail,26
+2012,Liquor,Fail,1
+2012,Liquor,No Entry,7
+2012,Liquor,Out of Business,6
+2012,Liquor,Pass,39
+2012,Liquor,Pass,1
+2012,Butcher,Fail,2
+2012,Butcher,Fail,1
+2012,Butcher,Out of Business,1
+2012,Butcher,Pass,5
+2012,Butcher,Pass,1
+2012,Long Term Care,Fail,21
+2012,Long Term Care,Out of Business,7
+2012,Long Term Care,Out of Business,1
+2012,Long Term Care,Pass,77
+2012,Long Term Care,Pass,3
+2012,Long Term Care,Pass,1
+2012,Long Term Care,Pass,1
+2012,Long Term Care,Pass w/ Conditions,24
+2012,Long Term Care,Pass w/ Conditions,1
+2012,Meat Packing,Pass,1
+2012,Mobile Food,Fail,33
+2012,Mobile Food,Fail,1
+2012,Mobile Food,Out of Business,20
+2012,Mobile Food,Out of Business,2
+2012,Mobile Food,Pass,118
+2012,Mobile Food,Pass,3
+2012,Mobile Food,Pass,1
+2012,Mobile Food,Pass,1
+2012,Mobile Food,Pass,11
+2012,Mobile Food,Pass w/ Conditions,2
+2012,Movie Theater,Fail,2
+2012,Music Venue,No Entry,1
+2012,Nail Shop,Pass,1
+2012,Night Club,Fail,1
+2012,Nonprofit,Pass,1
+2012,Nursing Home,Pass,2
+2012,Nursing Home,Pass w/ Conditions,1
+2012,Other,Business Not Located,6
+2012,Other,Fail,22
+2012,Other,No Entry,9
+2012,Other,Out of Business,1153
+2012,Other,Pass,21
+2012,Other,Pass w/ Conditions,2
+2012,Pharmacy,Fail,1
+2012,Pharmacy,Pass,1
+2012,Pool,Out of Business,1
+2012,Private School,Pass,2
+2012,Private School,Pass,1
+2012,Public School,Pass,2
+2012,Rehab Center,Pass,1
+2012,Restaurant,Business Not Located,2
+2012,Restaurant,Fail,2160
+2012,Restaurant,Fail,2
+2012,Restaurant,No Entry,179
+2012,Restaurant,Out of Business,1007
+2012,Restaurant,Pass,6814
+2012,Restaurant,Pass,3
+2012,Restaurant,Pass w/ Conditions,1150
+2012,Restaurant,Pass w/ Conditions,1
+2012,Restaurant,Pass w/ Conditions,1
+2012,Restaurant/Grocery,Fail,1
+2012,Restaurant/Grocery,Pass,1
+2012,Restaurant/Liquor,Fail,1
+2012,Restaurant/Liquor,No Entry,1
+2012,Restaurant/Liquor,Pass,1
+2012,Rooftop,Fail,1
+2012,Rooftop,Pass,1
+2012,Rooftop,Pass,2
+2012,Rooftop,Pass,2
+2012,Rooftop,Pass,2
+2012,Rooftop,Pass,2
+2012,Rooftop,Pass,1
+2012,Rooftop,Pass w/ Conditions,1
+2012,Rooftop,Pass w/ Conditions,2
+2012,Rooftop,Pass w/ Conditions,2
+2012,Room Service,Pass,1
+2012,Room Service,Pass w/ Conditions,1
+2012,School,Business Not Located,2
+2012,School,Fail,244
+2012,School,No Entry,3
+2012,School,Out of Business,25
+2012,School,Out of Business,1
+2012,School,Pass,876
+2012,School,Pass,1
+2012,School,Pass w/ Conditions,44
+2012,Senior Day Care,Pass,1
+2012,Shared Kitchen,Fail,1
+2012,Shared Kitchen,Fail,5
+2012,Shared Kitchen,Out of Business,2
+2012,Shared Kitchen,Pass,4
+2012,Shared Kitchen,Pass,72
+2012,Shared Kitchen,Pass,14
+2012,Shelter,Fail,3
+2012,Shelter,Pass,10
+2012,Slaughterhouse,Pass,1
+2012,Special Event,Fail,5
+2012,Special Event,Pass,16
+2012,Stadium,Fail,2
+2012,Stadium,Pass,2
+2012,Stadium,Pass w/ Conditions,2
+2012,Store,Fail,1
+2012,Store,Pass,2
+2012,Summer Feeding,Pass,1
+2012,Supportive Living,Pass,1
+2012,Tavern,Fail,8
+2012,Tavern,Fail,1
+2012,Tavern,Fail,1
+2012,Tavern,No Entry,2
+2012,Tavern,No Entry,1
+2012,Tavern,Out of Business,2
+2012,Tavern,Pass,3
+2012,Tavern,Pass,11
+2012,Tavern,Pass,1
+2012,Tavern,Pass,1
+2012,Tavern,Pass,1
+2012,Tavern,Pass,1
+2012,Tea,Pass,1
+2012,Tent Restaurant,Out of Business,1
+2012,Theater,Fail,1
+2012,Theater,Fail,1
+2012,Theater,Pass,1
+2012,Theater,Pass,1
+2012,University CAFETERIA,Pass,1
+2012,Video Store,Out of Business,1
+2012,Warehouse,Fail,1
+2012,Warehouse,Pass,1
+2012,Wholesale,Fail,47
+2012,Wholesale,Out of Business,15
+2012,Wholesale,Pass,68
+2012,Wholesale,Pass w/ Conditions,2
+2013,Adult Family Care Center,Fail,1
+2013,Adult Family Care Center,Pass,1
+2013,After School Program,Pass,1
+2013,Assisted Living,Pass,1
+2013,Assisted Living,Pass,1
+2013,Assisted Living Senior Care,Pass,1
+2013,Assisted Living Senior Care,Pass w/ Conditions,1
+2013,Bakery,Fail,47
+2013,Bakery,No Entry,12
+2013,Bakery,Out of Business,41
+2013,Bakery,Pass,178
+2013,Bakery,Pass w/ Conditions,16
+2013,Bakery/Deli,Pass,2
+2013,Bakery/Grocery,Fail,1
+2013,Bakery/Grocery,Pass,1
+2013,Banquet,Fail,1
+2013,Banquet,Fail,2
+2013,Banquet,Fail,5
+2013,Banquet,Fail,1
+2013,Banquet,No Entry,2
+2013,Banquet,No Entry,5
+2013,Banquet,No Entry,1
+2013,Banquet,Out of Business,3
+2013,Banquet,Out of Business,1
+2013,Banquet,Pass,2
+2013,Banquet,Pass,1
+2013,Banquet,Pass,3
+2013,Banquet,Pass,11
+2013,Banquet,Pass,3
+2013,Banquet,Pass,1
+2013,Banquet,Pass w/ Conditions,1
+2013,Bar,Pass,3
+2013,Bar,Pass,2
+2013,Before And After School Program,Pass w/ Conditions,1
+2013,Book Store,Out of Business,1
+2013,Butcher,Pass,1
+2013,Cafe,Pass,1
+2013,Cafeteria,Out of Business,2
+2013,Cafeteria,Pass,1
+2013,Cafeteria,Pass,3
+2013,Cafeteria,Pass,1
+2013,Cafeteria,Pass w/ Conditions,1
+2013,Candy/Gelato,Pass,1
+2013,Car Wash,Pass,1
+2013,Catering,Fail,16
+2013,Catering,No Entry,10
+2013,Catering,Out of Business,1
+2013,Catering,Out of Business,33
+2013,Catering,Out of Business,1
+2013,Catering,Pass,69
+2013,Catering,Pass,1
+2013,Catering,Pass w/ Conditions,4
+2013,Charity Aid Kitchen,Pass,1
+2013,Charter School,Out of Business,1
+2013,Charter School,Pass,1
+2013,Charter School,Pass,1
+2013,Children's Services Facility,Fail,1
+2013,Children's Services Facility,Fail,35
+2013,Children's Services Facility,No Entry,4
+2013,Children's Services Facility,Out of Business,1
+2013,Children's Services Facility,Out of Business,1
+2013,Children's Services Facility,Out of Business,1
+2013,Children's Services Facility,Out of Business,1
+2013,Children's Services Facility,Pass,1
+2013,Children's Services Facility,Pass,5
+2013,Children's Services Facility,Pass,1
+2013,Children's Services Facility,Pass,1
+2013,Children's Services Facility,Pass,1
+2013,Children's Services Facility,Pass,153
+2013,Children's Services Facility,Pass,1
+2013,Children's Services Facility,Pass w/ Conditions,5
+2013,Church,Pass,1
+2013,Church,Pass,1
+2013,Church,Pass,1
+2013,Church,Pass,1
+2013,Church,Pass w/ Conditions,3
+2013,City of Chicago College,Pass w/ Conditions,1
+2013,Coffee,Out of Business,1
+2013,Coffee,Pass,1
+2013,Coffee,Pass,1
+2013,Coffee,Pass,1
+2013,Coffee,Pass w/ Conditions,1
+2013,Coffee,Pass w/ Conditions,1
+2013,Coffee,Pass w/ Conditions,1
+2013,College,Fail,1
+2013,College,Pass,1
+2013,Commissary,Pass,1
+2013,Convenience,Fail,1
+2013,Convenience,Fail,1
+2013,Convenience,Out of Business,1
+2013,Convenience,Pass,1
+2013,Convenience,Pass,1
+2013,Convenience,Pass,1
+2013,Convenience,Pass w/ Conditions,1
+2013,Convenience,Pass w/ Conditions,1
+2013,Convenience,Pass w/ Conditions,1
+2013,Convenience,Pass w/ Conditions,1
+2013,Cooking Instruction,Fail,1
+2013,Cooking Instruction,No Entry,1
+2013,Cooking Instruction,Pass,1
+2013,Cooking Instruction,Pass,2
+2013,Cooking Instruction,Pass,2
+2013,Cooking Instruction,Pass,2
+2013,Cooking Instruction,Pass w/ Conditions,1
+2013,Butcher,Fail,2
+2013,Butcher,No Entry,1
+2013,Butcher,Pass,2
+2013,Day Care,Fail,1
+2013,Day Care,Fail,1
+2013,Day Care,Fail,1
+2013,Day Care,Fail,33
+2013,Day Care,Fail,2
+2013,Day Care,Fail,33
+2013,Day Care,Fail,6
+2013,Day Care,No Entry,5
+2013,Day Care,No Entry,4
+2013,Day Care,No Entry,3
+2013,Day Care,Out of Business,2
+2013,Day Care,Out of Business,27
+2013,Day Care,Out of Business,4
+2013,Day Care,Out of Business,5
+2013,Day Care,Out of Business,17
+2013,Day Care,Out of Business,17
+2013,Day Care,Pass,1
+2013,Day Care,Pass,1
+2013,Day Care,Pass,1
+2013,Day Care,Pass,3
+2013,Day Care,Pass,114
+2013,Day Care,Pass,11
+2013,Day Care,Pass,1
+2013,Day Care,Pass,119
+2013,Day Care,Pass,1
+2013,Day Care,Pass,33
+2013,Day Care,Pass w/ Conditions,3
+2013,Day Care,Pass w/ Conditions,1
+2013,Day Care,Pass w/ Conditions,2
+2013,Day Spa,Pass,1
+2013,Deli,Pass,1
+2013,Donut Shop,Pass w/ Conditions,1
+2013,Drug Store,Fail,1
+2013,Drug Store,Pass,1
+2013,Drug Store,Pass,1
+2013,Employee Kitchen,Pass,2
+2013,Fish Market,Pass,1
+2013,Fitness Center,Pass,1
+2013,Fitness Center,Pass,1
+2013,Frozen Dessert,Pass,1
+2013,Frozen Dessert,Pass w/ Conditions,1
+2013,Gas Station,Fail,5
+2013,Gas Station,Fail,1
+2013,Gas Station,Out of Business,3
+2013,Gas Station,Out of Business,1
+2013,Gas Station,Out of Business,1
+2013,Gas Station,Out of Business,1
+2013,Gas Station,Out of Business,1
+2013,Gas Station,Pass,8
+2013,Gas Station,Pass,1
+2013,Gas Station,Pass,1
+2013,Gas Station,Pass,1
+2013,Gas Station,Pass,1
+2013,Gas Station,Pass,1
+2013,Gas Station,Pass w/ Conditions,3
+2013,Frozen Dessert,Pass,1
+2013,Golden Diner,Fail,13
+2013,Golden Diner,No Entry,3
+2013,Golden Diner,Out of Business,9
+2013,Golden Diner,Pass,44
+2013,Golden Diner,Pass w/ Conditions,6
+2013,Grocery,Business Not Located,2
+2013,Grocery,Fail,1
+2013,Grocery,Fail,622
+2013,Grocery,Fail,1
+2013,Grocery,Fail,1
+2013,Grocery,No Entry,61
+2013,Grocery,No Entry,1
+2013,Grocery,Out of Business,355
+2013,Grocery,Out of Business,1
+2013,Grocery,Out of Business,1
+2013,Grocery,Out of Business,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1707
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,2
+2013,Grocery,Pass,2
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass,2
+2013,Grocery,Pass,1
+2013,Grocery,Pass,1
+2013,Grocery,Pass w/ Conditions,252
+2013,Grocery,Pass w/ Conditions,1
+2013,Grocery,Pass w/ Conditions,1
+2013,Hospital,Fail,6
+2013,Hospital,Out of Business,2
+2013,Hospital,Pass,31
+2013,Hospital,Pass,1
+2013,Hospital,Pass w/ Conditions,2
+2013,Hot Dog,Pass,1
+2013,Frozen Dessert,Pass,2
+2013,Illegal Vendor,Fail,1
+2013,Juice Bar,Out of Business,1
+2013,Kiosk,Fail,3
+2013,Kiosk,Fail,1
+2013,Kiosk,Pass,4
+2013,Kiosk,Pass,1
+2013,Liquor,Fail,23
+2013,Liquor,No Entry,4
+2013,Liquor,Out of Business,4
+2013,Liquor,Pass,37
+2013,Liquor,Pass w/ Conditions,2
+2013,Butcher,Fail,1
+2013,Butcher,Fail,1
+2013,Butcher,Out of Business,1
+2013,Butcher,Pass,3
+2013,Butcher,Pass,2
+2013,Long Term Care,Fail,10
+2013,Long Term Care,Out of Business,1
+2013,Long Term Care,Out of Business,1
+2013,Long Term Care,Pass,33
+2013,Long Term Care,Pass,1
+2013,Long Term Care,Pass w/ Conditions,5
+2013,Lounge,Fail,1
+2013,Lounge,Pass,1
+2013,Main Kitchen,Out of Business,1
+2013,Meat Packing,Pass,1
+2013,Mobile Food,Business Not Located,1
+2013,Mobile Food,Fail,20
+2013,Mobile Food,Fail,25
+2013,Mobile Food,Fail,1
+2013,Mobile Food,Fail,1
+2013,Mobile Food,Fail,2
+2013,Mobile Food,No Entry,4
+2013,Mobile Food,Out of Business,3
+2013,Mobile Food,Out of Business,1
+2013,Mobile Food,Pass,31
+2013,Mobile Food,Pass,22
+2013,Mobile Food,Pass,1
+2013,Mobile Food,Pass w/ Conditions,1
+2013,Mobile Food,Pass w/ Conditions,1
+2013,Mobile Food,Pass w/ Conditions,6
+2013,Mobile Food,Pass w/ Conditions,5
+2013,Mobile Food,Pass w/ Conditions,4
+2013,Mobile Food,Pass w/ Conditions,7
+2013,Movie Theater,No Entry,1
+2013,Movie Theater,Pass w/ Conditions,1
+2013,Newsstand,Fail,1
+2013,Newsstand,Out of Business,1
+2013,Night Club,No Entry,1
+2013,Night Club,Pass,1
+2013,Nonprofit,Out of Business,1
+2013,Cooking Instruction,Pass,1
+2013,Nursing Home,Out of Business,1
+2013,Nursing Home,Pass,2
+2013,Other,Fail,7
+2013,Other,No Entry,19
+2013,Other,Out of Business,865
+2013,Other,Pass,5
+2013,Other,Pass w/ Conditions,4
+2013,Packaged Food Distribution,No Entry,1
+2013,Packaged Food Distribution,Pass,1
+2013,Pantry,Out of Business,5
+2013,Pharmacy,Out of Business,1
+2013,Popcorn,Out of Business,1
+2013,Private School,Fail,1
+2013,Private School,Pass,2
+2013,Private School,Pass,1
+2013,Protein Shake Bar,Fail,1
+2013,Protein Shake Bar,Pass w/ Conditions,1
+2013,Public School,Pass,1
+2013,REGULATED BUSINESS,No Entry,1
+2013,REGULATED BUSINESS,Pass,1
+2013,Rehab Center,Pass,1
+2013,Repackaging plant,Pass,1
+2013,Restaurant,Business Not Located,1
+2013,Restaurant,Fail,2177
+2013,Restaurant,Fail,1
+2013,Restaurant,Fail,1
+2013,Restaurant,Fail,1
+2013,Restaurant,No Entry,551
+2013,Restaurant,Out of Business,1645
+2013,Restaurant,Pass,8206
+2013,Restaurant,Pass,1
+2013,Restaurant,Pass,1
+2013,Restaurant,Pass,2
+2013,Restaurant,Pass w/ Conditions,1353
+2013,Restaurant/Grocery,Fail,1
+2013,Restaurant/Grocery,Fail,1
+2013,Restaurant/Grocery,Out of Business,1
+2013,Restaurant/Grocery,Pass,1
+2013,Restaurant/Liquor,Fail,1
+2013,Restaurant/Liquor,Out of Business,1
+2013,Restaurant/Liquor,Pass,1
+2013,Retail,Fail,1
+2013,Retail,Pass,1
+2013,RIVERWALK,Out of Business,2
+2013,RIVERWALK,Out of Business,1
+2013,Rooftop,Fail,1
+2013,Rooftop,Out of Business,1
+2013,Rooftop,Out of Business,1
+2013,Rooftop,Pass,1
+2013,Rooftop,Pass,1
+2013,Rooftop,Pass,3
+2013,Rooftop,Pass,3
+2013,Rooftop,Pass,1
+2013,Rooftop,Pass,2
+2013,Rooftop,Pass,1
+2013,Rooftop,Pass w/ Conditions,1
+2013,School,Fail,192
+2013,School,No Entry,9
+2013,School,Out of Business,74
+2013,School,Pass,909
+2013,School,Pass,1
+2013,School,Pass w/ Conditions,45
+2013,Senior Day Care,Pass,1
+2013,Shared Kitchen,Pass,2
+2013,Shared Kitchen,Pass,11
+2013,Shared Kitchen,Pass,3
+2013,Shelter,Pass,10
+2013,Slaughterhouse,Fail,1
+2013,Slaughterhouse,Pass,1
+2013,Smokehouse,Pass,1
+2013,Snack Shop,Pass,1
+2013,Special Event,Out of Business,5
+2013,Special Event,Pass,13
+2013,Stadium,Pass w/ Conditions,3
+2013,Store,Fail,1
+2013,Store,Pass,2
+2013,Supportive Living,Pass,1
+2013,Supportive Living,Pass w/ Conditions,1
+2013,Tavern,Fail,15
+2013,Tavern,No Entry,3
+2013,Tavern,Out of Business,5
+2013,Tavern,Pass,18
+2013,Tavern,Pass,2
+2013,Tavern,Pass w/ Conditions,1
+2013,Teaching School,Pass,1
+2013,Theater,Fail,2
+2013,Theater,Pass,1
+2013,Theater,Pass,2
+2013,University CAFETERIA,Fail,2
+2013,University CAFETERIA,Pass,3
+2013,Unused Storage,Pass,1
+2013,Wholesale,Fail,4
+2013,Wholesale,No Entry,1
+2013,Wholesale,Out of Business,3
+2013,Wholesale,Pass,10
+2013,Wine,Fail,2
+2013,Wine,Fail,1
+2013,Wine,Out of Business,1
+2013,Wine,Pass,2
+2014,15 months to 5 years old,Pass,1
+2014,After School Program,Pass,1
+2014,Art Gallery With Wine And Beer,Fail,1
+2014,Art Gallery With Wine And Beer,Pass,1
+2014,Assisted Living,Pass,1
+2014,Assisted Living Senior Care,Pass,2
+2014,Bakery,Fail,69
+2014,Bakery,No Entry,14
+2014,Bakery,Out of Business,25
+2014,Bakery,Pass,203
+2014,Bakery,Pass w/ Conditions,28
+2014,Bakery/Deli,Pass,2
+2014,Bakery/Grocery,Out of Business,1
+2014,Banquet,Fail,1
+2014,Banquet,Fail,1
+2014,Banquet,Fail,2
+2014,Banquet,Fail,1
+2014,Banquet,Fail,1
+2014,Banquet,No Entry,2
+2014,Banquet,No Entry,7
+2014,Banquet,Out of Business,1
+2014,Banquet,Out of Business,1
+2014,Banquet,Pass,4
+2014,Banquet,Pass,1
+2014,Banquet,Pass,1
+2014,Banquet,Pass,10
+2014,Banquet,Pass,1
+2014,Banquet,Pass,1
+2014,Banquet,Pass,1
+2014,Banquet,Pass w/ Conditions,1
+2014,Banquet,Pass w/ Conditions,1
+2014,Bar,Fail,1
+2014,Bar,Out of Business,1
+2014,Bar,Pass,1
+2014,Bar,Pass,1
+2014,Bar/Grill,No Entry,1
+2014,Bar/Grill,Out of Business,1
+2014,Before And After School Program,Pass w/ Conditions,1
+2014,Beverage/Silverware Warehouse,Pass,1
+2014,Bowling Lanes,No Entry,1
+2014,Bowling Lanes,Pass,1
+2014,Bowling Lanes,Pass w/ Conditions,1
+2014,Brewery,Pass,1
+2014,Butcher Shop,Pass,1
+2014,Cafe,Pass,1
+2014,Cafeteria,Pass,3
+2014,Cafeteria,Pass,1
+2014,Cafeteria,Pass,1
+2014,Candy/Gelato,Pass,1
+2014,Catering,Fail,13
+2014,Catering,No Entry,13
+2014,Catering,Out of Business,6
+2014,Catering,Pass,83
+2014,Catering,Pass,2
+2014,Catering,Pass w/ Conditions,10
+2014,Charity Aid Kitchen,Pass,1
+2014,Charter School,Fail,1
+2014,Charter School,Fail,1
+2014,Charter School,Pass,1
+2014,Charter School,Pass,1
+2014,Children's Services Facility,Fail,40
+2014,Children's Services Facility,No Entry,2
+2014,Children's Services Facility,Out of Business,5
+2014,Children's Services Facility,Pass,122
+2014,Children's Services Facility,Pass w/ Conditions,5
+2014,Church,Fail,1
+2014,Church,Fail,2
+2014,Church,Pass,3
+2014,Church,Pass,1
+2014,Church,Pass,2
+2014,Church,Pass,1
+2014,City of Chicago College,Fail,1
+2014,City of Chicago College,Pass,1
+2014,Coffee,Out of Business,2
+2014,Coffee,Out of Business,1
+2014,Coffee,Pass,1
+2014,Coffee,Pass w/ Conditions,1
+2014,College,Pass,1
+2014,Convenience,Fail,1
+2014,Convenience,Fail,1
+2014,Convenience,Fail,1
+2014,Convenience,No Entry,1
+2014,Convenience,Out of Business,1
+2014,Convenience,Out of Business,1
+2014,Convenience,Pass,2
+2014,Convenience,Pass,1
+2014,Convenience,Pass,1
+2014,Convenience,Pass,3
+2014,Convenience,Pass,1
+2014,Convenience,Pass,1
+2014,Convenience,Pass w/ Conditions,1
+2014,Cooking Instruction,Pass,1
+2014,Cooking Instruction,Pass,1
+2014,Cooking Instruction,Pass,1
+2014,Cooking Instruction,Pass,3
+2014,Cooking Instruction,Pass,1
+2014,Cooking Instruction,Pass,1
+2014,Cooking Instruction,Pass w/ Conditions,1
+2014,Cooking Instruction,Pass w/ Conditions,2
+2014,Day Care,Business Not Located,1
+2014,Day Care,Fail,27
+2014,Day Care,Fail,5
+2014,Day Care,Fail,46
+2014,Day Care,Fail,4
+2014,Day Care,No Entry,2
+2014,Day Care,No Entry,1
+2014,Day Care,Out of Business,1
+2014,Day Care,Out of Business,21
+2014,Day Care,Out of Business,4
+2014,Day Care,Out of Business,12
+2014,Day Care,Pass,108
+2014,Day Care,Pass,5
+2014,Day Care,Pass,100
+2014,Day Care,Pass,12
+2014,Day Care,Pass,1
+2014,Day Care,Pass w/ Conditions,1
+2014,Day Care,Pass w/ Conditions,3
+2014,Day Care,Pass w/ Conditions,14
+2014,Day Care,Pass w/ Conditions,4
+2014,Day Care Above 2 Years,Out of Business,1
+2014,Deli,Out of Business,1
+2014,Dollar Store,Fail,1
+2014,Dollar Store,Pass,1
+2014,Donut Shop,Pass,1
+2014,Employee Kitchen,Pass,2
+2014,Fitness Center,Out of Business,1
+2014,Fitness Center,Pass,1
+2014,Fitness Center,Pass w/ Conditions,1
+2014,Fitness Center,Pass w/ Conditions,1
+2014,Frozen Dessert,Out of Business,1
+2014,Frozen Dessert,Pass,2
+2014,Frozen Dessert,Pass w/ Conditions,1
+2014,Gas Station,Fail,1
+2014,Gas Station,Fail,1
+2014,Gas Station,Out of Business,2
+2014,Gas Station,Pass,7
+2014,Gas Station,Pass,1
+2014,Gas Station,Pass,1
+2014,Gas Station,Pass,1
+2014,Frozen Dessert,Pass,1
+2014,Golden Diner,Fail,6
+2014,Golden Diner,No Entry,1
+2014,Golden Diner,Out of Business,2
+2014,Golden Diner,Pass,41
+2014,Golden Diner,Pass w/ Conditions,5
+2014,Golf Course,Fail,1
+2014,Grocery,Business Not Located,1
+2014,Grocery,Fail,595
+2014,Grocery,Fail,1
+2014,Grocery,No Entry,60
+2014,Grocery,Out of Business,375
+2014,Grocery,Out of Business,1
+2014,Grocery,Pass,2
+2014,Grocery,Pass,1
+2014,Grocery,Pass,1688
+2014,Grocery,Pass,2
+2014,Grocery,Pass,1
+2014,Grocery,Pass,2
+2014,Grocery,Pass,2
+2014,Grocery,Pass,1
+2014,Grocery,Pass,1
+2014,Grocery,Pass,1
+2014,Grocery,Pass,1
+2014,Grocery,Pass,1
+2014,Grocery,Pass w/ Conditions,2
+2014,Grocery,Pass w/ Conditions,279
+2014,Grocery,Pass w/ Conditions,1
+2014,Grocery,Pass w/ Conditions,1
+2014,Grocery,Pass w/ Conditions,1
+2014,Health Care Store,Fail,1
+2014,Health Care Store,Pass,1
+2014,Health Center,Out of Business,1
+2014,Herbal,Fail,1
+2014,Herbal,Fail,1
+2014,Herbal,Fail,1
+2014,Herbal,Out of Business,1
+2014,Herbal,Out of Business,1
+2014,Herbal,Pass,1
+2014,Herbal,Pass,1
+2014,Hospital,Fail,6
+2014,Hospital,Fail,1
+2014,Hospital,Out of Business,3
+2014,Hospital,Pass,21
+2014,Hospital,Pass,1
+2014,Hospital,Pass w/ Conditions,5
+2014,Hot Dog,Out of Business,1
+2014,Frozen Dessert,Out of Business,1
+2014,Frozen Dessert,Pass,1
+2014,Juice Bar,Fail,1
+2014,Juice Bar,Pass,1
+2014,Kiosk,Out of Business,2
+2014,Kiosk,Pass,1
+2014,Liquor,Fail,33
+2014,Liquor,No Entry,3
+2014,Liquor,Out of Business,10
+2014,Liquor,Pass,43
+2014,Liquor,Pass,1
+2014,Liquor,Pass,1
+2014,Liquor,Pass,1
+2014,Liquor,Pass w/ Conditions,1
+2014,Butcher,Fail,3
+2014,Butcher,Out of Business,2
+2014,Butcher,Pass,4
+2014,Butcher,Pass w/ Conditions,2
+2014,Long Term Care,Fail,9
+2014,Long Term Care,Out of Business,1
+2014,Long Term Care,Pass,27
+2014,Long Term Care,Pass w/ Conditions,1
+2014,Lounge,No Entry,1
+2014,Lounge,Pass,1
+2014,Meat Packing,No Entry,1
+2014,Mobile Food,Fail,14
+2014,Mobile Food,Fail,29
+2014,Mobile Food,Fail,2
+2014,Mobile Food,No Entry,2
+2014,Mobile Food,No Entry,1
+2014,Mobile Food,Out of Business,8
+2014,Mobile Food,Pass,23
+2014,Mobile Food,Pass,37
+2014,Mobile Food,Pass w/ Conditions,3
+2014,Mobile Food,Pass w/ Conditions,1
+2014,Mobile Food,Pass w/ Conditions,2
+2014,Mobile Food,Pass w/ Conditions,2
+2014,Movie Theater,Out of Business,1
+2014,Movie Theater,Pass,2
+2014,Movie Theater,Pass w/ Conditions,1
+2014,Music Venue,Fail,1
+2014,Music Venue,Pass,1
+2014,Cooking Instruction,Pass,1
+2014,Northerly Island,Fail,1
+2014,Northerly Island,Pass,1
+2014,Northerly Island,Pass w/ Conditions,1
+2014,Nursing Home,Out of Business,1
+2014,Other,Business Not Located,4
+2014,Other,Fail,13
+2014,Other,No Entry,8
+2014,Other,Out of Business,502
+2014,Other,Pass,15
+2014,Other,Pass w/ Conditions,1
+2014,Other,Pass w/ Conditions,2
+2014,Packaged Food Distribution,Out of Business,1
+2014,Private School,Out of Business,1
+2014,Private School,Pass,1
+2014,Private School,Pass,1
+2014,Private School,Pass w/ Conditions,1
+2014,Protein Shake Bar,Fail,1
+2014,Protein Shake Bar,Pass,1
+2014,Public School,Out of Business,1
+2014,Public School,Pass w/ Conditions,1
+2014,Push Carts,Pass w/ Conditions,1
+2014,Rehab Center,Pass,1
+2014,Restaurant,Business Not Located,3
+2014,Restaurant,Fail,2533
+2014,Restaurant,Fail,4
+2014,Restaurant,No Entry,630
+2014,Restaurant,No Entry,1
+2014,Restaurant,Out of Business,1053
+2014,Restaurant,Out of Business,1
+2014,Restaurant,Pass,8988
+2014,Restaurant,Pass,2
+2014,Restaurant,Pass,1
+2014,Restaurant,Pass,1
+2014,Restaurant,Pass w/ Conditions,1839
+2014,Restaurant/Grocery,Fail,1
+2014,Restaurant/Grocery,Pass,1
+2014,Restaurant/Grocery,Pass w/ Conditions,1
+2014,Retail,No Entry,1
+2014,Retail,Out of Business,1
+2014,Retail,Pass,1
+2014,Rooftop,Fail,1
+2014,Rooftop,Fail,1
+2014,Rooftop,Out of Business,1
+2014,Rooftop,Out of Business,1
+2014,Rooftop,Pass,1
+2014,Rooftop,Pass,1
+2014,Rooftop,Pass,2
+2014,Rooftop,Pass,3
+2014,Rooftop,Pass,1
+2014,Rooftop,Pass,2
+2014,Rooftop,Pass,2
+2014,Rooftop,Pass w/ Conditions,1
+2014,School,Fail,206
+2014,School,No Entry,4
+2014,School,Out of Business,81
+2014,School,Pass,857
+2014,School,Pass w/ Conditions,69
+2014,Senior Day Care,Pass,1
+2014,Shared Kitchen,Fail,2
+2014,Shared Kitchen,Out of Business,1
+2014,Shared Kitchen,Pass,5
+2014,Shared Kitchen,Pass,1
+2014,Shared Kitchen,Pass,3
+2014,Shared Kitchen,Pass w/ Conditions,1
+2014,Shared Kitchen,Pass w/ Conditions,1
+2014,Shelter,Fail,1
+2014,Shelter,Out of Business,2
+2014,Shelter,Pass,6
+2014,Shelter,Pass w/ Conditions,1
+2014,Smokehouse,Pass,1
+2014,Special Event,Fail,2
+2014,Special Event,Pass,16
+2014,Stadium,Fail,1
+2014,Stadium,Pass,2
+2014,Stadium,Pass w/ Conditions,1
+2014,Store,Fail,1
+2014,Store,Pass,1
+2014,Supportive Living,Pass,1
+2014,Tavern,Fail,1
+2014,Tavern,Fail,9
+2014,Tavern,Fail,2
+2014,Tavern,No Entry,1
+2014,Tavern,No Entry,1
+2014,Tavern,Pass,2
+2014,Tavern,Pass,14
+2014,Tavern,Pass,3
+2014,Tavern,Pass w/ Conditions,1
+2014,Teaching School,Pass,1
+2014,Theater,Fail,5
+2014,Theater,Pass,4
+2014,Truck,Fail,2
+2014,Truck,Pass,1
+2014,Truck,Pass w/ Conditions,2
+2014,University CAFETERIA,Pass,1
+2014,Vfw Hall,No Entry,1
+2014,Vfw Hall,Pass,1
+2014,Video Store,Out of Business,1
+2014,Wholesale,Fail,2
+2014,Wholesale,Out of Business,1
+2014,Wholesale,Pass,7
+2014,Wholesale,Pass w/ Conditions,1
+2014,Wine,Out of Business,1
+2014,Wine,Pass,1
+2015,15 months to 5 years old,Pass,1
+2015,Adult Family Care Center,Out of Business,1
+2015,After School Program,Pass,1
+2015,Assisted Living,Pass,2
+2015,Assisted Living,Pass w/ Conditions,1
+2015,Assisted Living Senior Care,Pass,1
+2015,Assisted Living Senior Care,Pass w/ Conditions,1
+2015,Bakery,Fail,59
+2015,Bakery,No Entry,14
+2015,Bakery,Not Ready,5
+2015,Bakery,Out of Business,26
+2015,Bakery,Pass,196
+2015,Bakery,Pass w/ Conditions,24
+2015,Bakery/Deli,Pass,2
+2015,Banquet,Fail,3
+2015,Banquet,Fail,1
+2015,Banquet,No Entry,3
+2015,Banquet,No Entry,5
+2015,Banquet,No Entry,1
+2015,Banquet,No Entry,1
+2015,Banquet,Out of Business,1
+2015,Banquet,Pass,3
+2015,Banquet,Pass,5
+2015,Banquet,Pass,1
+2015,Banquet,Pass,1
+2015,Banquet,Pass,8
+2015,Banquet,Pass,1
+2015,Banquet,Pass,1
+2015,Banquet,Pass,1
+2015,Banquet,Pass w/ Conditions,1
+2015,Bar,Pass,2
+2015,Before And After School Program,Pass w/ Conditions,1
+2015,Bowling Lanes,Out of Business,1
+2015,Brewery,Pass,2
+2015,Butcher Shop,Pass,1
+2015,Cafe,Pass,1
+2015,Cafeteria,Fail,1
+2015,Cafeteria,Out of Business,1
+2015,Cafeteria,Pass,2
+2015,Cafeteria,Pass,1
+2015,Cafeteria,Pass,1
+2015,Candy,Out of Business,1
+2015,Candy/Gelato,Pass,1
+2015,Catering,Fail,23
+2015,Catering,No Entry,8
+2015,Catering,Out of Business,6
+2015,Catering,Pass,79
+2015,Catering,Pass w/ Conditions,14
+2015,Cell Phone Store,Fail,2
+2015,Cell Phone Store,Pass,1
+2015,Charity Aid Kitchen,Pass,1
+2015,Charter School,Fail,1
+2015,Charter School,Pass,1
+2015,Charter School,Pass,1
+2015,Charter School,Pass,1
+2015,Children's Services Facility,Fail,1
+2015,Children's Services Facility,Fail,81
+2015,Children's Services Facility,No Entry,2
+2015,Children's Services Facility,No Entry,11
+2015,Children's Services Facility,Not Ready,3
+2015,Children's Services Facility,Out of Business,1
+2015,Children's Services Facility,Out of Business,1
+2015,Children's Services Facility,Out of Business,7
+2015,Children's Services Facility,Pass,2
+2015,Children's Services Facility,Pass,3
+2015,Children's Services Facility,Pass,1
+2015,Children's Services Facility,Pass,1
+2015,Children's Services Facility,Pass,316
+2015,Children's Services Facility,Pass,1
+2015,Children's Services Facility,Pass w/ Conditions,18
+2015,Chinese Herbs,Pass,1
+2015,Church,Fail,1
+2015,Church,Pass,2
+2015,Church,Pass,2
+2015,Church,Pass,1
+2015,City of Chicago College,Out of Business,1
+2015,City of Chicago College,Pass,1
+2015,Coffee,Fail,1
+2015,Coffee,Out of Business,1
+2015,Coffee,Pass,1
+2015,Coffee,Pass,1
+2015,Coffee,Pass,1
+2015,Coffee,Pass,1
+2015,Coffee,Pass w/ Conditions,1
+2015,College,Pass,1
+2015,Commissary,Fail,1
+2015,Commissary,Out of Business,1
+2015,Commissary,Pass,3
+2015,Commissary,Pass w/ Conditions,1
+2015,Convenience,Fail,1
+2015,Convenience,Not Ready,1
+2015,Convenience,Out of Business,2
+2015,Convenience,Out of Business,1
+2015,Convenience,Out of Business,2
+2015,Convenience,Pass,2
+2015,Convenience,Pass,2
+2015,Convenience,Pass,3
+2015,Convenience,Pass,2
+2015,Convenience,Pass,1
+2015,Convenience,Pass w/ Conditions,1
+2015,Cooking Instruction,Fail,1
+2015,Cooking Instruction,No Entry,1
+2015,Cooking Instruction,Pass,1
+2015,Cooking Instruction,Pass,1
+2015,Cooking Instruction,Pass,2
+2015,Cooking Instruction,Pass,1
+2015,Cooking Instruction,Pass,1
+2015,Cooking Instruction,Pass w/ Conditions,1
+2015,Cooking Instruction,Pass w/ Conditions,1
+2015,Custom Poultry Slaughter,Out of Business,1
+2015,Custom Poultry Slaughter,Pass,1
+2015,Day Care,Fail,1
+2015,Day Care,Fail,34
+2015,Day Care,Fail,2
+2015,Day Care,Fail,1
+2015,Day Care,Fail,32
+2015,Day Care,Fail,3
+2015,Day Care,Fail,1
+2015,Day Care,No Entry,10
+2015,Day Care,No Entry,2
+2015,Day Care,No Entry,7
+2015,Day Care,No Entry,2
+2015,Day Care,Not Ready,3
+2015,Day Care,Not Ready,1
+2015,Day Care,Out of Business,2
+2015,Day Care,Out of Business,1
+2015,Day Care,Out of Business,58
+2015,Day Care,Out of Business,3
+2015,Day Care,Out of Business,17
+2015,Day Care,Out of Business,25
+2015,Day Care,Pass,3
+2015,Day Care,Pass,160
+2015,Day Care,Pass,10
+2015,Day Care,Pass,1
+2015,Day Care,Pass,1
+2015,Day Care,Pass,192
+2015,Day Care,Pass,1
+2015,Day Care,Pass,23
+2015,Day Care,Pass,1
+2015,Day Care,Pass w/ Conditions,1
+2015,Day Care,Pass w/ Conditions,15
+2015,Day Care,Pass w/ Conditions,1
+2015,Day Care,Pass w/ Conditions,16
+2015,Day Care,Pass w/ Conditions,4
+2015,Distribution Center,Pass,1
+2015,Dollar Store,Fail,1
+2015,Dollar Store,No Entry,1
+2015,Dollar Store,Out of Business,1
+2015,Dollar Store,Out of Business,1
+2015,Dollar Store,Pass,1
+2015,Donut Shop,Pass w/ Conditions,1
+2015,Drug Store,Pass,1
+2015,Employee Kitchen,Pass,1
+2015,Fish Market,Pass,1
+2015,Fitness Center,Pass,1
+2015,Fitness Center,Pass,1
+2015,Frozen Dessert,Pass,1
+2015,Frozen Dessert,Pass w/ Conditions,1
+2015,Frozen Dessert,Pass w/ Conditions,1
+2015,Gas Station,Fail,4
+2015,Gas Station,Fail,1
+2015,Gas Station,Fail,1
+2015,Gas Station,Not Ready,1
+2015,Gas Station,Out of Business,1
+2015,Gas Station,Out of Business,1
+2015,Gas Station,Out of Business,1
+2015,Gas Station,Pass,6
+2015,Gas Station,Pass,1
+2015,Gas Station,Pass,2
+2015,Gas Station,Pass,1
+2015,Golden Diner,Fail,11
+2015,Golden Diner,No Entry,1
+2015,Golden Diner,Out of Business,1
+2015,Golden Diner,Pass,41
+2015,Golden Diner,Pass w/ Conditions,11
+2015,Golf Course,Fail,1
+2015,Golf Course,Pass,1
+2015,Grocery,Fail,2
+2015,Grocery,Fail,485
+2015,Grocery,Fail,1
+2015,Grocery,Fail,1
+2015,Grocery,No Entry,49
+2015,Grocery,No Entry,1
+2015,Grocery,Not Ready,40
+2015,Grocery,Out of Business,1
+2015,Grocery,Out of Business,352
+2015,Grocery,Out of Business,1
+2015,Grocery,Out of Business,1
+2015,Grocery,Out of Business,1
+2015,Grocery,Out of Business,1
+2015,Grocery,Out of Business,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1502
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,1
+2015,Grocery,Pass,2
+2015,Grocery,Pass,1
+2015,Grocery,Pass w/ Conditions,264
+2015,Grocery,Pass w/ Conditions,1
+2015,Grocery,Pass w/ Conditions,1
+2015,Health Care Store,Pass,1
+2015,Health Center,No Entry,1
+2015,Herbal,Out of Business,1
+2015,Herbal,Pass,1
+2015,Herbal,Pass,2
+2015,Herbal,Pass,1
+2015,Hospital,Fail,12
+2015,Hospital,Out of Business,6
+2015,Hospital,Out of Business,1
+2015,Hospital,Pass,49
+2015,Hospital,Pass,1
+2015,Hospital,Pass w/ Conditions,7
+2015,Hospital,Pass w/ Conditions,2
+2015,Frozen Dessert,Fail,1
+2015,Frozen Dessert,Pass,1
+2015,Frozen Dessert,Pass,1
+2015,Juice Bar,Fail,1
+2015,Juice Bar,Pass,1
+2015,Juice Bar,Pass w/ Conditions,1
+2015,Kiosk,Out of Business,1
+2015,Kiosk,Pass,1
+2015,Liquor,Fail,19
+2015,Liquor,Fail,2
+2015,Liquor,No Entry,2
+2015,Liquor,Not Ready,4
+2015,Liquor,Out of Business,6
+2015,Liquor,Out of Business,1
+2015,Liquor,Pass,40
+2015,Liquor,Pass,2
+2015,Butcher,Fail,1
+2015,Butcher,Pass,2
+2015,Butcher,Pass,1
+2015,Butcher,Pass w/ Conditions,2
+2015,Long Term Care,Fail,31
+2015,Long Term Care,Out of Business,13
+2015,Long Term Care,Pass,119
+2015,Long Term Care,Pass,1
+2015,Long Term Care,Pass,1
+2015,Long Term Care,Pass w/ Conditions,11
+2015,Long Term Care,Pass w/ Conditions,1
+2015,Lounge,Pass,1
+2015,Massage,Fail,1
+2015,Massage,Pass,1
+2015,Meat Packing,Fail,1
+2015,Meat Packing,Pass,1
+2015,Mfd Truck,Fail,1
+2015,Mfd Truck,Pass,1
+2015,Mobile Food,Fail,12
+2015,Mobile Food,Fail,15
+2015,Mobile Food,Fail,4
+2015,Mobile Food,Fail,2
+2015,Mobile Food,No Entry,2
+2015,Mobile Food,No Entry,2
+2015,Mobile Food,No Entry,2
+2015,Mobile Food,Not Ready,2
+2015,Mobile Food,Not Ready,4
+2015,Mobile Food,Not Ready,2
+2015,Mobile Food,Out of Business,1
+2015,Mobile Food,Pass,27
+2015,Mobile Food,Pass,46
+2015,Mobile Food,Pass,2
+2015,Mobile Food,Pass w/ Conditions,5
+2015,Mobile Food,Pass w/ Conditions,1
+2015,Mobile Food,Pass w/ Conditions,6
+2015,Mobile Food,Pass w/ Conditions,1
+2015,Mobile Food,Pass w/ Conditions,9
+2015,Movie Theater,Fail,1
+2015,Movie Theater,Out of Business,1
+2015,Movie Theater,Pass,1
+2015,Cooking Instruction,Pass,1
+2015,Nursing Home,Fail,1
+2015,Nursing Home,Pass,1
+2015,Other,Fail,10
+2015,Other,No Entry,7
+2015,Other,Not Ready,5
+2015,Other,Out of Business,208
+2015,Other,Pass,5
+2015,Butcher,Fail,1
+2015,Butcher,Out of Business,1
+2015,Butcher,Pass,2
+2015,Private School,Fail,1
+2015,Private School,Fail,2
+2015,Private School,Not Ready,1
+2015,Private School,Not Ready,1
+2015,Private School,Pass,2
+2015,Private School,Pass,5
+2015,Public School,Pass,1
+2015,Push Carts,Pass w/ Conditions,2
+2015,REGULATED BUSINESS,Pass,1
+2015,Rehab Center,Pass w/ Conditions,1
+2015,Restaurant,Business Not Located,3
+2015,Restaurant,Fail,2479
+2015,Restaurant,No Entry,743
+2015,Restaurant,Not Ready,173
+2015,Restaurant,Out of Business,1088
+2015,Restaurant,Pass,8202
+2015,Restaurant,Pass,1
+2015,Restaurant,Pass,3
+2015,Restaurant,Pass w/ Conditions,1636
+2015,Restaurant,Pass w/ Conditions,1
+2015,Restaurant/Grocery,Pass,2
+2015,Retail,Pass,1
+2015,Retail,Pass w/ Conditions,1
+2015,RIVERWALK,Pass,1
+2015,Rooftop,Out of Business,1
+2015,Rooftop,Out of Business,1
+2015,Rooftop,Pass,1
+2015,Rooftop,Pass,2
+2015,Rooftop,Pass,3
+2015,Rooftop,Pass,6
+2015,Rooftop,Pass,2
+2015,Rooftop,Pass,2
+2015,Rooftop,Pass,1
+2015,Rooftop,Pass w/ Conditions,1
+2015,School,Fail,232
+2015,School,No Entry,6
+2015,School,Not Ready,1
+2015,School,Out of Business,16
+2015,School,Pass,830
+2015,School,Pass w/ Conditions,83
+2015,Senior Day Care,Pass,1
+2015,Service Bar,Pass,1
+2015,Shared Kitchen,Fail,2
+2015,Shared Kitchen,No Entry,1
+2015,Shared Kitchen,Pass,9
+2015,Shared Kitchen,Pass,22
+2015,Shared Kitchen,Pass,14
+2015,Shelter,Pass,5
+2015,Shelter,Pass w/ Conditions,1
+2015,Slaughterhouse,Fail,1
+2015,Slaughterhouse,Pass,2
+2015,Smokehouse,Pass,1
+2015,Snack Shop,Business Not Located,1
+2015,Special Event,Fail,5
+2015,Special Event,Not Ready,2
+2015,Special Event,Out of Business,3
+2015,Special Event,Pass,16
+2015,Special Event,Pass w/ Conditions,2
+2015,Stadium,Fail,3
+2015,Stadium,Pass,3
+2015,Store,Out of Business,2
+2015,Supportive Living,Pass,1
+2015,Tavern,Fail,4
+2015,Tavern,No Entry,2
+2015,Tavern,Pass,8
+2015,Tavern,Pass,1
+2015,Tavern,Pass w/ Conditions,1
+2015,Tea,Out of Business,1
+2015,Teaching School,Pass,1
+2015,Theater,Fail,1
+2015,Theater,Pass,2
+2015,Theater,Pass,5
+2015,University CAFETERIA,Pass,1
+2015,University CAFETERIA,Pass w/ Conditions,1
+2015,Unused Storage,Pass,1
+2015,Urban Farm,Fail,1
+2015,Urban Farm,Pass,1
+2015,Warehouse,Fail,1
+2015,Warehouse,Pass,2
+2015,Weight Loss Program,Pass,1
+2015,Wholesale,Out of Business,2
+2015,Wholesale,Pass,5
+2016,15 months to 5 years old,Pass,1
+2016,After School Program,Fail,1
+2016,After School Program,Pass,1
+2016,Airport Lounge,Fail,2
+2016,Airport Lounge,Pass,2
+2016,Art Gallery,Fail,1
+2016,Assisted Living,Pass,2
+2016,Assisted Living,Pass,1
+2016,Assisted Living Senior Care,Pass,1
+2016,Bakery,Fail,82
+2016,Bakery,No Entry,15
+2016,Bakery,Not Ready,3
+2016,Bakery,Out of Business,22
+2016,Bakery,Pass,207
+2016,Bakery,Pass w/ Conditions,33
+2016,Bakery/Deli,Out of Business,1
+2016,Banquet,Fail,3
+2016,Banquet,No Entry,1
+2016,Banquet,No Entry,1
+2016,Banquet,No Entry,5
+2016,Banquet,Out of Business,1
+2016,Banquet,Out of Business,1
+2016,Banquet,Pass,2
+2016,Banquet,Pass,4
+2016,Banquet,Pass,2
+2016,Banquet,Pass,1
+2016,Banquet,Pass,11
+2016,Banquet,Pass,1
+2016,Banquet,Pass,1
+2016,Banquet,Pass,3
+2016,Banquet,Pass,1
+2016,Banquet,Pass w/ Conditions,1
+2016,Beverage/Silverware Warehouse,Pass,1
+2016,Butcher Shop,Pass,1
+2016,Cafe,Out of Business,1
+2016,Cafeteria,Pass,2
+2016,Cafeteria,Pass,2
+2016,Cafeteria,Pass,1
+2016,Candy/Gelato,Pass,1
+2016,Catering,Fail,25
+2016,Catering,No Entry,13
+2016,Catering,Not Ready,3
+2016,Catering,Out of Business,19
+2016,Catering,Pass,89
+2016,Catering,Pass w/ Conditions,15
+2016,Charity Aid Kitchen,No Entry,1
+2016,Charter School,Fail,2
+2016,Charter School,Pass,1
+2016,Charter School,Pass,1
+2016,Charter School,Pass,1
+2016,Children's Services Facility,Fail,1
+2016,Children's Services Facility,Fail,80
+2016,Children's Services Facility,No Entry,15
+2016,Children's Services Facility,Not Ready,3
+2016,Children's Services Facility,Out of Business,2
+2016,Children's Services Facility,Out of Business,1
+2016,Children's Services Facility,Out of Business,15
+2016,Children's Services Facility,Pass,3
+2016,Children's Services Facility,Pass,1
+2016,Children's Services Facility,Pass,1
+2016,Children's Services Facility,Pass,341
+2016,Children's Services Facility,Pass,1
+2016,Children's Services Facility,Pass w/ Conditions,29
+2016,Church,Fail,1
+2016,Church,Fail,2
+2016,Church,No Entry,1
+2016,Church,Pass,4
+2016,Church,Pass,1
+2016,Church,Pass,2
+2016,Church,Pass,1
+2016,Church,Pass,1
+2016,Coffee,Out of Business,1
+2016,Coffee,Pass,1
+2016,Coffee,Pass,1
+2016,Coffee,Pass,1
+2016,Coffee,Pass,1
+2016,College,Fail,1
+2016,College,Pass,2
+2016,Commissary,Fail,1
+2016,Commissary,No Entry,1
+2016,Commissary,Out of Business,1
+2016,Commissary,Pass,1
+2016,Commissary,Pass w/ Conditions,1
+2016,Convenience,Fail,1
+2016,Convenience,Fail,1
+2016,Convenience,Out of Business,3
+2016,Convenience,Pass,2
+2016,Convenience,Pass,3
+2016,Convenience,Pass w/ Conditions,1
+2016,Cooking Instruction,Fail,1
+2016,Cooking Instruction,Fail,1
+2016,Cooking Instruction,No Entry,1
+2016,Cooking Instruction,Out of Business,1
+2016,Cooking Instruction,Out of Business,1
+2016,Cooking Instruction,Pass,1
+2016,Cooking Instruction,Pass,2
+2016,Cooking Instruction,Pass,2
+2016,Cooking Instruction,Pass,1
+2016,Cooking Instruction,Pass,2
+2016,Day Care,Fail,33
+2016,Day Care,Fail,1
+2016,Day Care,Fail,46
+2016,Day Care,Fail,4
+2016,Day Care,Fail,1
+2016,Day Care,No Entry,14
+2016,Day Care,No Entry,1
+2016,Day Care,No Entry,9
+2016,Day Care,No Entry,1
+2016,Day Care,Not Ready,3
+2016,Day Care,Out of Business,23
+2016,Day Care,Out of Business,3
+2016,Day Care,Out of Business,1
+2016,Day Care,Out of Business,11
+2016,Day Care,Out of Business,6
+2016,Day Care,Pass,1
+2016,Day Care,Pass,2
+2016,Day Care,Pass,159
+2016,Day Care,Pass,8
+2016,Day Care,Pass,188
+2016,Day Care,Pass,21
+2016,Day Care,Pass,1
+2016,Day Care,Pass w/ Conditions,1
+2016,Day Care,Pass w/ Conditions,3
+2016,Day Care,Pass w/ Conditions,16
+2016,Day Care,Pass w/ Conditions,2
+2016,Dining Hall,Fail,1
+2016,Dining Hall,Pass,1
+2016,Distributor,Fail,1
+2016,Distributor,Out of Business,1
+2016,Dollar Store,Fail,1
+2016,Dollar Store,Not Ready,1
+2016,Dollar Store,Pass,1
+2016,Donut Shop,Pass,1
+2016,Employee Kitchen,Pass,1
+2016,Employee Kitchen,Pass w/ Conditions,1
+2016,Fitness Center,Fail,1
+2016,Fitness Center,Fail,1
+2016,Fitness Center,Not Ready,1
+2016,Fitness Center,Out of Business,1
+2016,Fitness Center,Pass,1
+2016,Fitness Center,Pass,1
+2016,Fitness Center,Pass,1
+2016,Frozen Dessert,Pass,1
+2016,Frozen Dessert,Pass w/ Conditions,1
+2016,Gas Station,Fail,1
+2016,Gas Station,Fail,2
+2016,Gas Station,Out of Business,2
+2016,Gas Station,Pass,4
+2016,Gas Station,Pass,1
+2016,Gas Station,Pass,1
+2016,Gas Station,Pass,1
+2016,Gas Station,Pass w/ Conditions,1
+2016,Frozen Dessert,Out of Business,1
+2016,Golden Diner,Fail,15
+2016,Golden Diner,No Entry,1
+2016,Golden Diner,Out of Business,4
+2016,Golden Diner,Pass,46
+2016,Golden Diner,Pass w/ Conditions,8
+2016,Golf Course,Pass w/ Conditions,1
+2016,Grocery,Business Not Located,1
+2016,Grocery,Fail,565
+2016,Grocery,Fail,1
+2016,Grocery,No Entry,69
+2016,Grocery,Not Ready,61
+2016,Grocery,Out of Business,239
+2016,Grocery,Pass,2
+2016,Grocery,Pass,1461
+2016,Grocery,Pass,1
+2016,Grocery,Pass,1
+2016,Grocery,Pass,3
+2016,Grocery,Pass,3
+2016,Grocery,Pass,2
+2016,Grocery,Pass,2
+2016,Grocery,Pass,2
+2016,Grocery,Pass,1
+2016,Grocery,Pass w/ Conditions,282
+2016,Grocery,Pass w/ Conditions,1
+2016,Health Center,Out of Business,1
+2016,Herbal,Fail,1
+2016,Herbal,Out of Business,1
+2016,Herbal,Pass,1
+2016,Herbal,Pass,2
+2016,Herbal,Pass w/ Conditions,1
+2016,Hospital,Fail,13
+2016,Hospital,No Entry,1
+2016,Hospital,Not Ready,1
+2016,Hospital,Pass,50
+2016,Hospital,Pass w/ Conditions,7
+2016,Hostel,Pass w/ Conditions,1
+2016,Hot Dog,Pass w/ Conditions,1
+2016,Frozen Dessert,Out of Business,1
+2016,Frozen Dessert,Pass,1
+2016,Juice Bar,Pass w/ Conditions,1
+2016,Kiosk,Fail,1
+2016,Kiosk,Pass,3
+2016,Kitchen Demo,Pass,1
+2016,Kitchen Demo,Pass w/ Conditions,1
+2016,Liquor,Fail,22
+2016,Liquor,No Entry,2
+2016,Liquor,Not Ready,9
+2016,Liquor,Out of Business,3
+2016,Liquor,Out of Business,2
+2016,Liquor,Pass,36
+2016,Liquor,Pass,1
+2016,Butcher,Fail,1
+2016,Butcher,Fail,1
+2016,Butcher,Pass,1
+2016,Butcher,Pass,4
+2016,Butcher,Pass w/ Conditions,2
+2016,Long Term Care,Fail,42
+2016,Long Term Care,Not Ready,6
+2016,Long Term Care,Out of Business,15
+2016,Long Term Care,Out of Business,1
+2016,Long Term Care,Pass,125
+2016,Long Term Care,Pass w/ Conditions,30
+2016,Lounge,Pass,1
+2016,Mobile Food,Fail,13
+2016,Mobile Food,Fail,29
+2016,Mobile Food,Fail,1
+2016,Mobile Food,Fail,1
+2016,Mobile Food,Not Ready,4
+2016,Mobile Food,Not Ready,17
+2016,Mobile Food,Not Ready,1
+2016,Mobile Food,Out of Business,6
+2016,Mobile Food,Out of Business,14
+2016,Mobile Food,Pass,29
+2016,Mobile Food,Pass,46
+2016,Mobile Food,Pass,1
+2016,Mobile Food,Pass,3
+2016,Mobile Food,Pass,9
+2016,Mobile Food,Pass,1
+2016,Mobile Food,Pass w/ Conditions,1
+2016,Mobile Food,Pass w/ Conditions,1
+2016,Mobile Food,Pass w/ Conditions,1
+2016,Movie Theater,Not Ready,1
+2016,Movie Theater,Pass,1
+2016,Movie Theater,Pass w/ Conditions,1
+2016,Museum,Fail,1
+2016,Museum,Pass,1
+2016,Night Club,Fail,1
+2016,Night Club,No Entry,1
+2016,Night Club,Pass,1
+2016,Cooking Instruction,Pass,1
+2016,Northerly Island,Pass,1
+2016,Northerly Island,Pass w/ Conditions,1
+2016,Nursing Home,Fail,1
+2016,Nursing Home,Pass,1
+2016,Other,Business Not Located,1
+2016,Other,Fail,1
+2016,Other,Fail,1
+2016,Other,No Entry,1
+2016,Other,No Entry,4
+2016,Other,Not Ready,18
+2016,Other,Out of Business,84
+2016,Other,Pass,1
+2016,Other,Pass,4
+2016,Other,Pass w/ Conditions,2
+2016,Prepackaged,Pass,1
+2016,Private School,Fail,1
+2016,Private School,Fail,1
+2016,Private School,Out of Business,2
+2016,Private School,Out of Business,1
+2016,Private School,Pass,4
+2016,Private School,Pass,1
+2016,Protein Shake Bar,Pass,1
+2016,Public School,Pass,1
+2016,Push Carts,Not Ready,1
+2016,Push Carts,Pass,1
+2016,REGULATED BUSINESS,Pass,1
+2016,Rehab Center,Pass w/ Conditions,1
+2016,Restaurant,Business Not Located,2
+2016,Restaurant,Fail,2954
+2016,Restaurant,Fail,1
+2016,Restaurant,Fail,1
+2016,Restaurant,No Entry,889
+2016,Restaurant,No Entry,1
+2016,Restaurant,Not Ready,203
+2016,Restaurant,Out of Business,1020
+2016,Restaurant,Out of Business,1
+2016,Restaurant,Pass,9036
+2016,Restaurant,Pass,4
+2016,Restaurant,Pass,1
+2016,Restaurant,Pass w/ Conditions,2081
+2016,Restaurant,Pass w/ Conditions,1
+2016,Restaurant,Pass w/ Conditions,1
+2016,Restaurant/Grocery,Fail,5
+2016,Restaurant/Grocery,Pass,2
+2016,Restaurant/Grocery,Pass w/ Conditions,1
+2016,Retail,Pass,1
+2016,RIVERWALK,Fail,1
+2016,RIVERWALK,Pass w/ Conditions,1
+2016,Rooftop,Fail,1
+2016,Rooftop,No Entry,1
+2016,Rooftop,No Entry,1
+2016,Rooftop,Out of Business,1
+2016,Rooftop,Pass,2
+2016,Rooftop,Pass,2
+2016,Rooftop,Pass,5
+2016,Rooftop,Pass,2
+2016,Rooftop,Pass,2
+2016,Rooftop,Pass,1
+2016,School,Fail,299
+2016,School,Fail,1
+2016,School,No Entry,8
+2016,School,Out of Business,22
+2016,School,Pass,809
+2016,School,Pass,1
+2016,School,Pass w/ Conditions,95
+2016,Senior Day Care,Pass,1
+2016,Shared Kitchen,Fail,2
+2016,Shared Kitchen,Out of Business,1
+2016,Shared Kitchen,Pass,10
+2016,Shared Kitchen,Pass,16
+2016,Shared Kitchen,Pass,4
+2016,Shelter,Fail,2
+2016,Shelter,Out of Business,1
+2016,Shelter,Pass,6
+2016,Slaughterhouse,Pass,1
+2016,Smokehouse,Out of Business,1
+2016,Smoothie Bar,Pass,1
+2016,Snack Shop,Out of Business,1
+2016,Social Club,Fail,1
+2016,Social Club,No Entry,2
+2016,Spa,Fail,1
+2016,Special Event,Fail,5
+2016,Special Event,No Entry,2
+2016,Special Event,Pass,16
+2016,Special Event,Pass w/ Conditions,2
+2016,Stadium,Fail,1
+2016,Stadium,No Entry,1
+2016,Stadium,Pass,3
+2016,Stadium,Pass w/ Conditions,1
+2016,Supportive Living,Pass,1
+2016,Tavern,Fail,7
+2016,Tavern,No Entry,1
+2016,Tavern,No Entry,1
+2016,Tavern,No Entry,1
+2016,Tavern,Not Ready,4
+2016,Tavern,Out of Business,2
+2016,Tavern,Pass,16
+2016,Tavern,Pass,2
+2016,Tavern,Pass w/ Conditions,1
+2016,Theater,No Entry,1
+2016,Theater,No Entry,1
+2016,Theater,Pass,1
+2016,Theater,Pass w/ Conditions,1
+2016,Truck,Out of Business,1
+2016,University CAFETERIA,Fail,1
+2016,University CAFETERIA,Pass,2
+2016,Vending Machine,Fail,1
+2016,Warehouse,Pass,1
+2016,Wholesale,Fail,2
+2016,Wholesale,Out of Business,2
+2016,Wholesale,Pass,7
+2017,15 months to 5 years old,Pass,1
+2017,After School Program,Pass,1
+2017,Airport Lounge,Pass,1
+2017,Animal Shelter Cafe Permit,Fail,1
+2017,Animal Shelter Cafe Permit,Pass,1
+2017,Assisted Living,Fail,1
+2017,Assisted Living,Pass,2
+2017,Assisted Living,Pass,1
+2017,Assisted Living Senior Care,Pass,1
+2017,Bakery,Fail,61
+2017,Bakery,No Entry,12
+2017,Bakery,Not Ready,7
+2017,Bakery,Out of Business,34
+2017,Bakery,Pass,176
+2017,Bakery,Pass w/ Conditions,24
+2017,Banquet,Fail,2
+2017,Banquet,Fail,1
+2017,Banquet,Fail,1
+2017,Banquet,Fail,2
+2017,Banquet,No Entry,1
+2017,Banquet,No Entry,10
+2017,Banquet,No Entry,1
+2017,Banquet,No Entry,1
+2017,Banquet,Not Ready,1
+2017,Banquet,Not Ready,1
+2017,Banquet,Out of Business,1
+2017,Banquet,Pass,5
+2017,Banquet,Pass,1
+2017,Banquet,Pass,8
+2017,Banquet,Pass,4
+2017,Banquet,Pass,1
+2017,Banquet,Pass,1
+2017,Banquet,Pass,1
+2017,Banquet,Pass w/ Conditions,1
+2017,Banquet,Pass w/ Conditions,3
+2017,Bar,Fail,2
+2017,Bar,No Entry,1
+2017,Before And After School Program,No Entry,1
+2017,Brewery,Fail,2
+2017,Brewery,No Entry,1
+2017,Brewery,Pass,3
+2017,Cafeteria,Fail,2
+2017,Cafeteria,Fail,1
+2017,Cafeteria,Out of Business,1
+2017,Cafeteria,Pass,3
+2017,Cafeteria,Pass,1
+2017,Candy,Fail,1
+2017,Candy,Fail,1
+2017,Candy,Pass,1
+2017,Candy,Pass,1
+2017,Candy/Gelato,Pass,1
+2017,Catering,Fail,19
+2017,Catering,No Entry,14
+2017,Catering,Not Ready,3
+2017,Catering,Out of Business,8
+2017,Catering,Pass,75
+2017,Catering,Pass,2
+2017,Catering,Pass w/ Conditions,14
+2017,Charity Aid Kitchen,Pass,1
+2017,Charter School,Fail,1
+2017,Charter School,Fail,9
+2017,Charter School,Fail,1
+2017,Charter School,Not Ready,3
+2017,Charter School,Pass,1
+2017,Charter School,Pass,13
+2017,Charter School,Pass,1
+2017,Charter School,Pass w/ Conditions,1
+2017,Children's Services Facility,Fail,1
+2017,Children's Services Facility,Fail,88
+2017,Children's Services Facility,Fail,1
+2017,Children's Services Facility,No Entry,1
+2017,Children's Services Facility,No Entry,13
+2017,Children's Services Facility,Not Ready,4
+2017,Children's Services Facility,Out of Business,1
+2017,Children's Services Facility,Out of Business,21
+2017,Children's Services Facility,Pass,2
+2017,Children's Services Facility,Pass,1
+2017,Children's Services Facility,Pass,1
+2017,Children's Services Facility,Pass,374
+2017,Children's Services Facility,Pass,1
+2017,Children's Services Facility,Pass w/ Conditions,36
+2017,Church,Fail,1
+2017,Church,Fail,1
+2017,Church,Fail,2
+2017,Church,No Entry,1
+2017,Church,Pass,1
+2017,Church,Pass,1
+2017,Church,Pass,1
+2017,Church,Pass,1
+2017,Church,Pass,1
+2017,Church,Pass,1
+2017,Coffee,Fail,1
+2017,Coffee,Fail,1
+2017,Coffee,Out of Business,1
+2017,Coffee,Pass,1
+2017,Coffee,Pass,1
+2017,Coffee,Pass w/ Conditions,1
+2017,Coffee,Pass w/ Conditions,1
+2017,Cold Storage Facility,Pass,1
+2017,College,Pass,1
+2017,Commissary,Pass,1
+2017,Convenience,Pass,2
+2017,Convenience,Pass,2
+2017,Convenience,Pass,1
+2017,Cooking Instruction,Fail,2
+2017,Cooking Instruction,Fail,1
+2017,Cooking Instruction,Not Ready,1
+2017,Cooking Instruction,Pass,2
+2017,Cooking Instruction,Pass,2
+2017,Cooking Instruction,Pass,2
+2017,Cooking Instruction,Pass,1
+2017,Cooking Instruction,Pass,1
+2017,Custom Poultry Slaughter,Fail,1
+2017,Custom Poultry Slaughter,Pass,2
+2017,Day Care,Fail,28
+2017,Day Care,Fail,4
+2017,Day Care,Fail,51
+2017,Day Care,Fail,8
+2017,Day Care,No Entry,13
+2017,Day Care,No Entry,2
+2017,Day Care,No Entry,2
+2017,Day Care,Not Ready,1
+2017,Day Care,Out of Business,1
+2017,Day Care,Out of Business,22
+2017,Day Care,Out of Business,20
+2017,Day Care,Out of Business,1
+2017,Day Care,Out of Business,1
+2017,Day Care,Pass,1
+2017,Day Care,Pass,1
+2017,Day Care,Pass,139
+2017,Day Care,Pass,8
+2017,Day Care,Pass,1
+2017,Day Care,Pass,201
+2017,Day Care,Pass,15
+2017,Day Care,Pass w/ Conditions,1
+2017,Day Care,Pass w/ Conditions,5
+2017,Day Care,Pass w/ Conditions,12
+2017,Day Care,Pass w/ Conditions,3
+2017,Day Care,Pass w/ Conditions,1
+2017,Dining Hall,Fail,1
+2017,Dining Hall,Pass,1
+2017,Distribution Center,Out of Business,1
+2017,Distribution Center,Pass,1
+2017,Donut Shop,Pass,1
+2017,Employee Kitchen,Out of Business,1
+2017,Event Center,Fail,2
+2017,Event Center,Not Ready,2
+2017,Fish Market,Out of Business,1
+2017,Fitness Center,Fail,1
+2017,Fitness Center,Pass,1
+2017,Fitness Center,Pass w/ Conditions,1
+2017,French Market Space,Pass,1
+2017,Frozen Dessert,Fail,1
+2017,Frozen Dessert,Not Ready,1
+2017,Frozen Dessert,Pass,1
+2017,Frozen Dessert,Pass,1
+2017,Frozen Dessert,Pass w/ Conditions,1
+2017,Furniture Store,Pass,1
+2017,Gas Station,Fail,3
+2017,Gas Station,Fail,1
+2017,Gas Station,Fail,1
+2017,Gas Station,No Entry,1
+2017,Gas Station,Not Ready,2
+2017,Gas Station,Out of Business,3
+2017,Gas Station,Pass,6
+2017,Gas Station,Pass,1
+2017,Gas Station,Pass,1
+2017,Gas Station,Pass,1
+2017,Gas Station,Pass w/ Conditions,2
+2017,Gift Shop,Pass,1
+2017,Golden Diner,Fail,16
+2017,Golden Diner,Out of Business,1
+2017,Golden Diner,Pass,43
+2017,Golden Diner,Pass w/ Conditions,3
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,Fail,466
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,Fail,1
+2017,Grocery,No Entry,64
+2017,Grocery,No Entry,1
+2017,Grocery,Not Ready,50
+2017,Grocery,Out of Business,1
+2017,Grocery,Out of Business,1
+2017,Grocery,Out of Business,241
+2017,Grocery,Out of Business,1
+2017,Grocery,Out of Business,1
+2017,Grocery,Pass,1
+2017,Grocery,Pass,1261
+2017,Grocery,Pass,2
+2017,Grocery,Pass,1
+2017,Grocery,Pass,2
+2017,Grocery,Pass,1
+2017,Grocery,Pass,1
+2017,Grocery,Pass,1
+2017,Grocery,Pass,2
+2017,Grocery,Pass,1
+2017,Grocery,Pass,1
+2017,Grocery,Pass w/ Conditions,194
+2017,Grocery,Pass w/ Conditions,1
+2017,Grocery,Pass w/ Conditions,1
+2017,Health Care Store,Pass,1
+2017,Herbal,Fail,1
+2017,Herbal,Fail,1
+2017,Herbal,No Entry,1
+2017,Herbal,Not Ready,1
+2017,Herbal,Pass,1
+2017,Herbal,Pass,1
+2017,Herbal,Pass,1
+2017,Herbal,Pass,4
+2017,Herbal,Pass,1
+2017,Herbal,Pass,1
+2017,High School,Pass,1
+2017,Hospital,Fail,10
+2017,Hospital,Not Ready,2
+2017,Hospital,Out of Business,5
+2017,Hospital,Pass,57
+2017,Hospital,Pass w/ Conditions,7
+2017,Hostel,Fail,1
+2017,Hostel,Pass,1
+2017,Hot Dog,Pass w/ Conditions,1
+2017,Frozen Dessert,Pass,1
+2017,Juice Bar,Pass w/ Conditions,1
+2017,Juice Bar,Pass w/ Conditions,1
+2017,Liquor,Fail,1
+2017,Liquor,Fail,30
+2017,Liquor,No Entry,2
+2017,Liquor,Not Ready,4
+2017,Liquor,Out of Business,7
+2017,Liquor,Pass,1
+2017,Liquor,Pass,46
+2017,Liquor,Pass w/ Conditions,2
+2017,Butcher,Fail,2
+2017,Butcher,Fail,1
+2017,Butcher,Pass,2
+2017,Butcher,Pass,2
+2017,Long Term Care,Fail,44
+2017,Long Term Care,No Entry,1
+2017,Long Term Care,Not Ready,1
+2017,Long Term Care,Out of Business,5
+2017,Long Term Care,Pass,113
+2017,Long Term Care,Pass w/ Conditions,16
+2017,Lounge,No Entry,2
+2017,Lounge,Not Ready,1
+2017,Lounge,Pass,1
+2017,Lounge,Pass,1
+2017,Meat Packing,Out of Business,2
+2017,Mfd Truck,Pass,1
+2017,Mobile Food,Fail,1
+2017,Mobile Food,Fail,24
+2017,Mobile Food,Fail,38
+2017,Mobile Food,Fail,1
+2017,Mobile Food,No Entry,3
+2017,Mobile Food,No Entry,1
+2017,Mobile Food,Not Ready,3
+2017,Mobile Food,Not Ready,1
+2017,Mobile Food,Not Ready,13
+2017,Mobile Food,Not Ready,3
+2017,Mobile Food,Not Ready,15
+2017,Mobile Food,Out of Business,3
+2017,Mobile Food,Out of Business,4
+2017,Mobile Food,Pass,1
+2017,Mobile Food,Pass,41
+2017,Mobile Food,Pass,82
+2017,Mobile Food,Pass,14
+2017,Mobile Food,Pass,21
+2017,Mobile Food,Pass w/ Conditions,5
+2017,Mobile Food,Pass w/ Conditions,11
+2017,Movie Theater,Fail,1
+2017,Movie Theater,Not Ready,1
+2017,Movie Theater,Not Ready,1
+2017,Movie Theater,Pass,1
+2017,Movie Theater,Pass,2
+2017,Movie Theater,Pass w/ Conditions,1
+2017,Cooking Instruction,Pass,1
+2017,Northerly Island,Out of Business,1
+2017,Nursing Home,Pass w/ Conditions,1
+2017,Other,No Entry,2
+2017,Other,No Entry,4
+2017,Other,Not Ready,13
+2017,Other,Out of Business,102
+2017,Other,Pass,4
+2017,Popcorn,No Entry,1
+2017,Popcorn,Pass,1
+2017,Butcher,Pass,1
+2017,Prepackaged,Fail,1
+2017,Prepackaged,Pass,2
+2017,Private School,Out of Business,1
+2017,Private School,Pass,4
+2017,Private School,Pass,1
+2017,Protein Shake Bar,Pass,1
+2017,Public School,Pass,1
+2017,REGULATED BUSINESS,Pass,1
+2017,Rehab Center,Fail,1
+2017,Rehab Center,Out of Business,1
+2017,Restaurant,Business Not Located,2
+2017,Restaurant,Fail,2888
+2017,Restaurant,Fail,1
+2017,Restaurant,Fail,1
+2017,Restaurant,No Entry,988
+2017,Restaurant,Not Ready,284
+2017,Restaurant,Out of Business,971
+2017,Restaurant,Out of Business,1
+2017,Restaurant,Pass,8526
+2017,Restaurant,Pass,1
+2017,Restaurant,Pass,1
+2017,Restaurant,Pass w/ Conditions,1695
+2017,Restaurant,Pass w/ Conditions,1
+2017,Restaurant/Grocery,Fail,1
+2017,Restaurant/Grocery,Out of Business,1
+2017,Restaurant/Grocery,Pass,1
+2017,Retail,Pass,1
+2017,Rooftop,Fail,1
+2017,Rooftop,Out of Business,1
+2017,Rooftop,Pass,2
+2017,Rooftop,Pass,2
+2017,Rooftop,Pass,4
+2017,Rooftop,Pass,2
+2017,Rooftop,Pass,1
+2017,Rooftop,Pass w/ Conditions,1
+2017,School,Fail,253
+2017,School,No Entry,7
+2017,School,Out of Business,30
+2017,School,Pass,1
+2017,School,Pass,802
+2017,School,Pass,1
+2017,School,Pass w/ Conditions,79
+2017,Senior Day Care,Pass w/ Conditions,1
+2017,Shared Kitchen,Fail,5
+2017,Shared Kitchen,No Entry,1
+2017,Shared Kitchen,No Entry,1
+2017,Shared Kitchen,Pass,12
+2017,Shared Kitchen,Pass,3
+2017,Shared Kitchen,Pass w/ Conditions,1
+2017,Shared Kitchen,Pass w/ Conditions,3
+2017,Shelter,Pass,4
+2017,Slaughterhouse,Fail,1
+2017,Slaughterhouse,Pass,1
+2017,Smoothie Bar,Pass w/ Conditions,1
+2017,Special Event,Fail,3
+2017,Special Event,No Entry,3
+2017,Special Event,Not Ready,1
+2017,Special Event,Pass,17
+2017,Special Event,Pass w/ Conditions,3
+2017,Stadium,Fail,1
+2017,Stadium,Pass,2
+2017,Stadium,Pass w/ Conditions,1
+2017,Summer Feeding,Fail,1
+2017,Summer Feeding,Pass,1
+2017,Supportive Living,Not Ready,2
+2017,Supportive Living,Pass,3
+2017,Tavern,Fail,6
+2017,Tavern,No Entry,2
+2017,Tavern,Not Ready,1
+2017,Tavern,Out of Business,1
+2017,Tavern,Out of Business,1
+2017,Tavern,Pass,10
+2017,Tavern,Pass w/ Conditions,1
+2017,Teaching School,Pass,1
+2017,Theater,Fail,1
+2017,Theater,Pass,1
+2017,Theater,Pass,1
+2017,University CAFETERIA,Pass,1
+2017,Warehouse,Fail,1
+2017,Warehouse,Pass,1
+2017,Weight Loss Program,Out of Business,1
+2017,Weight Loss Program,Pass,1
+2017,Wholesale,Out of Business,2
+2017,Wholesale,Pass,4
+2017,Wholesale,Pass,1
+2018,15 months to 5 years old,Pass w/ Conditions,1
+2018,ADULT DAYCARE,Fail,1
+2018,Adult Daycare,Pass,1
+2018,After School Program,Pass,1
+2018,After School Program,Pass w/ Conditions,1
+2018,Airport Lounge,Pass w/ Conditions,1
+2018,Animal Shelter Cafe Permit,Fail,1
+2018,Animal Shelter Cafe Permit,Pass,1
+2018,Assisted Living,Pass,1
+2018,Assisted Living,Pass,1
+2018,Assisted Living,Pass w/ Conditions,1
+2018,Assisted Living Senior Care,Fail,1
+2018,Assisted Living Senior Care,Pass w/ Conditions,1
+2018,Bakery,Fail,57
+2018,Bakery,No Entry,7
+2018,Bakery,Not Ready,10
+2018,Bakery,Out of Business,22
+2018,Bakery,Pass,69
+2018,Bakery,Pass w/ Conditions,74
+2018,Banquet,Fail,2
+2018,Banquet,Fail,5
+2018,Banquet,No Entry,1
+2018,Banquet,No Entry,4
+2018,Banquet,Out of Business,1
+2018,Banquet,Out of Business,1
+2018,Banquet,Out of Business,1
+2018,Banquet,Pass,1
+2018,Banquet,Pass,1
+2018,Banquet,Pass,3
+2018,Banquet,Pass,1
+2018,Banquet,Pass w/ Conditions,3
+2018,Banquet,Pass w/ Conditions,3
+2018,Banquet,Pass w/ Conditions,1
+2018,Banquet,Pass w/ Conditions,4
+2018,Bar,No Entry,1
+2018,Bar,Not Ready,1
+2018,Bar,Pass,2
+2018,Beverage/Silverware Warehouse,Out of Business,1
+2018,Brewery,Pass,1
+2018,Butcher Shop,Fail,1
+2018,Butcher Shop,Pass,1
+2018,Cafeteria,Out of Business,1
+2018,Cafeteria,Pass,1
+2018,Catering,Fail,12
+2018,Catering,No Entry,14
+2018,Catering,No Entry,1
+2018,Catering,Not Ready,3
+2018,Catering,Out of Business,6
+2018,Catering,Pass,29
+2018,Catering,Pass w/ Conditions,43
+2018,Catering,Pass w/ Conditions,1
+2018,Charity Aid Kitchen,Pass,1
+2018,Charter School,Fail,2
+2018,Charter School,Fail,5
+2018,Charter School,No Entry,1
+2018,Charter School,Not Ready,3
+2018,Charter School,Out of Business,2
+2018,Charter School,Pass,1
+2018,Charter School,Pass,11
+2018,Charter School,Pass,1
+2018,Charter School,Pass w/ Conditions,4
+2018,Children's Services Facility,Business Not Located,1
+2018,Children's Services Facility,Fail,89
+2018,Children's Services Facility,No Entry,10
+2018,Children's Services Facility,Not Ready,4
+2018,Children's Services Facility,Out of Business,23
+2018,Children's Services Facility,Pass,161
+2018,Children's Services Facility,Pass,1
+2018,Children's Services Facility,Pass w/ Conditions,2
+2018,Children's Services Facility,Pass w/ Conditions,1
+2018,Children's Services Facility,Pass w/ Conditions,1
+2018,Children's Services Facility,Pass w/ Conditions,260
+2018,Chinese Herbs,Out of Business,1
+2018,Church,Pass,1
+2018,Church,Pass,1
+2018,Church,Pass,1
+2018,Church,Pass,1
+2018,Church,Pass w/ Conditions,1
+2018,Church,Pass w/ Conditions,1
+2018,Church,Pass w/ Conditions,1
+2018,Clothing Store,Fail,1
+2018,Clothing Store,Pass,1
+2018,Coffee,Pass,1
+2018,Coffee,Pass w/ Conditions,1
+2018,College,Out of Business,1
+2018,Commissary,Pass,1
+2018,Convenience,Fail,1
+2018,Convenience,Not Ready,1
+2018,Convenience,Out of Business,2
+2018,Convenience,Pass,1
+2018,Convenience,Pass w/ Conditions,2
+2018,Cooking Instruction,Fail,1
+2018,Cooking Instruction,No Entry,1
+2018,Cooking Instruction,No Entry,1
+2018,Cooking Instruction,Out of Business,1
+2018,Cooking Instruction,Pass,1
+2018,Cooking Instruction,Pass,1
+2018,Cooking Instruction,Pass,1
+2018,Cooking Instruction,Pass w/ Conditions,1
+2018,Cooking Instruction,Pass w/ Conditions,1
+2018,Cooking Instruction,Pass w/ Conditions,1
+2018,Cooking Instruction,Pass w/ Conditions,1
+2018,Day Care,Fail,22
+2018,Day Care,Fail,6
+2018,Day Care,Fail,1
+2018,Day Care,Fail,31
+2018,Day Care,Fail,3
+2018,Day Care,No Entry,12
+2018,Day Care,No Entry,1
+2018,Day Care,No Entry,7
+2018,Day Care,No Entry,2
+2018,Day Care,Not Ready,1
+2018,Day Care,Not Ready,1
+2018,Day Care,Out of Business,21
+2018,Day Care,Out of Business,1
+2018,Day Care,Out of Business,12
+2018,Day Care,Out of Business,2
+2018,Day Care,Pass,41
+2018,Day Care,Pass,6
+2018,Day Care,Pass,1
+2018,Day Care,Pass,78
+2018,Day Care,Pass,6
+2018,Day Care,Pass w/ Conditions,1
+2018,Day Care,Pass w/ Conditions,2
+2018,Day Care,Pass w/ Conditions,81
+2018,Day Care,Pass w/ Conditions,4
+2018,Day Care,Pass w/ Conditions,121
+2018,Day Care,Pass w/ Conditions,10
+2018,Day Care,Pass w/ Conditions,1
+2018,Dining Hall,Pass,1
+2018,Drug Store,Not Ready,2
+2018,Drug Store,Pass w/ Conditions,2
+2018,Event Center,Pass,2
+2018,Fitness Center,Fail,1
+2018,Fitness Center,Not Ready,1
+2018,Fitness Center,Pass,1
+2018,French Market Space,Out of Business,1
+2018,French Market Space,Pass w/ Conditions,2
+2018,Frozen Dessert,Pass,1
+2018,Frozen Dessert,Pass w/ Conditions,1
+2018,Gas Station,Fail,1
+2018,Gas Station,Fail,1
+2018,Gas Station,Not Ready,1
+2018,Gas Station,Out of Business,1
+2018,Gas Station,Pass,1
+2018,Gas Station,Pass w/ Conditions,2
+2018,Gas Station,Pass w/ Conditions,1
+2018,Golden Diner,Fail,17
+2018,Golden Diner,No Entry,1
+2018,Golden Diner,Not Ready,1
+2018,Golden Diner,Out of Business,3
+2018,Golden Diner,Pass,30
+2018,Golden Diner,Pass w/ Conditions,14
+2018,Grocery,Fail,1
+2018,Grocery,Fail,442
+2018,Grocery,Fail,3
+2018,Grocery,Fail,1
+2018,Grocery,No Entry,40
+2018,Grocery,Not Ready,82
+2018,Grocery,Out of Business,164
+2018,Grocery,Out of Business,1
+2018,Grocery,Pass,1
+2018,Grocery,Pass,571
+2018,Grocery,Pass,2
+2018,Grocery,Pass,1
+2018,Grocery,Pass,1
+2018,Grocery,Pass w/ Conditions,1
+2018,Grocery,Pass w/ Conditions,510
+2018,Grocery,Pass w/ Conditions,1
+2018,Grocery,Pass w/ Conditions,1
+2018,Grocery,Pass w/ Conditions,1
+2018,Grocery,Pass w/ Conditions,1
+2018,Grocery,Pass w/ Conditions,1
+2018,Herbal,Out of Business,1
+2018,Herbal,Out of Business,1
+2018,Herbal,Pass,1
+2018,High School,Pass w/ Conditions,1
+2018,Hospital,Business Not Located,1
+2018,Hospital,Fail,7
+2018,Hospital,Pass,26
+2018,Hospital,Pass w/ Conditions,29
+2018,Frozen Dessert,Fail,1
+2018,Frozen Dessert,Not Ready,1
+2018,Frozen Dessert,Pass w/ Conditions,2
+2018,Internet Cafe,Fail,1
+2018,Juice Bar,Fail,1
+2018,Juice Bar,Pass,1
+2018,Juice Bar,Pass w/ Conditions,1
+2018,Kiosk,Not Ready,1
+2018,Kiosk,Not Ready,1
+2018,Kiosk,Pass,3
+2018,Kiosk,Pass w/ Conditions,1
+2018,Laundromat,Fail,1
+2018,Laundromat,Pass,1
+2018,Laundromat,Pass w/ Conditions,1
+2018,Liquor,Fail,17
+2018,Liquor,No Entry,1
+2018,Liquor,Not Ready,2
+2018,Liquor,Out of Business,2
+2018,Liquor,Pass,19
+2018,Liquor,Pass,2
+2018,Liquor,Pass w/ Conditions,12
+2018,Butcher,Pass,1
+2018,Butcher,Pass w/ Conditions,2
+2018,Long Term Care,Fail,55
+2018,Long Term Care,No Entry,2
+2018,Long Term Care,Out of Business,4
+2018,Long Term Care,Pass,43
+2018,Long Term Care,Pass w/ Conditions,76
+2018,Lounge,Out of Business,1
+2018,Mobile Food,Business Not Located,1
+2018,Mobile Food,Fail,1
+2018,Mobile Food,Fail,6
+2018,Mobile Food,Fail,23
+2018,Mobile Food,Fail,20
+2018,Mobile Food,No Entry,1
+2018,Mobile Food,No Entry,1
+2018,Mobile Food,No Entry,1
+2018,Mobile Food,Not Ready,2
+2018,Mobile Food,Not Ready,4
+2018,Mobile Food,Not Ready,3
+2018,Mobile Food,Not Ready,4
+2018,Mobile Food,Out of Business,1
+2018,Mobile Food,Out of Business,2
+2018,Mobile Food,Out of Business,1
+2018,Mobile Food,Pass,21
+2018,Mobile Food,Pass,51
+2018,Mobile Food,Pass,5
+2018,Mobile Food,Pass,11
+2018,Mobile Food,Pass w/ Conditions,6
+2018,Mobile Food,Pass w/ Conditions,11
+2018,Mobile Food,Pass w/ Conditions,3
+2018,Mobile Food,Pass w/ Conditions,3
+2018,Movie Theater,Pass w/ Conditions,1
+2018,Nonprofit,Fail,2
+2018,Nonprofit,Pass,2
+2018,Cooking Instruction,Fail,1
+2018,Cooking Instruction,Pass w/ Conditions,1
+2018,Nursing Home,Pass w/ Conditions,1
+2018,Other,Business Not Located,2
+2018,Other,Fail,3
+2018,Other,No Entry,4
+2018,Other,Not Ready,13
+2018,Other,Out of Business,36
+2018,Other,Pass,2
+2018,Other,Pass w/ Conditions,7
+2018,Packaged Food Distribution,Fail,1
+2018,Private School,Fail,1
+2018,Private School,Pass,2
+2018,Private School,Pass,1
+2018,Private School,Pass w/ Conditions,2
+2018,Public School,Fail,2
+2018,Public School,Pass,1
+2018,Push Carts,Out of Business,1
+2018,REGULATED BUSINESS,Pass,1
+2018,Rehab Center,Fail,1
+2018,Rehab Center,Pass,1
+2018,Restaurant,Fail,2125
+2018,Restaurant,No Entry,561
+2018,Restaurant,Not Ready,304
+2018,Restaurant,Out of Business,836
+2018,Restaurant,Out of Business,1
+2018,Restaurant,Pass,4388
+2018,Restaurant,Pass,2
+2018,Restaurant,Pass w/ Conditions,3628
+2018,Restaurant/Grocery,Fail,1
+2018,Restaurant/Grocery,Pass,1
+2018,Retail,Fail,1
+2018,Retail,Pass,1
+2018,Retail,Pass w/ Conditions,1
+2018,RIVERWALK,Pass w/ Conditions,1
+2018,Rooftop,Fail,1
+2018,Rooftop,Out of Business,2
+2018,Rooftop,Pass,1
+2018,Rooftop,Pass,2
+2018,Rooftop,Pass,2
+2018,Rooftop,Pass w/ Conditions,1
+2018,Rooftop,Pass w/ Conditions,2
+2018,Rooftop,Pass w/ Conditions,2
+2018,Rooftop,Pass w/ Conditions,1
+2018,School,Business Not Located,1
+2018,School,Fail,316
+2018,School,No Entry,1
+2018,School,Not Ready,1
+2018,School,Out of Business,31
+2018,School,Pass,1
+2018,School,Pass,684
+2018,School,Pass w/ Conditions,171
+2018,School,Pass w/ Conditions,1
+2018,Senior Day Care,Pass w/ Conditions,1
+2018,Shakes/Teas,Pass,1
+2018,Shared Kitchen,Fail,2
+2018,Shared Kitchen,No Entry,2
+2018,Shared Kitchen,Not Ready,4
+2018,Shared Kitchen,Pass,9
+2018,Shared Kitchen,Pass,8
+2018,Shared Kitchen,Pass w/ Conditions,1
+2018,Shared Kitchen,Pass w/ Conditions,2
+2018,Shelter,No Entry,1
+2018,Shelter,Pass,2
+2018,Shelter,Pass w/ Conditions,1
+2018,Special Event,Fail,2
+2018,Special Event,Not Ready,2
+2018,Special Event,Out of Business,1
+2018,Special Event,Pass,7
+2018,Special Event,Pass w/ Conditions,9
+2018,Stadium,Fail,1
+2018,Stadium,Not Ready,1
+2018,Stadium,Pass,2
+2018,Stadium,Pass w/ Conditions,2
+2018,Store,Fail,2
+2018,Store,Not Ready,1
+2018,Store,Pass,4
+2018,Supportive Living,Pass w/ Conditions,2
+2018,Sushi,Fail,1
+2018,Tavern,Fail,6
+2018,Tavern,Fail,1
+2018,Tavern,No Entry,7
+2018,Tavern,Out of Business,1
+2018,Tavern,Pass,8
+2018,Tavern,Pass,1
+2018,Tavern,Pass w/ Conditions,3
+2018,Theater,Fail,1
+2018,Theater,Pass,1
+2018,Theater,Pass w/ Conditions,1
+2018,University CAFETERIA,Fail,1
+2018,University CAFETERIA,Pass,1
+2018,Vending Machine,Out of Business,1
+2018,Warehouse,Out of Business,1
+2018,Wholesale,Fail,4
+2018,Wholesale,No Entry,1
+2018,Wholesale,Not Ready,1
+2018,Wholesale,Pass,4
+2018,Youth Housing,Not Ready,1
+2018,Youth Housing,Pass,1
+2019,Airport Lounge,Pass,1
+2019,Bakery,Business Not Located,1
+2019,Bakery,Fail,61
+2019,Bakery,No Entry,15
+2019,Bakery,Not Ready,10
+2019,Bakery,Out of Business,22
+2019,Bakery,Pass,42
+2019,Bakery,Pass w/ Conditions,121
+2019,Cafeteria,Pass w/ Conditions,3
+2019,Catering,Fail,18
+2019,Catering,No Entry,19
+2019,Catering,Not Ready,1
+2019,Catering,Out of Business,12
+2019,Catering,Pass,37
+2019,Catering,Pass w/ Conditions,57
+2019,Children's Services Facility,Fail,102
+2019,Children's Services Facility,No Entry,14
+2019,Children's Services Facility,Not Ready,13
+2019,Children's Services Facility,Out of Business,23
+2019,Children's Services Facility,Pass,258
+2019,Children's Services Facility,Pass w/ Conditions,189
+2019,Day Care,Fail,23
+2019,Day Care,Fail,73
+2019,Day Care,Fail,1
+2019,Day Care,No Entry,8
+2019,Day Care,No Entry,4
+2019,Day Care,Not Ready,1
+2019,Day Care,Out of Business,11
+2019,Day Care,Out of Business,9
+2019,Day Care,Pass,67
+2019,Day Care,Pass,117
+2019,Day Care,Pass w/ Conditions,44
+2019,Day Care,Pass w/ Conditions,85
+2019,Food Pantry,Fail,2
+2019,Golden Diner,Fail,10
+2019,Golden Diner,No Entry,1
+2019,Golden Diner,Pass,36
+2019,Golden Diner,Pass w/ Conditions,8
+2019,Grocery,Fail,388
+2019,Grocery,No Entry,40
+2019,Grocery,Not Ready,50
+2019,Grocery,Out of Business,180
+2019,Grocery,Pass,352
+2019,Grocery,Pass w/ Conditions,773
+2019,Frozen Dessert,Fail,1
+2019,Frozen Dessert,Pass,2
+2019,Frozen Dessert,Pass w/ Conditions,1
+2019,Long Term Care,Fail,47
+2019,Long Term Care,No Entry,1
+2019,Long Term Care,Out of Business,7
+2019,Long Term Care,Pass,70
+2019,Long Term Care,Pass w/ Conditions,59
+2019,Mobile Food,Business Not Located,1
+2019,Mobile Food,Fail,7
+2019,Mobile Food,Fail,22
+2019,Mobile Food,No Entry,3
+2019,Mobile Food,Not Ready,1
+2019,Mobile Food,Not Ready,14
+2019,Mobile Food,Out of Business,3
+2019,Mobile Food,Out of Business,1
+2019,Mobile Food,Pass,14
+2019,Mobile Food,Pass,27
+2019,Mobile Food,Pass w/ Conditions,10
+2019,Mobile Food,Pass w/ Conditions,46
+2019,Other,Fail,2
+2019,Other,Pass w/ Conditions,1
+2019,Restaurant,Business Not Located,2
+2019,Restaurant,Fail,2458
+2019,Restaurant,No Entry,863
+2019,Restaurant,Not Ready,309
+2019,Restaurant,Out of Business,1072
+2019,Restaurant,Pass,2811
+2019,Restaurant,Pass w/ Conditions,5995
+2019,School,Fail,254
+2019,School,No Entry,5
+2019,School,Not Ready,2
+2019,School,Out of Business,20
+2019,School,Pass,524
+2019,School,Pass w/ Conditions,313
+2019,Shared Kitchen,Fail,5
+2019,Shared Kitchen,No Entry,1
+2019,Shared Kitchen,Not Ready,3
+2019,Shared Kitchen,Out of Business,1
+2019,Shared Kitchen,Pass,10
+2019,Shared Kitchen,Pass w/ Conditions,8
+2019,Tavern,Fail,12
+2019,Tavern,No Entry,4
+2019,Tavern,Not Ready,1
+2019,Tavern,Out of Business,1
+2019,Tavern,Pass,7
+2019,Tavern,Pass w/ Conditions,12
+2020,Children's Services Facility,Business Not Located,0
+2020,Children's Services Facility,Fail,80
+2020,Children's Services Facility,No Entry,22
+2020,Children's Services Facility,Not Ready,10
+2020,Children's Services Facility,Out of Business,10
+2020,Children's Services Facility,Pass,262
+2020,Children's Services Facility,Pass w/ Conditions,63
+2020,Cooking Instruction,Business Not Located,0
+2020,Cooking Instruction,Fail,1
+2020,Cooking Instruction,No Entry,1
+2020,Cooking Instruction,Not Ready,0
+2020,Cooking Instruction,Out of Business,0
+2020,Cooking Instruction,Pass,4
+2020,Cooking Instruction,Pass w/ Conditions,2
+2020,After School Program,Business Not Located,0
+2020,After School Program,Fail,0
+2020,After School Program,No Entry,0
+2020,After School Program,Not Ready,0
+2020,After School Program,Out of Business,0
+2020,After School Program,Pass,1
+2020,After School Program,Pass w/ Conditions,0
+2020,Art Center,Business Not Located,0
+2020,Art Center,Fail,0
+2020,Art Center,No Entry,0
+2020,Art Center,Not Ready,0
+2020,Art Center,Out of Business,0
+2020,Art Center,Pass,0
+2020,Art Center,Pass w/ Conditions,1
+2020,Bakery,Business Not Located,0
+2020,Bakery,Fail,59
+2020,Bakery,No Entry,12
+2020,Bakery,Not Ready,6
+2020,Bakery,Out of Business,24
+2020,Bakery,Pass,67
+2020,Bakery,Pass w/ Conditions,69
+2020,Banquet,Business Not Located,0
+2020,Banquet,Fail,1
+2020,Banquet,No Entry,1
+2020,Banquet,Not Ready,0
+2020,Banquet,Out of Business,1
+2020,Banquet,Pass,2
+2020,Banquet,Pass w/ Conditions,3
+2020,Bar,Business Not Located,0
+2020,Bar,Fail,1
+2020,Bar,No Entry,0
+2020,Bar,Not Ready,1
+2020,Bar,Out of Business,0
+2020,Bar,Pass,1
+2020,Bar,Pass w/ Conditions,0
+2020,Blockbuster Video,Business Not Located,0
+2020,Blockbuster Video,Fail,0
+2020,Blockbuster Video,No Entry,0
+2020,Blockbuster Video,Not Ready,0
+2020,Blockbuster Video,Out of Business,1
+2020,Blockbuster Video,Pass,0
+2020,Blockbuster Video,Pass w/ Conditions,0
+2020,Candy,Business Not Located,0
+2020,Candy,Fail,0
+2020,Candy,No Entry,1
+2020,Candy,Not Ready,0
+2020,Candy,Out of Business,0
+2020,Candy,Pass,0
+2020,Candy,Pass w/ Conditions,2
+2020,Catering,Business Not Located,0
+2020,Catering,Fail,13
+2020,Catering,No Entry,11
+2020,Catering,Not Ready,5
+2020,Catering,Out of Business,11
+2020,Catering,Pass,42
+2020,Catering,Pass w/ Conditions,15
+2020,Charter School,Business Not Located,0
+2020,CHARTER,Fail,4
+2020,CHARTER,No Entry,3
+2020,CHARTER,Not Ready,0
+2020,CHARTER,Out of Business,1
+2020,CHARTER,Pass,5
+2020,CHARTER,Pass w/ Conditions,0
+2020,CHARTER,Business Not Located,0
+2020,Coffee,Business Not Located,0
+2020,Coffee,Fail,0
+2020,Coffee,No Entry,0
+2020,Coffee,Not Ready,1
+2020,Coffee,Out of Business,1
+2020,Coffee,Pass,0
+2020,Coffee,Pass w/ Conditions,2
+2020,Commissary,Business Not Located,0
+2020,Commissary,Fail,0
+2020,Commissary,No Entry,0
+2020,Commissary,Not Ready,0
+2020,Commissary,Out of Business,0
+2020,Commissary,Pass,1
+2020,Commissary,Pass w/ Conditions,1
+2020,Convenience,Business Not Located,0
+2020,Convenience,Fail,2
+2020,Convenience,No Entry,0
+2020,Convenience,Not Ready,0
+2020,Convenience,Out of Business,3
+2020,Convenience,Pass,3
+2020,Convenience,Pass w/ Conditions,5
+2020,Day Care,Business Not Located,0
+2020,Day Care,Fail,55
+2020,Day Care,No Entry,14
+2020,Day Care,Not Ready,7
+2020,Day Care,Out of Business,5
+2020,Day Care,Pass,203
+2020,Day Care,Pass w/ Conditions,35
+2020,Dining Hall,Business Not Located,0
+2020,Dining Hall,Fail,0
+2020,Dining Hall,No Entry,0
+2020,Dining Hall,Not Ready,0
+2020,Dining Hall,Out of Business,0
+2020,Dining Hall,Pass,2
+2020,Dining Hall,Pass w/ Conditions,0
+2020,Distribution Center,Business Not Located,0
+2020,Distribution Center,Fail,0
+2020,Distribution Center,No Entry,0
+2020,Distribution Center,Not Ready,0
+2020,Distribution Center,Out of Business,0
+2020,Distribution Center,Pass,1
+2020,Distribution Center,Pass w/ Conditions,1
+2020,Dollar Store,Business Not Located,0
+2020,Dollar Store,Fail,0
+2020,Dollar Store,No Entry,0
+2020,Dollar Store,Not Ready,0
+2020,Dollar Store,Out of Business,0
+2020,Dollar Store,Pass,1
+2020,Dollar Store,Pass w/ Conditions,0
+2020,Donut Shop,Business Not Located,0
+2020,Donut Shop,Fail,0
+2020,Donut Shop,No Entry,1
+2020,Donut Shop,Not Ready,0
+2020,Donut Shop,Out of Business,0
+2020,Donut Shop,Pass,0
+2020,Donut Shop,Pass w/ Conditions,0
+2020,Drug Store,Business Not Located,0
+2020,Drug Store,Fail,0
+2020,Drug Store,No Entry,0
+2020,Drug Store,Not Ready,0
+2020,Drug Store,Out of Business,0
+2020,Drug Store,Pass,2
+2020,Drug Store,Pass w/ Conditions,0
+2020,Event Center,Business Not Located,0
+2020,Event Center,Fail,0
+2020,Event Center,No Entry,1
+2020,Event Center,Not Ready,3
+2020,Event Center,Out of Business,0
+2020,Event Center,Pass,2
+2020,Event Center,Pass w/ Conditions,6
+2020,Fitness Center,Business Not Located,0
+2020,Fitness Center,Fail,0
+2020,Fitness Center,No Entry,0
+2020,Fitness Center,Not Ready,0
+2020,Fitness Center,Out of Business,1
+2020,Fitness Center,Pass,1
+2020,Fitness Center,Pass w/ Conditions,1
+2020,Gas Station,Business Not Located,0
+2020,Gas Station,Fail,12
+2020,Gas Station,No Entry,0
+2020,Gas Station,Not Ready,1
+2020,Gas Station,Out of Business,5
+2020,Gas Station,Pass,7
+2020,Gas Station,Pass w/ Conditions,18
+2020,General Store,Business Not Located,0
+2020,General Store,Fail,0
+2020,General Store,No Entry,0
+2020,General Store,Not Ready,0
+2020,General Store,Out of Business,1
+2020,General Store,Pass,0
+2020,General Store,Pass w/ Conditions,0
+2020,Golden Diner,Business Not Located,0
+2020,Golden Diner,Fail,3
+2020,Golden Diner,No Entry,0
+2020,Golden Diner,Not Ready,0
+2020,Golden Diner,Out of Business,1
+2020,Golden Diner,Pass,19
+2020,Golden Diner,Pass w/ Conditions,0
+2020,Greenhouse,Business Not Located,0
+2020,Greenhouse,Fail,0
+2020,Greenhouse,No Entry,0
+2020,Greenhouse,Not Ready,0
+2020,Greenhouse,Out of Business,0
+2020,Greenhouse,Pass,0
+2020,Greenhouse,Pass w/ Conditions,1
+2020,Grocery,Business Not Located,0
+2020,Grocery,Fail,592
+2020,Grocery,No Entry,55
+2020,Grocery,Not Ready,58
+2020,Grocery,Out of Business,437
+2020,Grocery,Pass,751
+2020,Grocery,Pass w/ Conditions,879
+2020,Health Care,Business Not Located,0
+2020,Health Care,Fail,0
+2020,Health Care,No Entry,0
+2020,Health Care,Not Ready,0
+2020,Health Care,Out of Business,1
+2020,Health Care,Pass,0
+2020,Health Care,Pass w/ Conditions,0
+2020,Health Food Store,Business Not Located,0
+2020,Health Food Store,Fail,0
+2020,Health Food Store,No Entry,0
+2020,Health Food Store,Not Ready,0
+2020,Health Food Store,Out of Business,0
+2020,Health Food Store,Pass,0
+2020,Health Food Store,Pass w/ Conditions,1
+2020,Herbal,Business Not Located,0
+2020,Herbal,Fail,3
+2020,Herbal,No Entry,0
+2020,Herbal,Not Ready,0
+2020,Herbal,Out of Business,1
+2020,Herbal,Pass,2
+2020,Herbal,Pass w/ Conditions,4
+2020,Hooka,Business Not Located,0
+2020,Hooka,Fail,0
+2020,Hooka,No Entry,0
+2020,Hooka,Not Ready,0
+2020,Hooka,Out of Business,1
+2020,Hooka,Pass,0
+2020,Hooka,Pass w/ Conditions,0
+2020,Hospital,Business Not Located,0
+2020,Hospital,Fail,2
+2020,Hospital,No Entry,0
+2020,Hospital,Not Ready,0
+2020,Hospital,Out of Business,0
+2020,Hospital,Pass,15
+2020,Hospital,Pass w/ Conditions,9
+2020,Hostel,Business Not Located,0
+2020,Hostel,Fail,1
+2020,Hostel,No Entry,0
+2020,Hostel,Not Ready,0
+2020,Hostel,Out of Business,0
+2020,Hostel,Pass,0
+2020,Hostel,Pass w/ Conditions,1
+2020,Hotel,Business Not Located,0
+2020,Hotel,Fail,1
+2020,Hotel,No Entry,0
+2020,Hotel,Not Ready,3
+2020,Hotel,Out of Business,0
+2020,Hotel,Pass,5
+2020,Hotel,Pass w/ Conditions,3
+2020,Frozen Dessert,Business Not Located,0
+2020,Frozen Dessert,Fail,1
+2020,Frozen Dessert,No Entry,0
+2020,Frozen Dessert,Not Ready,0
+2020,Frozen Dessert,Out of Business,0
+2020,Frozen Dessert,Pass,1
+2020,Frozen Dessert,Pass w/ Conditions,0
+2020,Kiosk,Business Not Located,0
+2020,Kiosk,Fail,0
+2020,Kiosk,No Entry,0
+2020,Kiosk,Not Ready,0
+2020,Kiosk,Out of Business,1
+2020,Kiosk,Pass,0
+2020,Kiosk,Pass w/ Conditions,0
+2020,Liquor,Business Not Located,0
+2020,Liquor,Fail,27
+2020,Liquor,No Entry,9
+2020,Liquor,Not Ready,7
+2020,Liquor,Out of Business,11
+2020,Liquor,Pass,26
+2020,Liquor,Pass w/ Conditions,29
+2020,Butcher,Business Not Located,0
+2020,Butcher,Fail,7
+2020,Butcher,No Entry,0
+2020,Butcher,Not Ready,0
+2020,Butcher,Out of Business,0
+2020,Butcher,Pass,9
+2020,Butcher,Pass w/ Conditions,1
+2020,Long Term Care,Business Not Located,0
+2020,Long Term Care,Fail,9
+2020,Long Term Care,No Entry,0
+2020,Long Term Care,Not Ready,1
+2020,Long Term Care,Out of Business,1
+2020,Long Term Care,Pass,25
+2020,Long Term Care,Pass w/ Conditions,11
+2020,MFD Truck,Business Not Located,0
+2020,MFD TRUCK,Fail,1
+2020,MFD TRUCK,No Entry,0
+2020,MFD TRUCK,Not Ready,0
+2020,MFD TRUCK,Out of Business,0
+2020,MFD TRUCK,Pass,1
+2020,MFD TRUCK,Pass w/ Conditions,0
+2020,Shakes/Teas,Business Not Located,0
+2020,Shakes/Teas,Fail,2
+2020,Shakes/Teas,No Entry,0
+2020,Shakes/Teas,Not Ready,1
+2020,Shakes/Teas,Out of Business,0
+2020,Shakes/Teas,Pass,3
+2020,Shakes/Teas,Pass w/ Conditions,1
+2020,Mobile Food,Business Not Located,0
+2020,Mobile Food,Fail,10
+2020,Mobile Food,No Entry,0
+2020,Mobile Food,Not Ready,5
+2020,Mobile Food,Out of Business,4
+2020,Mobile Food,Pass,31
+2020,Mobile Food,Pass w/ Conditions,8
+2020,Theater,Business Not Located,0
+2020,Theater,Fail,0
+2020,Theater,No Entry,1
+2020,Theater,Not Ready,0
+2020,Theater,Out of Business,1
+2020,Theater,Pass,0
+2020,Theater,Pass w/ Conditions,0
+2020,Nursing Home,Business Not Located,0
+2020,Nursing Home,Fail,0
+2020,Nursing Home,No Entry,0
+2020,Nursing Home,Not Ready,0
+2020,Nursing Home,Out of Business,0
+2020,Nursing Home,Pass,0
+2020,Nursing Home,Pass w/ Conditions,1
+2020,Health Foods,Business Not Located,0
+2020,Health Foods,Fail,1
+2020,Health Foods,No Entry,0
+2020,Health Foods,Not Ready,0
+2020,Health Foods,Out of Business,0
+2020,Health Foods,Pass,0
+2020,Health Foods,Pass w/ Conditions,1
+2020,Frozen Desserts,Business Not Located,0
+2020,Frozen Desserts,Fail,0
+2020,Frozen Desserts,No Entry,0
+2020,Frozen Desserts,Not Ready,0
+2020,Frozen Desserts,Out of Business,1
+2020,Frozen Desserts,Pass,0
+2020,Frozen Desserts,Pass w/ Conditions,0
+2020,Pharmacy,Business Not Located,0
+2020,Pharmacy,Fail,0
+2020,Pharmacy,No Entry,0
+2020,Pharmacy,Not Ready,0
+2020,Pharmacy,Out of Business,1
+2020,Pharmacy,Pass,0
+2020,Pharmacy,Pass w/ Conditions,0
+2020,Pop-Up Establishment,Business Not Located,0
+2020,Pop-Up Establishment,Fail,1
+2020,Pop-Up Establishment,No Entry,0
+2020,Pop-Up Establishment,Not Ready,0
+2020,Pop-Up Establishment,Out of Business,1
+2020,Pop-Up Establishment,Pass,3
+2020,Pop-Up Establishment,Pass w/ Conditions,0
+2020,Other,Business Not Located,0
+2020,Other,Fail,0
+2020,Other,No Entry,0
+2020,Other,Not Ready,0
+2020,Other,Out of Business,1
+2020,Other,Pass,0
+2020,Other,Pass w/ Conditions,0
+2020,Private,Business Not Located,0
+2020,Private,Fail,2
+2020,Private,No Entry,0
+2020,Private,Not Ready,0
+2020,Private,Out of Business,0
+2020,Private,Pass,3
+2020,Private,Pass w/ Conditions,0
+2020,Private School,Business Not Located,0
+2020,Private School,Fail,0
+2020,Private School,No Entry,0
+2020,Private School,Not Ready,1
+2020,Private School,Out of Business,0
+2020,Private School,Pass,5
+2020,Private School,Pass w/ Conditions,0
+2020,Public School,Business Not Located,0
+2020,Public School,Fail,0
+2020,Public School,No Entry,0
+2020,Public School,Not Ready,0
+2020,Public School,Out of Business,0
+2020,Public School,Pass,1
+2020,Public School,Pass w/ Conditions,0
+2020,Rehab Center,Business Not Located,0
+2020,Rehab Center,Fail,1
+2020,Rehab Center,No Entry,0
+2020,Rehab Center,Not Ready,0
+2020,Rehab Center,Out of Business,0
+2020,Rehab Center,Pass,1
+2020,Rehab Center,Pass w/ Conditions,0
+2020,Restaurant,Business Not Located,1
+2020,Restaurant,Fail,1798
+2020,Restaurant,No Entry,620
+2020,Restaurant,Not Ready,226
+2020,Restaurant,Out of Business,743
+2020,Restaurant,Pass,3646
+2020,Restaurant,Pass w/ Conditions,2587
+2020,Retail,Business Not Located,0
+2020,Retail,Fail,0
+2020,Retail,No Entry,0
+2020,Retail,Not Ready,0
+2020,Retail,Out of Business,1
+2020,Retail,Pass,0
+2020,Retail,Pass w/ Conditions,0
+2020,Rooftop,Business Not Located,0
+2020,Rooftop,Fail,2
+2020,Rooftop,No Entry,1
+2020,Rooftop,Not Ready,0
+2020,Rooftop,Out of Business,0
+2020,Rooftop,Pass,4
+2020,Rooftop,Pass w/ Conditions,2
+2020,School,Business Not Located,0
+2020,School,Fail,223
+2020,School,No Entry,12
+2020,School,Not Ready,0
+2020,School,Out of Business,13
+2020,School,Pass,527
+2020,School,Pass w/ Conditions,149
+2020,Shared Kitchen,Business Not Located,0
+2020,Shared Kitchen,Fail,3
+2020,Shared Kitchen,No Entry,2
+2020,Shared Kitchen,Not Ready,1
+2020,Shared Kitchen,Out of Business,2
+2020,Shared Kitchen,Pass,22
+2020,Shared Kitchen,Pass w/ Conditions,5
+2020,Shelter,Business Not Located,0
+2020,Shelter,Fail,2
+2020,Shelter,No Entry,0
+2020,Shelter,Not Ready,0
+2020,Shelter,Out of Business,1
+2020,Shelter,Pass,6
+2020,Shelter,Pass w/ Conditions,2
+2020,Store,Business Not Located,0
+2020,Store,Fail,2
+2020,Store,No Entry,0
+2020,Store,Not Ready,0
+2020,Store,Out of Business,0
+2020,Store,Pass,1
+2020,Store,Pass w/ Conditions,1
+2020,Tavern,Business Not Located,0
+2020,Tavern,Fail,9
+2020,Tavern,No Entry,1
+2020,Tavern,Not Ready,1
+2020,Tavern,Out of Business,3
+2020,Tavern,Pass,11
+2020,Tavern,Pass w/ Conditions,4
+2020,Unused Storage,Business Not Located,0
+2020,Unused Storage,Fail,0
+2020,Unused Storage,No Entry,0
+2020,Unused Storage,Not Ready,0
+2020,Unused Storage,Out of Business,0
+2020,Unused Storage,Pass,1
+2020,Unused Storage,Pass w/ Conditions,0
+2020,Wholesale,Business Not Located,0
+2020,Wholesale,Fail,0
+2020,Wholesale,No Entry,0
+2020,Wholesale,Not Ready,0
+2020,Wholesale,Out of Business,3
+2020,Wholesale,Pass,4
+2020,Wholesale,Pass w/ Conditions,3
+2021,Children's Services Facility,Business Not Located,0
+2021,Children's Services Facility,Fail,91
+2021,Children's Services Facility,No Entry,19
+2021,Children's Services Facility,Not Ready,3
+2021,Children's Services Facility,Out of Business,27
+2021,Children's Services Facility,Pass,357
+2021,Children's Services Facility,Pass w/ Conditions,60
+2021,Adult Daycare,Business Not Located,0
+2021,Adult Daycare,Fail,0
+2021,Adult Daycare,No Entry,0
+2021,Adult Daycare,Not Ready,0
+2021,Adult Daycare,Out of Business,1
+2021,Adult Daycare,Pass,2
+2021,Adult Daycare,Pass w/ Conditions,0
+2021,After School Program,Business Not Located,0
+2021,After School Program,Fail,0
+2021,After School Program,No Entry,0
+2021,After School Program,Not Ready,0
+2021,After School Program,Out of Business,0
+2021,After School Program,Pass,1
+2021,After School Program,Pass w/ Conditions,0
+2021,Archdiocese,Business Not Located,0
+2021,Archdiocese,Fail,1
+2021,Archdiocese,No Entry,0
+2021,Archdiocese,Not Ready,0
+2021,Archdiocese,Out of Business,0
+2021,Archdiocese,Pass,0
+2021,Archdiocese,Pass w/ Conditions,0
+2021,Assisted Living,Business Not Located,0
+2021,Assisted Living,Fail,0
+2021,Assisted Living,No Entry,0
+2021,Assisted Living,Not Ready,0
+2021,Assisted Living,Out of Business,0
+2021,Assisted Living,Pass,2
+2021,Assisted Living,Pass w/ Conditions,0
+2021,Assisted Living Senior Care,Business Not Located,0
+2021,Assisted Living Senior Care,Fail,0
+2021,Assisted Living Senior Care,No Entry,0
+2021,Assisted Living Senior Care,Not Ready,0
+2021,Assisted Living Senior Care,Out of Business,0
+2021,Assisted Living Senior Care,Pass,1
+2021,Assisted Living Senior Care,Pass w/ Conditions,0
+2021,Bakery,Business Not Located,0
+2021,Bakery,Fail,47
+2021,Bakery,No Entry,21
+2021,Bakery,Not Ready,10
+2021,Bakery,Out of Business,17
+2021,Bakery,Pass,82
+2021,Bakery,Pass w/ Conditions,51
+2021,Banquet,Business Not Located,0
+2021,Banquet,Fail,0
+2021,Banquet,No Entry,9
+2021,Banquet,Not Ready,0
+2021,Banquet,Out of Business,0
+2021,Banquet,Pass,8
+2021,Banquet,Pass w/ Conditions,5
+2021,Butcher,Business Not Located,0
+2021,Butcher,Fail,6
+2021,Butcher,No Entry,1
+2021,Butcher,Not Ready,0
+2021,Butcher,Out of Business,1
+2021,Butcher,Pass,13
+2021,Butcher,Pass w/ Conditions,1
+2021,Cafeteria,Business Not Located,0
+2021,Cafeteria,Fail,0
+2021,Cafeteria,No Entry,0
+2021,Cafeteria,Not Ready,0
+2021,Cafeteria,Out of Business,0
+2021,Cafeteria,Pass,3
+2021,Cafeteria,Pass w/ Conditions,2
+2021,Catering,Business Not Located,0
+2021,Catering,Fail,14
+2021,Catering,No Entry,16
+2021,Catering,Not Ready,1
+2021,Catering,Out of Business,13
+2021,Catering,Pass,40
+2021,Catering,Pass w/ Conditions,13
+2021,CHARTER,Business Not Located,0
+2021,CHARTER,Fail,1
+2021,CHARTER,No Entry,0
+2021,CHARTER,Not Ready,0
+2021,CHARTER,Out of Business,0
+2021,CHARTER,Pass,5
+2021,CHARTER,Pass w/ Conditions,2
+2021,Church,Business Not Located,0
+2021,Church,Fail,0
+2021,Church,No Entry,0
+2021,Church,Not Ready,0
+2021,Church,Out of Business,0
+2021,Church,Pass,1
+2021,Church,Pass w/ Conditions,0
+2021,Coffee,Business Not Located,0
+2021,Coffee,Fail,0
+2021,Coffee,No Entry,0
+2021,Coffee,Not Ready,0
+2021,Coffee,Out of Business,0
+2021,Coffee,Pass,2
+2021,Coffee,Pass w/ Conditions,0
+2021,Commissary,Business Not Located,0
+2021,Commissary,Fail,2
+2021,Commissary,No Entry,0
+2021,Commissary,Not Ready,0
+2021,Commissary,Out of Business,1
+2021,Commissary,Pass,1
+2021,Commissary,Pass w/ Conditions,0
+2021,Convenience,Business Not Located,0
+2021,Convenience,Fail,0
+2021,Convenience,No Entry,0
+2021,Convenience,Not Ready,0
+2021,Convenience,Out of Business,0
+2021,Convenience,Pass,2
+2021,Convenience,Pass w/ Conditions,0
+2021,Cooking Instruction,Business Not Located,0
+2021,Cooking Instruction,Fail,1
+2021,Cooking Instruction,No Entry,0
+2021,Cooking Instruction,Not Ready,0
+2021,Cooking Instruction,Out of Business,0
+2021,Cooking Instruction,Pass,4
+2021,Cooking Instruction,Pass w/ Conditions,2
+2021,Day Care,Business Not Located,0
+2021,Day Care,Fail,77
+2021,Day Care,No Entry,23
+2021,Day Care,Not Ready,5
+2021,Day Care,Out of Business,23
+2021,Day Care,Pass,262
+2021,Day Care,Pass w/ Conditions,40
+2021,Deli,Business Not Located,0
+2021,Deli,Fail,0
+2021,Deli,No Entry,1
+2021,Deli,Not Ready,0
+2021,Deli,Out of Business,0
+2021,Deli,Pass,0
+2021,Deli,Pass w/ Conditions,0
+2021,Distillery,Business Not Located,0
+2021,Distillery,Fail,1
+2021,Distillery,No Entry,0
+2021,Distillery,Not Ready,0
+2021,Distillery,Out of Business,0
+2021,Distillery,Pass,1
+2021,Distillery,Pass w/ Conditions,1
+2021,Event Center,Business Not Located,0
+2021,Event Center,Fail,3
+2021,Event Center,No Entry,2
+2021,Event Center,Not Ready,0
+2021,Event Center,Out of Business,2
+2021,Event Center,Pass,8
+2021,Event Center,Pass w/ Conditions,3
+2021,Fitness Center,Business Not Located,0
+2021,Fitness Center,Fail,2
+2021,Fitness Center,No Entry,0
+2021,Fitness Center,Not Ready,0
+2021,Fitness Center,Out of Business,0
+2021,Fitness Center,Pass,1
+2021,Fitness Center,Pass w/ Conditions,0
+2021,Flea Market,Business Not Located,0
+2021,Flea Market,Fail,1
+2021,Flea Market,No Entry,0
+2021,Flea Market,Not Ready,0
+2021,Flea Market,Out of Business,0
+2021,Flea Market,Pass,0
+2021,Flea Market,Pass w/ Conditions,1
+2021,Food Booth,Business Not Located,0
+2021,Food Booth,Fail,0
+2021,Food Booth,No Entry,0
+2021,Food Booth,Not Ready,0
+2021,Food Booth,Out of Business,1
+2021,Food Booth,Pass,0
+2021,Food Booth,Pass w/ Conditions,0
+2021,Gas Station,Business Not Located,0
+2021,Gas Station,Fail,4
+2021,Gas Station,No Entry,0
+2021,Gas Station,Not Ready,2
+2021,Gas Station,Out of Business,5
+2021,Gas Station,Pass,6
+2021,Gas Station,Pass w/ Conditions,2
+2021,Golden Diner,Business Not Located,0
+2021,Golden Diner,Fail,5
+2021,Golden Diner,No Entry,0
+2021,Golden Diner,Not Ready,0
+2021,Golden Diner,Out of Business,0
+2021,Golden Diner,Pass,25
+2021,Golden Diner,Pass w/ Conditions,6
+2021,Grocery,Business Not Located,1
+2021,Grocery,Fail,328
+2021,Grocery,No Entry,34
+2021,Grocery,Not Ready,60
+2021,Grocery,Out of Business,142
+2021,Grocery,Pass,613
+2021,Grocery,Pass w/ Conditions,373
+2021,Hair Salon,Business Not Located,0
+2021,Hair Salon,Fail,1
+2021,Hair Salon,No Entry,0
+2021,Hair Salon,Not Ready,1
+2021,Hair Salon,Out of Business,0
+2021,Hair Salon,Pass,2
+2021,Hair Salon,Pass w/ Conditions,0
+2021,Herbal,Business Not Located,0
+2021,Herbal,Fail,0
+2021,Herbal,No Entry,0
+2021,Herbal,Not Ready,0
+2021,Herbal,Out of Business,2
+2021,Herbal,Pass,0
+2021,Herbal,Pass w/ Conditions,0
+2021,High School,Business Not Located,0
+2021,High School,Fail,0
+2021,High School,No Entry,0
+2021,High School,Not Ready,0
+2021,High School,Out of Business,0
+2021,High School,Pass,1
+2021,High School,Pass w/ Conditions,0
+2021,Hospital,Business Not Located,0
+2021,Hospital,Fail,14
+2021,Hospital,No Entry,2
+2021,Hospital,Not Ready,0
+2021,Hospital,Out of Business,4
+2021,Hospital,Pass,35
+2021,Hospital,Pass w/ Conditions,9
+2021,Hot Dog,Business Not Located,0
+2021,Hot Dog,Fail,1
+2021,Hot Dog,No Entry,0
+2021,Hot Dog,Not Ready,0
+2021,Hot Dog,Out of Business,0
+2021,Hot Dog,Pass,0
+2021,Hot Dog,Pass w/ Conditions,0
+2021,Hotel,Business Not Located,0
+2021,Hotel,Fail,0
+2021,Hotel,No Entry,0
+2021,Hotel,Not Ready,2
+2021,Hotel,Out of Business,0
+2021,Hotel,Pass,0
+2021,Hotel,Pass w/ Conditions,9
+2021,Frozen Dessert,Business Not Located,0
+2021,Frozen Dessert,Fail,1
+2021,Frozen Dessert,No Entry,1
+2021,Frozen Dessert,Not Ready,0
+2021,Frozen Dessert,Out of Business,1
+2021,Frozen Dessert,Pass,1
+2021,Frozen Dessert,Pass w/ Conditions,2
+2021,Juice Bar,Business Not Located,0
+2021,Juice Bar,Fail,0
+2021,Juice Bar,No Entry,0
+2021,Juice Bar,Not Ready,0
+2021,Juice Bar,Out of Business,1
+2021,Juice Bar,Pass,0
+2021,Juice Bar,Pass w/ Conditions,0
+2021,Kiosk,Business Not Located,0
+2021,Kiosk,Fail,1
+2021,Kiosk,No Entry,0
+2021,Kiosk,Not Ready,0
+2021,Kiosk,Out of Business,0
+2021,Kiosk,Pass,0
+2021,Kiosk,Pass w/ Conditions,0
+2021,Liquor,Business Not Located,0
+2021,Liquor,Fail,19
+2021,Liquor,No Entry,1
+2021,Liquor,Not Ready,4
+2021,Liquor,Out of Business,5
+2021,Liquor,Pass,28
+2021,Liquor,Pass w/ Conditions,18
+2021,Long Term Care,Business Not Located,0
+2021,Long Term Care,Fail,39
+2021,Long Term Care,No Entry,1
+2021,Long Term Care,Not Ready,0
+2021,Long Term Care,Out of Business,7
+2021,Long Term Care,Pass,57
+2021,Long Term Care,Pass w/ Conditions,38
+2021,Mobile Food,Business Not Located,2
+2021,Mobile Food,Fail,23
+2021,Mobile Food,No Entry,1
+2021,Mobile Food,Not Ready,3
+2021,Mobile Food,Out of Business,6
+2021,Mobile Food,Pass,55
+2021,Mobile Food,Pass w/ Conditions,10
+2021,Theater,Business Not Located,0
+2021,Theater,Fail,0
+2021,Theater,No Entry,0
+2021,Theater,Not Ready,0
+2021,Theater,Out of Business,1
+2021,Theater,Pass,0
+2021,Theater,Pass w/ Conditions,0
+2021,Nursing Home,Business Not Located,0
+2021,Nursing Home,Fail,0
+2021,Nursing Home,No Entry,0
+2021,Nursing Home,Not Ready,0
+2021,Nursing Home,Out of Business,0
+2021,Nursing Home,Pass,0
+2021,Nursing Home,Pass w/ Conditions,1
+2021,Shakes/Teas,Business Not Located,0
+2021,Shakes/Teas,Fail,0
+2021,Shakes/Teas,No Entry,0
+2021,Shakes/Teas,Not Ready,0
+2021,Shakes/Teas,Out of Business,0
+2021,Shakes/Teas,Pass,1
+2021,Shakes/Teas,Pass w/ Conditions,0
+2021,Frozen Desserts,Business Not Located,0
+2021,Frozen Desserts,Fail,0
+2021,Frozen Desserts,No Entry,0
+2021,Frozen Desserts,Not Ready,0
+2021,Frozen Desserts,Out of Business,0
+2021,Frozen Desserts,Pass,0
+2021,Frozen Desserts,Pass w/ Conditions,1
+2021,Pop-Up Establishment,Business Not Located,0
+2021,Pop-Up Establishment,Fail,5
+2021,Pop-Up Establishment,No Entry,0
+2021,Pop-Up Establishment,Not Ready,0
+2021,Pop-Up Establishment,Out of Business,0
+2021,Pop-Up Establishment,Pass,9
+2021,Pop-Up Establishment,Pass w/ Conditions,0
+2021,Private School,Business Not Located,0
+2021,Private School,Fail,0
+2021,Private School,No Entry,0
+2021,Private School,Not Ready,0
+2021,Private School,Out of Business,3
+2021,Private School,Pass,5
+2021,Private School,Pass w/ Conditions,2
+2021,Public School,Business Not Located,0
+2021,Public School,Fail,0
+2021,Public School,No Entry,0
+2021,Public School,Not Ready,0
+2021,Public School,Out of Business,0
+2021,Public School,Pass,1
+2021,Public School,Pass w/ Conditions,0
+2021,Regulated Business,Business Not Located,0
+2021,Regulated Business,Fail,0
+2021,Regulated Business,No Entry,0
+2021,Regulated Business,Not Ready,0
+2021,Regulated Business,Out of Business,0
+2021,Regulated Business,Pass,1
+2021,Regulated Business,Pass w/ Conditions,0
+2021,Restaurant,Business Not Located,0
+2021,Restaurant,Fail,2076
+2021,Restaurant,No Entry,967
+2021,Restaurant,Not Ready,241
+2021,Restaurant,Out of Business,937
+2021,Restaurant,Pass,4523
+2021,Restaurant,Pass w/ Conditions,2370
+2021,Riverwalk,Business Not Located,0
+2021,Riverwalk,Fail,0
+2021,Riverwalk,No Entry,0
+2021,Riverwalk,Not Ready,0
+2021,Riverwalk,Out of Business,0
+2021,Riverwalk,Pass,1
+2021,Riverwalk,Pass w/ Conditions,1
+2021,Rooftop,Business Not Located,0
+2021,Rooftop,Fail,0
+2021,Rooftop,No Entry,1
+2021,Rooftop,Not Ready,0
+2021,Rooftop,Out of Business,0
+2021,Rooftop,Pass,11
+2021,Rooftop,Pass w/ Conditions,0
+2021,School,Business Not Located,0
+2021,School,Fail,252
+2021,School,No Entry,12
+2021,School,Not Ready,3
+2021,School,Out of Business,13
+2021,School,Pass,692
+2021,School,Pass w/ Conditions,134
+2021,Senior Day Care,Business Not Located,0
+2021,Senior Day Care,Fail,0
+2021,Senior Day Care,No Entry,0
+2021,Senior Day Care,Not Ready,0
+2021,Senior Day Care,Out of Business,0
+2021,Senior Day Care,Pass,1
+2021,Senior Day Care,Pass w/ Conditions,0
+2021,Shared Kitchen,Business Not Located,0
+2021,Shared Kitchen,Fail,3
+2021,Shared Kitchen,No Entry,1
+2021,Shared Kitchen,Not Ready,1
+2021,Shared Kitchen,Out of Business,3
+2021,Shared Kitchen,Pass,12
+2021,Shared Kitchen,Pass w/ Conditions,3
+2021,Shared Kitchen User (Long Term),Business Not Located,0
+2021,Shared Kitchen User (Long Term),Fail,1
+2021,Shared Kitchen User (Long Term),No Entry,0
+2021,Shared Kitchen User (Long Term),Not Ready,0
+2021,Shared Kitchen User (Long Term),Out of Business,1
+2021,Shared Kitchen User (Long Term),Pass,18
+2021,Shared Kitchen User (Long Term),Pass w/ Conditions,5
+2021,Shared Kitchen User (Short Term),Business Not Located,0
+2021,Shared Kitchen User (Short Term),Fail,0
+2021,Shared Kitchen User (Short Term),No Entry,0
+2021,Shared Kitchen User (Short Term),Not Ready,0
+2021,Shared Kitchen User (Short Term),Out of Business,0
+2021,Shared Kitchen User (Short Term),Pass,1
+2021,Shared Kitchen User (Short Term),Pass w/ Conditions,0
+2021,Shelter,Business Not Located,0
+2021,Shelter,Fail,1
+2021,Shelter,No Entry,0
+2021,Shelter,Not Ready,0
+2021,Shelter,Out of Business,0
+2021,Shelter,Pass,3
+2021,Shelter,Pass w/ Conditions,1
+2021,Spa,Business Not Located,0
+2021,Spa,Fail,0
+2021,Spa,No Entry,0
+2021,Spa,Not Ready,0
+2021,Spa,Out of Business,0
+2021,Spa,Pass,1
+2021,Spa,Pass w/ Conditions,0
+2021,Stadium,Business Not Located,0
+2021,Stadium,Fail,0
+2021,Stadium,No Entry,0
+2021,Stadium,Not Ready,0
+2021,Stadium,Out of Business,0
+2021,Stadium,Pass,0
+2021,Stadium,Pass w/ Conditions,4
+2021,Store,Business Not Located,0
+2021,Store,Fail,0
+2021,Store,No Entry,0
+2021,Store,Not Ready,0
+2021,Store,Out of Business,1
+2021,Store,Pass,4
+2021,Store,Pass w/ Conditions,2
+2021,Supportive Living,Business Not Located,0
+2021,Supportive Living,Fail,0
+2021,Supportive Living,No Entry,0
+2021,Supportive Living,Not Ready,0
+2021,Supportive Living,Out of Business,0
+2021,Supportive Living,Pass,0
+2021,Supportive Living,Pass w/ Conditions,2
+2021,Tavern,Business Not Located,0
+2021,Tavern,Fail,6
+2021,Tavern,No Entry,2
+2021,Tavern,Not Ready,1
+2021,Tavern,Out of Business,4
+2021,Tavern,Pass,6
+2021,Tavern,Pass w/ Conditions,9
+2021,Storage,Business Not Located,0
+2021,Storage,Fail,0
+2021,Storage,No Entry,0
+2021,Storage,Not Ready,1
+2021,Storage,Out of Business,0
+2021,Storage,Pass,1
+2021,Storage,Pass w/ Conditions,0
+2021,Wholesale,Business Not Located,0
+2021,Wholesale,Fail,3
+2021,Wholesale,No Entry,0
+2021,Wholesale,Not Ready,1
+2021,Wholesale,Out of Business,2
+2021,Wholesale,Pass,5
+2021,Wholesale,Pass w/ Conditions,1
+2021,Youth Housing,Business Not Located,0
+2021,Youth Housing,Fail,0
+2021,Youth Housing,No Entry,0
+2021,Youth Housing,Not Ready,0
+2021,Youth Housing,Out of Business,0
+2021,Youth Housing,Pass,0
+2021,Youth Housing,Pass w/ Conditions,1
+2022,Adult Daycare,Fail,1
+2022,Adult Daycare,Pass,4
+2022,Archdiocese,Pass,1
+2022,Assisted Living,Fail,3
+2022,Assisted Living,Pass,2
+2022,Assisted Living,Pass w/ Conditions,1
+2022,Assisted Living Senior Care,Pass,1
+2022,Bakery,Fail,42
+2022,Bakery,No Entry,6
+2022,Bakery,Not Ready,6
+2022,Bakery,Out of Business,20
+2022,Bakery,Pass,105
+2022,Bakery,Pass w/ Conditions,34
+2022,Banquet,Fail,1
+2022,Banquet,Fail,1
+2022,Banquet,No Entry,4
+2022,Banquet,No Entry,4
+2022,Banquet,No Entry,1
+2022,Banquet,Out of Business,1
+2022,Banquet,Out of Business,1
+2022,Banquet,Out of Business,1
+2022,Banquet,Pass,2
+2022,Banquet,Pass,4
+2022,Banquet,Pass,1
+2022,Banquet,Pass,1
+2022,Banquet,Pass w/ Conditions,1
+2022,Banquet,Pass w/ Conditions,1
+2022,Bar,Fail,1
+2022,Bar,No Entry,2
+2022,Bar,Pass,1
+2022,Cafeteria,Fail,1
+2022,Cafeteria,Pass,1
+2022,Candy/Gelato,Out of Business,1
+2022,Catering,Fail,18
+2022,Catering,Fail,1
+2022,Catering,No Entry,7
+2022,Catering,Not Ready,3
+2022,Catering,Out of Business,10
+2022,Catering,Pass,69
+2022,Catering,Pass,1
+2022,Catering,Pass,1
+2022,Catering,Pass w/ Conditions,4
+2022,Charter School,Fail,2
+2022,Charter School,Fail,3
+2022,Charter School,Not Ready,2
+2022,Charter School,Out of Business,1
+2022,Charter School,Out of Business,1
+2022,Charter School,Pass,1
+2022,Charter School,Pass,9
+2022,Charter School,Pass w/ Conditions,1
+2022,Charter School,Pass w/ Conditions,2
+2022,Charter School,Pass w/ Conditions,1
+2022,Children's Services Facility,Fail,99
+2022,Children's Services Facility,Fail,1
+2022,Children's Services Facility,No Entry,21
+2022,Children's Services Facility,Not Ready,5
+2022,Children's Services Facility,Out of Business,1
+2022,Children's Services Facility,Out of Business,26
+2022,Children's Services Facility,Pass,377
+2022,Children's Services Facility,Pass,1
+2022,Children's Services Facility,Pass w/ Conditions,42
+2022,Church,Fail,1
+2022,Church,No Entry,1
+2022,Church,Pass,1
+2022,Church,Pass,2
+2022,Church,Pass,1
+2022,Church,Pass w/ Conditions,1
+2022,Coffee,Fail,5
+2022,Coffee,Pass,1
+2022,Coffee,Pass,1
+2022,Coffee,Pass,1
+2022,Cold Storage Facility,Not Ready,1
+2022,Cold Storage Facility,Out of Business,1
+2022,Commissary,Pass,1
+2022,Convenience,Fail,1
+2022,Convenience,Pass,1
+2022,Convenience,Pass,1
+2022,Cooking Instruction,Fail,1
+2022,Cooking Instruction,No Entry,1
+2022,Cooking Instruction,No Entry,1
+2022,Cooking Instruction,Not Ready,1
+2022,Cooking Instruction,Out of Business,2
+2022,Cooking Instruction,Pass,1
+2022,Cooking Instruction,Pass w/ Conditions,1
+2022,Cooking Instruction,Pass w/ Conditions,1
+2022,Cooking Instruction,Pass w/ Conditions,1
+2022,Day Care,Fail,1
+2022,Day Care,Fail,17
+2022,Day Care,Fail,2
+2022,Day Care,Fail,58
+2022,Day Care,Fail,5
+2022,Day Care,No Entry,1
+2022,Day Care,No Entry,6
+2022,Day Care,No Entry,1
+2022,Day Care,No Entry,15
+2022,Day Care,No Entry,1
+2022,Day Care,Not Ready,1
+2022,Day Care,Not Ready,1
+2022,Day Care,Not Ready,2
+2022,Day Care,Out of Business,8
+2022,Day Care,Out of Business,2
+2022,Day Care,Out of Business,6
+2022,Day Care,Out of Business,2
+2022,Day Care,Pass,1
+2022,Day Care,Pass,2
+2022,Day Care,Pass,61
+2022,Day Care,Pass,8
+2022,Day Care,Pass,139
+2022,Day Care,Pass,8
+2022,Day Care,Pass w/ Conditions,7
+2022,Day Care,Pass w/ Conditions,1
+2022,Day Care,Pass w/ Conditions,27
+2022,Day Care,Pass w/ Conditions,3
+2022,Day Care,Pass w/ Conditions,1
+2022,Deli,Out of Business,1
+2022,Dining Hall,Pass,2
+2022,Donut Shop,Pass,1
+2022,Event Center,Fail,2
+2022,Event Center,No Entry,1
+2022,Event Center,Pass,1
+2022,Event Center,Pass,1
+2022,Fitness Center,Pass,1
+2022,Food Pantry,Pass w/ Conditions,1
+2022,Gas Station,Fail,3
+2022,Gas Station,Not Ready,1
+2022,Gas Station,Not Ready,2
+2022,Gas Station,Out of Business,2
+2022,Gas Station,Out of Business,1
+2022,Gas Station,Out of Business,1
+2022,Gas Station,Pass,8
+2022,Gas Station,Pass,2
+2022,Gas Station,Pass w/ Conditions,2
+2022,Golden Diner,Business Not Located,1
+2022,Golden Diner,Fail,6
+2022,Golden Diner,No Entry,1
+2022,Golden Diner,Not Ready,1
+2022,Golden Diner,Out of Business,1
+2022,Golden Diner,Pass,40
+2022,Golden Diner,Pass w/ Conditions,4
+2022,Grocery,Fail,353
+2022,Grocery,Fail,4
+2022,Grocery,Fail,1
+2022,Grocery,No Entry,24
+2022,Grocery,Not Ready,65
+2022,Grocery,Out of Business,173
+2022,Grocery,Out of Business,1
+2022,Grocery,Pass,1
+2022,Grocery,Pass,810
+2022,Grocery,Pass,2
+2022,Grocery,Pass,3
+2022,Grocery,Pass,1
+2022,Grocery,Pass,1
+2022,Grocery,Pass,1
+2022,Grocery,Pass,1
+2022,Grocery,Pass w/ Conditions,258
+2022,Grocery,Pass w/ Conditions,1
+2022,High School,Fail,1
+2022,High School,Out of Business,1
+2022,High School,Pass,1
+2022,Hospital,Fail,5
+2022,Hospital,Out of Business,3
+2022,Hospital,Pass,43
+2022,Hospital,Pass w/ Conditions,8
+2022,Hotel,Fail,2
+2022,Hotel,Pass,3
+2022,Frozen Dessert,No Entry,1
+2022,Frozen Dessert,Out of Business,1
+2022,Frozen Dessert,Pass,2
+2022,Kiosk,Pass w/ Conditions,1
+2022,Liquor,Fail,19
+2022,Liquor,No Entry,5
+2022,Liquor,Out of Business,6
+2022,Liquor,Out of Business,1
+2022,Liquor,Pass,24
+2022,Liquor,Pass,1
+2022,Liquor,Pass w/ Conditions,10
+2022,Butcher,Pass,1
+2022,Butcher,Pass w/ Conditions,1
+2022,Long Term Care,Fail,53
+2022,Long Term Care,No Entry,3
+2022,Long Term Care,Not Ready,3
+2022,Long Term Care,Out of Business,15
+2022,Long Term Care,Pass,98
+2022,Long Term Care,Pass w/ Conditions,21
+2022,Mobile Food,Business Not Located,3
+2022,Mobile Food,Fail,3
+2022,Mobile Food,Fail,20
+2022,Mobile Food,Fail,1
+2022,Mobile Food,Not Ready,1
+2022,Mobile Food,Not Ready,1
+2022,Mobile Food,Out of Business,3
+2022,Mobile Food,Out of Business,7
+2022,Mobile Food,Out of Business,1
+2022,Mobile Food,Pass,1
+2022,Mobile Food,Pass,1
+2022,Mobile Food,Pass,12
+2022,Mobile Food,Pass,42
+2022,Mobile Food,Pass,5
+2022,Mobile Food,Pass,6
+2022,Mobile Food,Pass,1
+2022,Mobile Food,Pass w/ Conditions,10
+2022,Mobile Food,Pass w/ Conditions,1
+2022,Movie Theater,Out of Business,1
+2022,Night Club,No Entry,2
+2022,Night Club,Out of Business,2
+2022,Night Club,Pass w/ Conditions,1
+2022,Nursing Home,Fail,1
+2022,Nursing Home,Pass,1
+2022,Other,Business Not Located,1
+2022,Other,Fail,1
+2022,Other,Fail,9
+2022,Other,No Entry,5
+2022,Other,Not Ready,25
+2022,Other,Out of Business,24
+2022,Other,Pass,1
+2022,Other,Pass,12
+2022,Other,Pass w/ Conditions,3
+2022,Pop-Up Establishment,Fail,1
+2022,Pop-Up Establishment,Pass,5
+2022,Pop-Up Establishment,Pass,1
+2022,Pop-Up Establishment,Pass,2
+2022,Butcher,Out of Business,1
+2022,Private School,Fail,2
+2022,Private School,Out of Business,1
+2022,Private School,Pass,5
+2022,Private School,Pass,1
+2022,Private School,Pass w/ Conditions,1
+2022,Public School,Pass,1
+2022,REGULATED BUSINESS,Pass,1
+2022,Rehab Center,Out of Business,1
+2022,Rehab Center,Pass w/ Conditions,1
+2022,Restaurant,Business Not Located,1
+2022,Restaurant,Fail,2441
+2022,Restaurant,No Entry,909
+2022,Restaurant,Not Ready,204
+2022,Restaurant,Out of Business,908
+2022,Restaurant,Pass,5455
+2022,Restaurant,Pass,2
+2022,Restaurant,Pass w/ Conditions,1914
+2022,Restaurant/Grocery,Fail,1
+2022,Restaurant/Grocery,Pass,1
+2022,Retail,Not Ready,1
+2022,Retail,Pass w/ Conditions,1
+2022,Rooftop,Out of Business,2
+2022,Rooftop,Out of Business,1
+2022,Rooftop,Out of Business,3
+2022,Rooftop,Out of Business,1
+2022,Rooftop,Pass,1
+2022,Rooftop,Pass,1
+2022,Rooftop,Pass,2
+2022,Rooftop,Pass,6
+2022,Room Service,Out of Business,1
+2022,School,Fail,331
+2022,School,No Entry,5
+2022,School,Not Ready,2
+2022,School,Out of Business,15
+2022,School,Pass,699
+2022,School,Pass w/ Conditions,107
+2022,Senior Day Care,Pass,1
+2022,Shared Kitchen,Fail,7
+2022,Shared Kitchen,Fail,2
+2022,Shared Kitchen,No Entry,2
+2022,Shared Kitchen,No Entry,1
+2022,Shared Kitchen,Out of Business,3
+2022,Shared Kitchen,Out of Business,2
+2022,Shared Kitchen,Out of Business,1
+2022,Shared Kitchen,Pass,20
+2022,Shared Kitchen,Pass,35
+2022,Shared Kitchen,Pass,3
+2022,Shared Kitchen,Pass w/ Conditions,1
+2022,Shared Kitchen,Pass w/ Conditions,10
+2022,Shelter,Fail,2
+2022,Shelter,Pass,5
+2022,Special Event,Fail,3
+2022,Special Event,No Entry,1
+2022,Special Event,Not Ready,1
+2022,Special Event,Out of Business,1
+2022,Special Event,Pass,16
+2022,Special Event,Pass w/ Conditions,6
+2022,Stadium,Pass w/ Conditions,3
+2022,Store,Out of Business,4
+2022,Store,Pass,2
+2022,Supportive Living,Fail,3
+2022,Supportive Living,Pass,4
+2022,Supportive Living,Pass w/ Conditions,2
+2022,Sushi,Pass,1
+2022,Tavern,Fail,8
+2022,Tavern,No Entry,3
+2022,Tavern,Out of Business,2
+2022,Tavern,Out of Business,1
+2022,Tavern,Pass,10
+2022,Tavern,Pass w/ Conditions,5
+2022,Teaching School,Pass,1
+2022,Theater,Out of Business,1
+2022,University CAFETERIA,Fail,1
+2022,University CAFETERIA,Pass,1
+2022,Wholesale,Fail,3
+2022,Wholesale,Not Ready,2
+2022,Wholesale,Pass,4
+2023,Adult Day Service,Pass,3
+2023,After School Program,Fail,1
+2023,After School Program,Pass,1
+2023,Airport Lounge,Pass,1
+2023,Archdiocese,Out of Business,1
+2023,Assisted Living,Pass,1
+2023,Assisted Living,Fail,1
+2023,Assisted Living,Pass,2
+2023,Assisted Living,Pass,1
+2023,Bakery,Pass w/ Conditions,30
+2023,Bakery,Pass,115
+2023,Bakery,Fail,55
+2023,Bakery,No Entry,8
+2023,Bakery,Out of Business,20
+2023,Bakery,Not Ready,10
+2023,Banquet,Pass,4
+2023,Banquet,Fail,2
+2023,Banquet,No Entry,4
+2023,Banquet,Pass,3
+2023,Banquet,Pass w/ Conditions,1
+2023,Banquet,Pass w/ Conditions,2
+2023,Banquet,No Entry,6
+2023,Banquet,Pass,4
+2023,Banquet,Fail,2
+2023,Banquet,Out of Business,1
+2023,Banquet,Pass,1
+2023,Banquet,Fail,1
+2023,Banquet,No Entry,2
+2023,Banquet,No Entry,1
+2023,Banquet,Pass,1
+2023,Bar,No Entry,2
+2023,Brewery,Out of Business,1
+2023,Cafeteria,Out of Business,2
+2023,Cafeteria,Pass,3
+2023,Cafeteria,Pass w/ Conditions,1
+2023,Candy,Pass,1
+2023,Candy,Out of Business,1
+2023,Catering,Pass,62
+2023,Catering,Fail,21
+2023,Catering,No Entry,20
+2023,Catering,Pass w/ Conditions,12
+2023,Catering,Out of Business,9
+2023,Catering,Not Ready,2
+2023,Catering,Pass,1
+2023,Catering,No Entry,1
+2023,Catering,Pass,1
+2023,Charter School,Pass,1
+2023,Charter School,Pass,11
+2023,Charter School,Out of Business,2
+2023,Charter School,Pass w/ Conditions,3
+2023,Charter School,Fail,4
+2023,Children's Services Facility,Pass,2
+2023,Children's Services Facility,Fail,1
+2023,Children's Services Facility,Pass,2
+2023,Children's Services Facility,Pass,468
+2023,Children's Services Facility,Fail,117
+2023,Children's Services Facility,Pass w/ Conditions,41
+2023,Children's Services Facility,Business Not Located,1
+2023,Children's Services Facility,Out of Business,22
+2023,Children's Services Facility,Not Ready,8
+2023,Children's Services Facility,No Entry,24
+2023,Children's Services Facility,Pass,2
+2023,Children's Services Facility,Fail,1
+2023,Church,Pass,1
+2023,Church,Pass,2
+2023,Church,Fail,1
+2023,Church,Pass,1
+2023,Coffee,Out of Business,1
+2023,Coffee,Pass,1
+2023,Coffee,Fail,1
+2023,Coffee,Pass,1
+2023,Coffee,Fail,1
+2023,Coffee,Pass,1
+2023,Coffee,Fail,1
+2023,Commissary,Pass,1
+2023,Commissary,Fail,1
+2023,Commissary,Pass w/ Conditions,1
+2023,Commissary,Pass,1
+2023,Convenience,Pass,1
+2023,Convenience,Fail,1
+2023,Cooking Instruction,Pass,1
+2023,Cooking Instruction,Pass,2
+2023,Cooking Instruction,Out of Business,2
+2023,Cooking Instruction,Out of Business,2
+2023,Cooking Instruction,Out of Business,1
+2023,Cooking Instruction,Pass,1
+2023,Cooking Instruction,Fail,1
+2023,Day Care,Pass,1
+2023,Day Care,Pass,3
+2023,Day Care,Fail,3
+2023,Day Care,Pass,82
+2023,Day Care,Fail,45
+2023,Day Care,Out of Business,13
+2023,Day Care,No Entry,8
+2023,Day Care,Pass w/ Conditions,4
+2023,Day Care,Not Ready,1
+2023,Day Care,Business Not Located,1
+2023,Day Care,Fail,3
+2023,Day Care,Pass,8
+2023,Day Care,Pass w/ Conditions,2
+2023,Day Care,Pass,1
+2023,Day Care,Fail,1
+2023,Day Care,Fail,78
+2023,Day Care,Pass,181
+2023,Day Care,Pass w/ Conditions,23
+2023,Day Care,Out of Business,21
+2023,Day Care,Not Ready,3
+2023,Day Care,No Entry,12
+2023,Day Care,Pass,13
+2023,Day Care,No Entry,2
+2023,Day Care,Fail,6
+2023,Day Care,Pass w/ Conditions,1
+2023,Day Care,Pass,1
+2023,Dining Hall,Pass,2
+2023,Distribution Center,Pass,1
+2023,Event Center,Pass w/ Conditions,1
+2023,Event Center,No Entry,1
+2023,Event Center,Pass,2
+2023,Fitness Center,Out of Business,1
+2023,Fitness Center,Pass w/ Conditions,1
+2023,Frozen Dessert,Pass,1
+2023,Frozen Dessert,Out of Business,1
+2023,Gas Station,Pass w/ Conditions,3
+2023,Gas Station,Pass,3
+2023,Gas Station,Fail,2
+2023,Gas Station,Out of Business,1
+2023,Gas Station,Out of Business,1
+2023,Gas Station,Pass,1
+2023,Gas Station,Fail,1
+2023,Gas Station,Pass,1
+2023,Gas Station,Out of Business,1
+2023,Gas Station,Pass,1
+2023,Golden Diner,Pass,41
+2023,Golden Diner,Fail,11
+2023,Golden Diner,Pass w/ Conditions,4
+2023,Golden Diner,Out of Business,3
+2023,Golden Diner,No Entry,2
+2023,Grocery,Pass,1
+2023,Grocery,Pass,835
+2023,Grocery,Fail,409
+2023,Grocery,Pass w/ Conditions,247
+2023,Grocery,No Entry,27
+2023,Grocery,Not Ready,70
+2023,Grocery,Out of Business,183
+2023,Grocery,Pass,1
+2023,Grocery,Pass,3
+2023,Grocery,Pass w/ Conditions,2
+2023,Grocery,Fail,2
+2023,Grocery,Not Ready,1
+2023,Grocery,Pass,1
+2023,Grocery,Pass,1
+2023,Grocery,Pass,1
+2023,Grocery,Fail,1
+2023,Grocery,Out of Business,1
+2023,Grocery,Pass w/ Conditions,1
+2023,Grocery,Pass,1
+2023,Herbal,Out of Business,1
+2023,Herbal,Pass,1
+2023,Hospital,Fail,18
+2023,Hospital,Pass,52
+2023,Hospital,Pass w/ Conditions,8
+2023,Hospital,Not Ready,1
+2023,Hospital,Out of Business,3
+2023,Hot Dog,Pass,1
+2023,Hotel,Pass,4
+2023,Hotel,Pass w/ Conditions,1
+2023,Hotel,Fail,1
+2023,Frozen Dessert,Pass,3
+2023,Frozen Dessert,Fail,1
+2023,Juice Bar,Not Ready,1
+2023,Juice Bar,Out of Business,1
+2023,Liquor,Pass,25
+2023,Liquor,Fail,21
+2023,Liquor,No Entry,4
+2023,Liquor,Out of Business,2
+2023,Liquor,Pass w/ Conditions,3
+2023,Liquor,Not Ready,3
+2023,Butcher,Pass,3
+2023,Butcher,Fail,1
+2023,Long Term Care,Fail,49
+2023,Long Term Care,Pass,108
+2023,Long Term Care,Out of Business,6
+2023,Long Term Care,Pass w/ Conditions,18
+2023,Long Term Care,No Entry,2
+2023,Long Term Care,Not Ready,1
+2023,Banquet,Fail,1
+2023,Banquet,No Entry,1
+2023,Banquet,Pass,1
+2023,Tea,Out of Business,1
+2023,,Pass w/ Conditions,1
+2023,Mobile Food,Fail,1
+2023,Mobile Food,Pass,1
+2023,Mobile Food,Pass,13
+2023,Mobile Food,Pass w/ Conditions,1
+2023,Mobile Food,Fail,1
+2023,Mobile Food,Not Ready,1
+2023,Mobile Food,Out of Business,2
+2023,Mobile Food,Pass,67
+2023,Mobile Food,Pass w/ Conditions,8
+2023,Mobile Food,Not Ready,6
+2023,Mobile Food,Fail,12
+2023,Mobile Food,No Entry,2
+2023,Mobile Food,Business Not Located,1
+2023,Mobile Food,Pass,5
+2023,Mobile Food,Pass,2
+2023,Theater,Out of Business,1
+2023,Music Venue,Fail,5
+2023,Music Venue,Pass,5
+2023,Music Venue,Not Ready,2
+2023,Kiosk,Fail,1
+2023,Kiosk,Pass,2
+2023,Kiosk,No Entry,1
+2023,Newsstand,Pass,1
+2023,Nursing Home,Pass,1
+2023,Nursing Home,Fail,1
+2023,Shakes/Teas,Fail,2
+2023,Shakes/Teas,Pass w/ Conditions,1
+2023,Other,Pass,3
+2023,Other,Fail,3
+2023,Cooking Instruction,Pass,1
+2023,Health Foods,Out of Business,1
+2023,Frozen Desserts,Pass w/ Conditions,1
+2023,Frozen Desserts,Fail,1
+2023,Pantry,Pass,1
+2023,Pantry,Fail,1
+2023,Cooking Instruction,Out of Business,1
+2023,Cooking Instruction,Out of Business,1
+2023,Pop-Up Establishment,Pass,6
+2023,Pop-Up Establishment,Out of Business,1
+2023,Pop-Up Establishment,Not Ready,1
+2023,Pop-Up Establishment,Pass,2
+2023,Pop-Up Establishment,Fail,1
+2023,Pop-Up Establishment,Not Ready,2
+2023,Private School,Pass,7
+2023,Private School,Not Ready,2
+2023,Private School,Pass w/ Conditions,2
+2023,Private School,Out of Business,2
+2023,Private School,Fail,1
+2023,Private School,Pass,1
+2023,Private School,Pass,1
+2023,Public School,Pass,1
+2023,Regulated Business,Pass w/ Conditions,1
+2023,Rehab Center,Pass,1
+2023,Rehab Center,Fail,1
+2023,Restaurant,Pass,6138
+2023,Restaurant,Fail,2559
+2023,Restaurant,Pass w/ Conditions,1800
+2023,Restaurant,No Entry,1009
+2023,Restaurant,Not Ready,242
+2023,Restaurant,Out of Business,916
+2023,Protein Shake Bar,Out of Business,1
+2023,Restaurant,Fail,4
+2023,Restaurant,Pass,2
+2023,Restaurant,Pass,1
+2023,Retail,Fail,1
+2023,Retail,Pass,1
+2023,Retail,Pass,1
+2023,Retail,Fail,1
+2023,Retail,Pass w/ Conditions,1
+2023,Riverwalk,Pass w/ Conditions,1
+2023,Riverwalk,Pass,1
+2023,Rooftop,Pass,1
+2023,Rooftop,Pass,1
+2023,Rooftop,Out of Business,1
+2023,Rooftop,Pass,2
+2023,Rooftop,Out of Business,1
+2023,Rooftop,Pass w/ Conditions,1
+2023,Rooftop,Pass,8
+2023,School,Fail,334
+2023,School,Pass,745
+2023,School,Pass w/ Conditions,98
+2023,School,No Entry,4
+2023,School,Out of Business,27
+2023,School,Not Ready,4
+2023,Senior Day Care,Pass,1
+2023,Senior Day Care,Fail,1
+2023,Shared Kitchen,Pass,20
+2023,Shared Kitchen,Fail,5
+2023,Shared Kitchen,No Entry,5
+2023,Shared Kitchen,Out of Business,3
+2023,Shared Kitchen,Pass w/ Conditions,1
+2023,Shared Kitchen,Pass,34
+2023,Shared Kitchen,Fail,1
+2023,Shared Kitchen,Pass w/ Conditions,6
+2023,Shared Kitchen,Not Ready,1
+2023,Shelter,Pass,6
+2023,Shelter,No Entry,1
+2023,Shelter,Pass w/ Conditions,1
+2023,Shelter,Fail,2
+2023,Special Event,Pass,17
+2023,Special Event,Fail,6
+2023,Special Event,Pass w/ Conditions,3
+2023,Special Event,Out of Business,3
+2023,Special Event,Not Ready,2
+2023,Stadium,Fail,1
+2023,Stadium,Pass w/ Conditions,2
+2023,Stadium,Pass,1
+2023,Store,Out of Business,1
+2023,Supportive Living,Pass,2
+2023,Supportive Living,Fail,2
+2023,Supportive Living,Out of Business,2
+2023,Sushi,Fail,1
+2023,Tavern,Pass,8
+2023,Tavern,Pass w/ Conditions,5
+2023,Tavern,No Entry,2
+2023,Tavern,Fail,2
+2023,Tavern,Pass,2
+2023,Storage,Out of Business,1
+2023,THC INFUSED BAKERY,Pass w/ Conditions,1
+2023,THEATER,Pass,1
+2023,THEATER,Fail,2
+2023,University,Fail,2
+2023,University,Pass,1
+2023,Commissary,Pass w/ Conditions,1
+2023,Commissary,Fail,1
+2023,Warehouse,Pass w/ Conditions,1
+2023,Warehouse,Fail,1
+2023,Wholesale,Pass,4
+2023,Wholesale,Fail,2
+2023,Wholesale,No Entry,1
+2023,Wholesale,Pass w/ Conditions,1
+2023,Rooftop,Out of Business,1
+2023,Youth Housing,Pass,1
+2023,Other,Out of Business,34
+2023,Other,Not Ready,15
+2023,Other,Fail,9
+2023,Other,Pass w/ Conditions,6
+2023,Other,No Entry,8
+2023,Other,Pass,14
+2023,Other,Business Not Located,1
+2024,Rehab Center,Not Ready,1
+2024,Rehab Center,Pass,1
+2024,Adult Day Service,Not Ready,1
+2024,Adult Day Service,Fail,1
+2024,Adult Day Service,Pass,1
+2024,Adult Daycare,Pass,4
+2024,After School Program,Out of Business,1
+2024,After School Program,Pass,1
+2024,After School Program,No Entry,1
+2024,Airport Lounge,Pass w/ Conditions,1
+2024,Assisted Living,Pass w/ Conditions,2
+2024,Assisted Living,Pass,1
+2024,Assisted Living,Fail,1
+2024,Assisted Living Senior Care,Pass,1
+2024,Bakery,Fail,53
+2024,Bakery,Pass,139
+2024,Bakery,No Entry,16
+2024,Bakery,Pass w/ Conditions,36
+2024,Bakery,Out of Business,31
+2024,Bakery,Not Ready,9
+2024,Banquet,Pass,3
+2024,Banquet,Out of Business,1
+2024,Banquet,No Entry,7
+2024,Banquet,Pass,2
+2024,Banquet,Fail,1
+2024,Banquet,Pass,3
+2024,Banquet,No Entry,5
+2024,Banquet,Pass w/ Conditions,1
+2024,Banquet,Pass,1
+2024,Banquet,Pass w/ Conditions,1
+2024,Banquet,No Entry,1
+2024,Banquet,Pass,1
+2024,Banquet,Pass,1
+2024,After School Program,Out of Business,1
+2024,Brewery,Fail,1
+2024,Brewery,Pass,1
+2024,Cafeteria,Out of Business,1
+2024,Cafeteria,Pass,1
+2024,Liquor,Out of Business,1
+2024,Catering,Fail,13
+2024,Catering,Pass,66
+2024,Catering,Pass w/ Conditions,11
+2024,Catering,Out of Business,7
+2024,Catering,No Entry,28
+2024,Catering,Out of Business,1
+2024,Catering,No Entry,1
+2024,Catering,Business Not Located,1
+2024,Charter School,Pass,1
+2024,Charter School,Pass w/ Conditions,3
+2024,Charter School,Pass,8
+2024,Charter School,Fail,4
+2024,Charter School,Out of Business,2
+2024,Children's Services Facility,Pass w/ Conditions,1
+2024,Children's Services Facility,Out of Business,1
+2024,Children's Services Facility,Out of Business,23
+2024,Children's Services Facility,Pass,455
+2024,Children's Services Facility,Pass w/ Conditions,48
+2024,Children's Services Facility,Fail,107
+2024,Children's Services Facility,No Entry,27
+2024,Children's Services Facility,Not Ready,7
+2024,Children's Services Facility,Fail,1
+2024,Children's Services Facility,Pass,1
+2024,Church,Pass w/ Conditions,1
+2024,Church,Pass,1
+2024,Church,Pass,2
+2024,Church,Fail,1
+2024,Church,Pass,1
+2024,Coffee,Out of Business,1
+2024,Coffee,Pass,1
+2024,Coffee,Pass,1
+2024,Coffee,Pass w/ Conditions,1
+2024,Commissary,Out of Business,1
+2024,Commissary,Pass w/ Conditions,2
+2024,Commissary,Pass w/ Conditions,1
+2024,Convenience,Out of Business,1
+2024,Convenience,Pass,1
+2024,Cooking Instruction,No Entry,1
+2024,Cooking Instruction,Pass,1
+2024,Cooking Instruction,Pass,1
+2024,Cooking Instruction,Pass,4
+2024,Cooking Instruction,No Entry,1
+2024,Charter School,Pass,1
+2024,Cooking Instruction,Pass w/ Conditions,1
+2024,Cooking Instruction,Pass,1
+2024,Day Care,Pass,1
+2024,Day Care,Pass,4
+2024,Day Care,Fail,1
+2024,Day Care,Out of Business,1
+2024,Day Care,Pass,76
+2024,Day Care,Not Ready,3
+2024,Day Care,Out of Business,2
+2024,Day Care,Fail,21
+2024,Day Care,Pass w/ Conditions,8
+2024,Day Care,No Entry,4
+2024,Day Care,No Entry,3
+2024,Day Care,Pass,9
+2024,Day Care,Pass w/ Conditions,2
+2024,Day Care,Fail,2
+2024,Day Care,Pass,1
+2024,Day Care,Fail,62
+2024,Day Care,Pass,187
+2024,Day Care,Out of Business,7
+2024,Day Care,Pass w/ Conditions,14
+2024,Day Care,No Entry,5
+2024,Day Care,Pass,11
+2024,Day Care,Out of Business,1
+2024,Day Care,Fail,3
+2024,Day Care,Pass,1
+2024,Dining Hall,Pass,2
+2024,Distribution Center,Out of Business,1
+2024,Donut Shop,Out of Business,1
+2024,Donut Shop,Pass,1
+2024,Entertainment,Pass w/ Conditions,1
+2024,Entertainment,Fail,1
+2024,Event Center,Pass,1
+2024,Event Center,No Entry,1
+2024,Event Center,Pass w/ Conditions,1
+2024,Pantry,Pass,1
+2024,Pantry,Pass,1
+2024,Pantry,Fail,1
+2024,Gas Station,Pass,10
+2024,Gas Station,Fail,3
+2024,Gas Station,Out of Business,3
+2024,Gas Station,Pass,1
+2024,Gas Station,Fail,1
+2024,Golden Diner,Pass,38
+2024,Golden Diner,Fail,6
+2024,Golden Diner,Pass w/ Conditions,7
+2024,Golden Diner,No Entry,1
+2024,Golden Diner,Out of Business,1
+2024,Greenhouse,Not Ready,1
+2024,Grocery,Pass,1
+2024,Grocery,Pass,937
+2024,Grocery,Pass w/ Conditions,253
+2024,Grocery,Fail,356
+2024,Grocery,Not Ready,76
+2024,Grocery,Out of Business,240
+2024,Grocery,No Entry,31
+2024,Grocery,Business Not Located,1
+2024,Grocery,Pass,1
+2024,Grocery,Fail,2
+2024,Grocery,Pass,1
+2024,Grocery,Pass,3
+2024,Grocery,Out of Business,1
+2024,Grocery,Pass w/ Conditions,1
+2024,Grocery,Pass w/ Conditions,1
+2024,Grocery,Pass,1
+2024,Grocery,Pass,1
+2024,Grocery,Pass,1
+2024,Grocery,Fail,1
+2024,Grocery,Pass w/ Conditions,1
+2024,Fitness Center,Pass w/ Conditions,1
+2024,Herbal,Pass w/ Conditions,1
+2024,Herbal,Pass,2
+2024,Herbal,Out of Business,2
+2024,Herbal,Fail,1
+2024,Hospital,Pass,51
+2024,Hospital,Pass w/ Conditions,10
+2024,Hospital,Fail,9
+2024,Hospital,Out of Business,3
+2024,Hot Dog,Pass w/ Conditions,1
+2024,Hotel,Pass,4
+2024,Hotel,Fail,1
+2024,Hotel,Out of Business,1
+2024,Hotel,Pass w/ Conditions,1
+2024,Frozen Dessert,Out of Business,1
+2024,Frozen Dessert,Out of Business,1
+2024,Frozen Dessert,Pass,1
+2024,Juice Bar,Not Ready,1
+2024,Liquor,Pass,26
+2024,Liquor,Not Ready,10
+2024,Liquor,Pass w/ Conditions,13
+2024,Liquor,Out of Business,10
+2024,Liquor,Fail,14
+2024,Liquor,Out of Business,1
+2024,Butcher,Pass w/ Conditions,1
+2024,Butcher,Pass,1
+2024,Butcher,Fail,1
+2024,Butcher,Not Ready,1
+2024,Butcher,Pass w/ Conditions,1
+2024,Butcher,Pass,1
+2024,Butcher,Fail,1
+2024,Butcher,Out of Business,1
+2024,Butcher,Pass,1
+2024,Butcher,Fail,1
+2024,Long Term Care,Out of Business,10
+2024,Long Term Care,Pass w/ Conditions,33
+2024,Long Term Care,Pass,101
+2024,Long Term Care,Fail,49
+2024,Long Term Care,No Entry,4
+2024,Banquet,No Entry,2
+2024,Mobile Food,Pass,1
+2024,Mobile Food,Pass,1
+2024,Mobile Food,Pass,11
+2024,Mobile Food,Pass,69
+2024,Mobile Food,Fail,23
+2024,Mobile Food,Pass w/ Conditions,9
+2024,Mobile Food,No Entry,2
+2024,Mobile Food,Out of Business,2
+2024,Mobile Food,Business Not Located,1
+2024,Mobile Food,Pass,2
+2024,Mobile Food,Out of Business,1
+2024,Mobile Food,Pass w/ Conditions,1
+2024,Mobile Food,Pass,6
+2024,Mobile Food,Not Ready,1
+2024,Mobile Food,Fail,1
+2024,Mobile Food,Out of Business,1
+2024,Music Venue,Pass w/ Conditions,1
+2024,Music Venue,Out of Business,1
+2024,Kiosk,Fail,3
+2024,Kiosk,Pass,2
+2024,Kiosk,Pass w/ Conditions,1
+2024,Nursing Home,Pass,1
+2024,Nursing Home,Out of Business,1
+2024,Cooking Instruction,No Entry,2
+2024,Frozen Desserts,Pass,1
+2024,Pop-Up Establishment,Out of Business,3
+2024,Pop-Up Establishment,Pass,2
+2024,Pop-Up Establishment,Out of Business,1
+2024,Pop-Up Establishment,Pass w/ Conditions,1
+2024,Popcorn,Out of Business,1
+2024,Private School,Pass,6
+2024,Private School,Pass w/ Conditions,2
+2024,Private School,Fail,1
+2024,Private School,Fail,1
+2024,Private School,Out of Business,1
+2024,Private School,Pass,1
+2024,Private School,Pass,1
+2024,Private School,Fail,1
+2024,Public School,Pass,1
+2024,Regulated Business,Pass,1
+2024,Rehab Center,Pass,1
+2024,Rehab Center,Fail,1
+2024,Restaurant,Pass w/ Conditions,1986
+2024,Restaurant,Pass,6749
+2024,Restaurant,Fail,2400
+2024,Restaurant,No Entry,1213
+2024,Restaurant,Out of Business,1007
+2024,Restaurant,Not Ready,260
+2024,Restaurant,Business Not Located,3
+2024,Restaurant,Pass,2
+2024,Restaurant,Fail,1
+2024,Restaurant,Pass,1
+2024,Rooftop,Pass,1
+2024,Rooftop,Pass,1
+2024,Rooftop,Pass w/ Conditions,1
+2024,Rooftop,Pass,2
+2024,Rooftop,Pass,8
+2024,School,Fail,288
+2024,School,Pass,706
+2024,School,Pass w/ Conditions,117
+2024,School,No Entry,8
+2024,School,Out of Business,14
+2024,Senior Day Care,Fail,1
+2024,Senior Day Care,Pass,1
+2024,Shared Kitchen,Out of Business,5
+2024,Shared Kitchen,Pass,21
+2024,Shared Kitchen,Pass w/ Conditions,5
+2024,Shared Kitchen,No Entry,4
+2024,Shared Kitchen,Fail,7
+2024,Shared Kitchen,Not Ready,1
+2024,Shared Kitchen,Pass,55
+2024,Shared Kitchen,Fail,5
+2024,Shared Kitchen,Out of Business,2
+2024,Shared Kitchen,Pass w/ Conditions,10
+2024,Shared Kitchen,Fail,1
+2024,Shared Kitchen,Pass,1
+2024,Shelter,Pass,1
+2024,Shelter,Fail,1
+2024,Shelter,Pass,5
+2024,Shelter,Pass w/ Conditions,1
+2024,Shelter,Fail,5
+2024,Shelter,Out of Business,1
+2024,Special Event,Fail,4
+2024,Special Event,Pass,19
+2024,Special Event,No Entry,2
+2024,Special Event,Pass w/ Conditions,1
+2024,Stadium,Pass w/ Conditions,2
+2024,Stadium,Pass,1
+2024,Stadium,Fail,1
+2024,Store,Pass,2
+2024,Supportive Living,No Entry,2
+2024,Supportive Living,Pass,2
+2024,Tavern,Out of Business,3
+2024,Tavern,Pass w/ Conditions,3
+2024,Tavern,Pass,5
+2024,Tavern,No Entry,1
+2024,Tavern,Fail,5
+2024,Cooking Instruction,Pass,1
+2024,THC INFUSED BAKERY,Pass,1
+2024,THC INFUSED BAKERY,Fail,1
+2024,THC INFUSED BAKERY,No Entry,1
+2024,THEATER,Fail,1
+2024,THEATER,Pass w/ Conditions,2
+2024,THEATER,Out of Business,1
+2024,University,Pass,2
+2024,University,Fail,1
+2024,Commissary,Pass,1
+2024,VFW Hall,Pass,2
+2024,VFW Hall,Out of Business,1
+2024,VFW Hall,Fail,2
+2024,Wholesale,Pass,5
+2024,Wholesale,Fail,1
+2024,Wholesale,Not Ready,1
+2024,Wholesale,Pass,1
+2024,Youth Housing,Pass,1
+2024,Other,Pass,17
+2024,Other,Out of Business,30
+2024,Other,Not Ready,34
+2024,Other,No Entry,8
+2024,Other,Business Not Located,1
+2024,Other,Fail,5
+2024,Other,Pass w/ Conditions,1
+2025,After School Program,Pass,1
+2025,Assisted Living Senior Care,Pass,1
+2025,Assisted Living Senior Care,Fail,1
+2025,Bakery,Pass w/ Conditions,11
+2025,Bakery,Pass,48
+2025,Bakery,Not Ready,2
+2025,Bakery,Fail,12
+2025,Bakery,No Entry,4
+2025,Bakery,Out of Business,6
+2025,Banquet,Fail,1
+2025,Banquet,Pass,1
+2025,Banquet,No Entry,1
+2025,Banquet,Pass,1
+2025,Banquet,No Entry,1
+2025,Butcher,Fail,1
+2025,Butcher,Pass,1
+2025,Catering,Pass,16
+2025,Catering,No Entry,6
+2025,Catering,Pass w/ Conditions,1
+2025,Catering,Fail,1
+2025,Charter School,Fail,1
+2025,Charter School,Out of Business,2
+2025,Charter School,Pass,4
+2025,Children's Services Facility,Pass,160
+2025,Children's Services Facility,Out of Business,5
+2025,Children's Services Facility,Pass w/ Conditions,16
+2025,Children's Services Facility,Fail,27
+2025,Children's Services Facility,No Entry,6
+2025,Church,Fail,1
+2025,Church,Pass,1
+2025,Cooking Instruction,No Entry,1
+2025,Cooking Instruction,Pass,1
+2025,Day Care,Pass,5
+2025,Day Care,Fail,1
+2025,Day Care,Pass,27
+2025,Day Care,Out of Business,1
+2025,Day Care,Fail,9
+2025,Day Care,No Entry,1
+2025,Day Care,Pass w/ Conditions,2
+2025,Day Care,Pass,3
+2025,Day Care,Fail,1
+2025,Day Care,Pass,1
+2025,Day Care,Pass,57
+2025,Day Care,Out of Business,1
+2025,Day Care,Pass w/ Conditions,5
+2025,Day Care,Fail,15
+2025,Day Care,No Entry,3
+2025,Day Care,Fail,1
+2025,Day Care,Pass,1
+2025,Dining Hall,Pass,1
+2025,Gas Station,Out of Business,1
+2025,Gas Station,Pass,2
+2025,Gas Station,Fail,1
+2025,Gas Station,Pass,1
+2025,Gas Station,Not Ready,1
+2025,Golden Diner,Pass,17
+2025,Golden Diner,Fail,4
+2025,Golden Diner,Pass w/ Conditions,5
+2025,Grocery,Out of Business,60
+2025,Grocery,Pass,273
+2025,Grocery,Fail,106
+2025,Grocery,Pass w/ Conditions,52
+2025,Grocery,Not Ready,19
+2025,Grocery,No Entry,11
+2025,Grocery,Pass,1
+2025,Grocery,Pass,1
+2025,Grocery,Out of Business,1
+2025,Grocery,Pass,1
+2025,Herbal,Fail,2
+2025,Herbal,Pass,2
+2025,Herbal,No Entry,1
+2025,Hospital,Pass,15
+2025,Hospital,Out of Business,2
+2025,Hospital,Fail,2
+2025,Hotel,Fail,3
+2025,Hotel,Pass w/ Conditions,1
+2025,Hotel,Pass,2
+2025,Frozen Dessert,Fail,1
+2025,Frozen Dessert,Pass,1
+2025,Juice Bar,Pass w/ Conditions,1
+2025,Liquor,Pass,17
+2025,Liquor,Out of Business,1
+2025,Liquor,Pass w/ Conditions,3
+2025,Liquor,Not Ready,1
+2025,Liquor,Fail,8
+2025,Liquor,No Entry,3
+2025,Liquor,Pass,1
+2025,Liquor,Fail,1
+2025,Long Term Care,Pass,46
+2025,Long Term Care,Pass w/ Conditions,13
+2025,Long Term Care,Fail,22
+2025,Long Term Care,Out of Business,3
+2025,Long Term Care,No Entry,1
+2025,Mobile Food,Pass,1
+2025,Mobile Food,Pass,1
+2025,Mobile Food,Pass,3
+2025,Mobile Food,Fail,11
+2025,Mobile Food,Pass,46
+2025,Mobile Food,Pass w/ Conditions,6
+2025,Mobile Food,No Entry,1
+2025,Mobile Food,Not Ready,1
+2025,Mobile Food,Out of Business,1
+2025,Mobile Food,Pass,3
+2025,Mobile Food,Fail,1
+2025,Mobile Food,Pass,5
+2025,Mobile Food,Not Ready,1
+2025,Mobile Food,Pass w/ Conditions,1
+2025,Theater,Not Ready,2
+2025,Theater,Fail,2
+2025,Theater,Pass,2
+2025,Kiosk,Fail,1
+2025,Nonprofit,No Entry,1
+2025,Nursing Home,Pass,1
+2025,Frozen Desserts,Pass,1
+2025,Pop-Up Establishment,Pass,1
+2025,Pop-Up Establishment,Pass,1
+2025,Public School,Fail,1
+2025,Public School,Pass,1
+2025,Regulated Business,Pass,1
+2025,Restaurant,Out of Business,229
+2025,Restaurant,No Entry,341
+2025,Restaurant,Pass,2660
+2025,Restaurant,Fail,811
+2025,Restaurant,Pass w/ Conditions,581
+2025,Restaurant,Not Ready,91
+2025,Restaurant,Pass,1
+2025,School,Pass,389
+2025,School,Pass w/ Conditions,55
+2025,School,Fail,158
+2025,School,Out of Business,3
+2025,School,No Entry,7
+2025,Shared Kitchen,Pass,9
+2025,Shared Kitchen,Fail,1
+2025,Shared Kitchen,No Entry,2
+2025,Shared Kitchen,Out of Business,1
+2025,Shared Kitchen,Fail,1
+2025,Shared Kitchen,Pass w/ Conditions,1
+2025,Shared Kitchen,Pass,18
+2025,Special Event,No Entry,2
+2025,Special Event,Pass,3
+2025,Special Event,Fail,1
+2025,Supportive Living,Fail,2
+2025,Supportive Living,Pass,2
+2025,Tavern,Pass,2
+2025,Tavern,Not Ready,1
+2025,Unlicensed,Fail,1
+2025,Warehouse,Pass,1
+2025,Wholesale,Pass,5
+2025,Wholesale,Fail,1
+2025,Wholesale,No Entry,1
+2025,Wholesale,Not Ready,1
+2025,Youth Housing,Out of Business,1
+2025,Other,Pass,7
+2025,Other,Fail,3
+2025,Other,Not Ready,31
+2025,Other,Out of Business,5
+2025,Other,Pass w/ Conditions,2
+2025,Other,No Entry,5
+,,,0
